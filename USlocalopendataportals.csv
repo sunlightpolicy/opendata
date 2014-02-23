@@ -15,12 +15,12 @@ Boston,MA,609942,Government,No,http://www.cityofboston.gov/doit/databoston/app/d
 Boston GIS Data Hub,MA,609942,Government,No,https://data.cityofboston.gov/,US City or County
 California,CA,37691912,Government,No,http://data.ca.gov/,US State
 Cambridge GIS,MA,105162,Government,in progress,http://cambridgegis.github.io/gisdata.html,US City or County
-Champaign, IL,39795,Government,No,https://data.illinois.gov/champaign,US City or County
+Champaign,IL,39795,Government,No,https://data.illinois.gov/champaign,US City or County
 Charleston,SC,125583,Government,No,http://gis.charleston-sc.gov/dataportal/,US City or County
 Chicago,IL,2707120,Government,Yes,https://data.cityofchicago.org,US City or County  
 Chicago [Metro],IL,9729825,Government,Yes,https://www.metrochicagodata.org,US City or County
 Cincinnati,OH,296223,Community,No,http://www.opendatacincy.org/,US City or County
-Colorado,CO,5116796,Government,No,http://data.colorado.gov,US State
+Colorado,CO,5116796,Government,No,https://data.colorado.gov,US State
 Colorado,CO,5116796,Government,No,http://tops.state.co.us,US State
 Colorado [Open Colorado],CO,5116796,Community,No,http://data.opencolorado.org,US State
 Connecticut,CT,3580709,Government,No,http://transparency.ct.gov/html/main.asp,US State
@@ -60,7 +60,7 @@ Louisville,KY,592529,Government,Yes,http://portal.louisvilleky.gov/service/data,
 Madison,WI,236901,Government,Yes,https://data.cityofmadison.com,US City or County  
 Maine,ME,462257,Government,No,http://www.maine.gov/data/,US State
 Maine,ME,462257,Government,No,http://opencheckbook.maine.gov/transparency,US State
-Maryland,MD,3792647,Government,in progress, spending.dbm.maryland.gov,US State
+Maryland,MD,3792647,Government,in progress,http://spending.dbm.maryland.gov,US State
 Maryland,MD,3792647,Government,in progress,http://data.maryland.gov,US State
 Massachusetts,MA,6587536,Government,No,http://www.mass.gov/data/,US State
 Massachusetts,MA,6587536,Government,No,http://www.mass.gov/transparency,US State
@@ -73,7 +73,7 @@ Missouri [Accountability Portal],MS,6010688,Government,No,http://mapyourtaxes.mo
 Montana,MT,998199,Government,No,http://transparency.mt.gov,US State
 Montgomery County,MD,455761,Government,Yes,https://data.montgomerycountymd.gov/,US City or County
 Nebraska,NB,1842641,Government,in progress,http://www.nebraska.gov/data/,US State
-Nebraska,NE,1842641,Government,in progress, nebraskaspending.gov,US State
+Nebraska,NE,1842641,Government,in progress,http://nebraskaspending.gov,US State
 Nevada,NV,2723322,Government,No,http://open.nv.gov,US State
 New Hampshire,NH,1318194,Community,Yes,http://nhopengov.org/,US State
 New Hampshire,NH,1318194,Government,Yes,http://www.nh.gov/transparentnh,US State
@@ -90,7 +90,7 @@ New York [State Data Center],NY,19465197,Government,Yes,http://esd.ny.gov/NYSDat
 New York [State Senate],NY,19465197,Government,Yes,http://www.nysenate.gov/opendata/,Other State Related
 New York City,NY,8244910,Government,Yes,https://www.opendatanyc.com,US City or County
 Newark,NJ,277540,Goverment,No,http://newarknj.patch.com/groups/politics-and-elections/p/city-of-newark-rolls-out-test-version-of-new-web-site,US City
-Norfolk, VA,245782,Public,No,http://data.codeforhamptonroads.org/organization/city-of-norfolk,US City or County
+Norfolk,VA,245782,Public,No,http://data.codeforhamptonroads.org/organization/city-of-norfolk,US City or County
 North Carolina,NC,9656401,Government,No,http://www.ncopenbook.gov,US State
 North Carolina [OpenBook],NC,9656401,Government,No,http://www.ncopenbook.gov/NCOpenBook/,US City or County
 North Dakota,ND,683932,Government,No,http://data.share.nd.gov/pr,US State
@@ -98,7 +98,7 @@ North Dakota GIS Hub,ND,683932,Government,No,http://www.nd.gov/gis/,Other State 
 Oakland,CA,389397,Government,Yes,https://data.oaklandnet.com,US City or County 
 Oakland,CA,389397,Community,Yes,http://data.openoakland.org/,US City or County 
 Ohio,OH,11544951,Government,in progress,http://www.sos.state.oh.us/betterLives.aspx,US State
-Ohio,OH,11544951,Government,in progress, transparency.ohio.gov,US State
+Ohio,OH,11544951,Government,in progress,http://transparency.ohio.gov,US State
 Oklahoma,OK,3791508,Government,No,http://www.ok.gov/about/data.html,US State
 Oklahoma,OK,3791508,Government,No,https://data.ok.gov,US State
 Oregon,OR,3871859,Government,No,http://data.oregon.gov,US State
@@ -131,7 +131,7 @@ Tennessee,TN,6403353,Government,No,http://www.tn.gov/opengov/,US State
 Texas,TX,25674681,Government,No,http://www.texas.gov/en/Connect/Pages/open-data.aspx,US State
 Texas,TX,25674681,Government,No,http://www.texastransparency.org,US State
 Texas [Comptroller Transparency],TX,25674681,Government,No,http://www.texastransparency.org/opendata/index.php,Other State Related
-Tulsa, OK,14741, Government,Yes,https://www.cityoftulsa.org/our-city/open-tulsa/open-tulsa-dataset-list.aspx,US City or County
+Tulsa,OK,14741,Government,Yes,https://www.cityoftulsa.org/our-city/open-tulsa/open-tulsa-dataset-list.aspx,US City or County
 Utah,UT,2817222,Government,Yes,http://www.utah.gov/transparency,US State
 Utah,UT,2817222,Government,Yes,http://www.utah.gov/data/,US State
 Vermont,VT,626431,Government,No,http://spotlight.vermont.gov,US State
@@ -140,7 +140,7 @@ Virginia,VA,8096604,Government,No,http://data.openva.com,US State
 Virginia Beach,VA,447021,Public,No,http://data.codeforhamptonroads.org/organization/city-of-virginia-beach,US City or County
 Virginia Data Point,VA,8096604,Government,No,http://datapoint.apa.virginia.gov/,US State
 Wake County,NC,929780,Government,No,http://www.wakegov.com/data/Pages/default.aspx,US City or County
-Washington,WA,6830038,Government,in progress, fiscal.wa.gov,US State
+Washington,WA,6830038,Government,in progress,http://fiscal.wa.gov,US State
 Washington,WA,6830038,Government,No,https://data.wa.gov,US State
 "Washington, D.C.",DC,797983,Government,Yes,http://data.dc.gov/,US District 
 "Washington, D.C. [Open Data DC]",DC,797983,Community,Yes,http://www.opendatadc.org/,US District 
