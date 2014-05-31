@@ -12,7 +12,7 @@
       },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [
+        "coordinates": [  
           [
             [
               -103.064657,
@@ -72878,6 +72878,22 @@
         "coordinates": [
           -84.407958984375,
           42.26511445833756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "5/31/2014",
+        "Legal Means": "Executive Order",
+        "Policy URL": "https://github.com/cityofchattanooga/Chattanooga-Open-Data-Policy",
+        "State": "TN",
+        "City": "Chattanooga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3096801, 35.0456297
         ]
       }
     }
