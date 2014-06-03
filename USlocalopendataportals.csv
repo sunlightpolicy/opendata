@@ -60,8 +60,8 @@ Louisville,KY,592529,Government,Yes,http://portal.louisvilleky.gov/service/data,
 Madison,WI,236901,Government,Yes,https://data.cityofmadison.com,US City or County  
 Maine,ME,462257,Government,No,http://www.maine.gov/data/,US State
 Maine,ME,462257,Government,No,http://opencheckbook.maine.gov/transparency,US State
-Maryland,MD,3792647,Government,in progress,http://spending.dbm.maryland.gov,US State
-Maryland,MD,3792647,Government,in progress,http://data.maryland.gov,US State
+Maryland,MD,3792647,Government,Yes,http://spending.dbm.maryland.gov,US State
+Maryland,MD,3792647,Government,Yes,http://data.maryland.gov,US State
 Massachusetts,MA,6587536,Government,No,http://www.mass.gov/data/,US State
 Massachusetts,MA,6587536,Government,No,http://www.mass.gov/transparency,US State
 Michigan,MI,9876187,Government,No,http://www.michigan.gov/data/,US State
