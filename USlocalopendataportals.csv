@@ -24,7 +24,7 @@ Chicago [Metro],IL,9729825,Government,Yes,https://www.metrochicagodata.org,US Ci
 Cincinnati,OH,296223,Community,No,http://www.opendatacincy.org/,US City or County
 Colorado,CO,5116796,Government,No,https://data.colorado.gov,US State
 Colorado,CO,5116796,Government,No,http://tops.state.co.us,US State
-Colorado [Open Colorado],CO,5116796,Community,No,http://data.opencolorado.org,US State
+Colorado,CO,5116796,Community,No,http://data.opencolorado.org,US State
 Connecticut,CT,3580709,Government,No,http://transparency.ct.gov/html/main.asp,US State
 Connecticut,CT,3580709,Government,No,http://www.osc.ct.gov/openct,US State
 Cook County,IL,5217080,Government,Yes,https://cookcounty.socrata.com,US City or County 
@@ -32,12 +32,12 @@ De Leon,TX,2233,Government,No,https://deleon.socrata.com,US City or County
 Delaware,DL,907135,Government,No,http://www.delaware.gov/data/,US State
 Delaware,DE,907135,Government,No,http://transparency.delaware.gov,US State
 Denver,CO,600024,Government,No,http://data.denvergov.org,US City or County  
-Denver Regional Council,CO,3157520,Community,No,http://data.opencolorado.org/group/drcog,Other State Related
+Denver Regional Council,CO,3157520,Regional,No,http://data.opencolorado.org/group/drcog,Other State Related
 Florida,FL,19057542,Government,No,http://www.floridahasarighttoknow.com/,US State
 Florida,FL,19057542,Government,No,http://www.myfloridacfo.com/transparency,US State
 Gainesville,FL,125326,Government,No,https://data.cityofgainesville.org/,US City or County
 Georgia,GA,9815210,Government,No,http://www.open.georgia.gov/,US State
-Gilpin County,CO,5467,Community,No,http://data.opencolorado.org/group/gilpin-county,US City or County
+Gilpin County,CO,5467,Regional,No,http://data.opencolorado.org/group/gilpin-county,US City or County
 Hawaii,HI,1374810,Government,Yes,http://hawaii.gov/spo2,US State
 Hawaii,HI,1374810,Government,Yes,https://data.hawaii.gov,US State
 Hawaii GIS,HI,1374810,Government,Yes,http://gis.hicentral.com/,Other State Related
@@ -146,8 +146,8 @@ Virginia Data Point,VA,8096604,Government,No,http://datapoint.apa.virginia.gov/,
 Wake County,NC,929780,Government,No,http://www.wakegov.com/data/Pages/default.aspx,US City or County
 Washington,WA,6830038,Government,in progress,http://fiscal.wa.gov,US State
 Washington,WA,6830038,Government,No,https://data.wa.gov,US State
-"Washington, D.C.",DC,797983,Government,Yes,http://data.dc.gov/,US District 
-"Washington, D.C. [Open Data DC]",DC,797983,Community,Yes,http://www.opendatadc.org/,US District 
+Washington, D.C.,DC,797983,Government,Yes,http://data.dc.gov/,US District 
+Washington, D.C.,DC,797983,Community,Yes,http://www.opendatadc.org/,US District 
 Weatherford,TX,25557,Government,Yes,http://tx-weatherford2.civicplus.com/index.aspx?NID=1448,US City or County
 Wellington,FL,57163,Government,No,https://data.wellingtonfl.gov/,US City or County
 West Virginia,WV,1855364,Government,No,http://transparencywv.org,US State
