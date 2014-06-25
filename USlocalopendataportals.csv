@@ -110,7 +110,7 @@ Palo Alto,CA,64408,Government,No,http://data.cityofpaloalto.org/,US City or Coun
 Pennsylvania,PA,12742886,Government,No,http://www.pennwatch.pa.gov,US State
 Pennsylvania [Geodata],PA,12702379,University,No,http://www.pasda.psu.edu/uci/SearchResults.aspx?shortcutKeyword=base&searchType=shortcut&sessionID=50734710420131023181913,US State
 Philadelphia,PA,1514456,Community,Yes,http://www.opendataphilly.org/,US State
-Portland,OR,583778,Community,Yes,http://civicapps.org/datasets/,US City or County
+Portland,OR,583778,Government,Yes,http://civicapps.org/datasets/,US City or County
 Providence,RI,583778,Government,Yes,https://data.providenceri.gov/,US City or County
 Raleigh,NC,395091,Government,Yes,https://data.raleighnc.gov,US City or County
 Redmond,WA,26646,Government,No,https://data.redmond.gov,US City or County
