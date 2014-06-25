@@ -18,6 +18,7 @@ Cambridge GIS,MA,105162,Government,in progress,http://cambridgegis.github.io/gis
 Champaign,IL,39795,Government,No,https://data.illinois.gov/champaign,US City or County
 Charleston,SC,125583,Government,No,http://gis.charleston-sc.gov/dataportal/,US City or County
 Chattanooga,TN,170136,Government,Yes,http://data.chattlibrary.org,US City or County
+Chattanooga,TN,170136,Community,Yes,https://chattanooga.demo.socrata.com/,US City or County
 Chicago,IL,2707120,Government,Yes,https://data.cityofchicago.org,US City or County  
 Chicago [Metro],IL,9729825,Government,Yes,https://www.metrochicagodata.org,US City or County
 Cincinnati,OH,296223,Community,No,http://www.opendatacincy.org/,US City or County
