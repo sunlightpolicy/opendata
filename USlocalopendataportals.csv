@@ -8,7 +8,7 @@ Arkansas,AR,2937979,Government,No,http://transparency.arkansas.gov,US State
 Arvada,CO,83433,Government,No,http://arvada.org/opendata/,US City or County
 Asheville,NC,84458,Government,No,http://opendatacatalog.ashevillenc.gov/,US City or County
 Atlanta,GA,419250,Government,No,http://gis.atlantaga.gov/,US City or County
-Atlanta Regional Commission,GA,4142300,http://www.atlantaregional.com/info-center/gis-data-maps/gis-data,US Regional GIS
+Atlanta Regional Commission,GA,4142300,Government,,http://www.atlantaregional.com/info-center/gis-data-maps/gis-data,US Regional GIS
 Austin,TX,820611,Government,Yes,https://data.austintexas.gov,US City or County  
 Baltimore,MD,620210,Government,No,https://data.baltimorecity.gov,US City or County  
 Belleville,IL,3951,Government,No,https://data.illinois.gov/belleville,US City or County
@@ -66,6 +66,7 @@ Louisville,KY,592529,Government,Yes,http://portal.louisvilleky.gov/service/data,
 Madison,WI,236901,Government,Yes,https://data.cityofmadison.com,US City or County  
 Maine,ME,462257,Government,No,http://www.maine.gov/data/,US State
 Maine,ME,462257,Government,No,http://opencheckbook.maine.gov/transparency,US State
+Marietta,GA,56602,,Yes,http://www.arcgis.com/home/item.html?id=ed925a2f26704d6493b779b4fbd28753,US City GIS
 Maryland,MD,3792647,Government,Yes,http://spending.dbm.maryland.gov,US State
 Maryland,MD,3792647,Government,Yes,http://data.maryland.gov,US State
 Massachusetts,MA,6587536,Government,No,http://www.mass.gov/data/,US State
