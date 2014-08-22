@@ -17,12 +17,14 @@ California,CA,37691912,Government,No,http://data.ca.gov/,US State
 Cambridge GIS,MA,105162,Government,in progress,http://cambridgegis.github.io/gisdata.html,US City or County
 Champaign,IL,39795,Government,No,https://data.illinois.gov/champaign,US City or County
 Charleston,SC,125583,Government,No,http://gis.charleston-sc.gov/dataportal/,US City or County
+Chattanooga,TN,170136,Government,Yes,http://data.chattlibrary.org,US City or County
+Chattanooga,TN,170136,Community,Yes,https://chattanooga.demo.socrata.com/,US City or County
 Chicago,IL,2707120,Government,Yes,https://data.cityofchicago.org,US City or County  
 Chicago [Metro],IL,9729825,Government,Yes,https://www.metrochicagodata.org,US City or County
 Cincinnati,OH,296223,Community,No,http://www.opendatacincy.org/,US City or County
 Colorado,CO,5116796,Government,No,https://data.colorado.gov,US State
 Colorado,CO,5116796,Government,No,http://tops.state.co.us,US State
-Colorado [Open Colorado],CO,5116796,Community,No,http://data.opencolorado.org,US State
+Colorado,CO,5116796,Community,No,http://data.opencolorado.org,US State
 Connecticut,CT,3580709,Government,No,http://transparency.ct.gov/html/main.asp,US State
 Connecticut,CT,3580709,Government,No,http://www.osc.ct.gov/openct,US State
 Cook County,IL,5217080,Government,Yes,https://cookcounty.socrata.com,US City or County 
@@ -31,12 +33,12 @@ Delaware,DE,907135,Government,No,http://www.delaware.gov/data/,US State
 Delaware,DE,907135,Government,No,http://transparency.delaware.gov,US State
 Delaware,DE,907135,Government,Yes,https://dataexchange.gis.delaware.gov/,US State GIS
 Denver,CO,600024,Government,No,http://data.denvergov.org,US City or County  
-Denver Regional Council,CO,3157520,Community,No,http://data.opencolorado.org/group/drcog,Other State Related
+Denver Regional Council,CO,3157520,Regional,No,http://data.opencolorado.org/group/drcog,Other State Related
 Florida,FL,19057542,Government,No,http://www.floridahasarighttoknow.com/,US State
 Florida,FL,19057542,Government,No,http://www.myfloridacfo.com/transparency,US State
 Gainesville,FL,125326,Government,No,https://data.cityofgainesville.org/,US City or County
 Georgia,GA,9815210,Government,No,http://www.open.georgia.gov/,US State
-Gilpin County,CO,5467,Community,No,http://data.opencolorado.org/group/gilpin-county,US City or County
+Gilpin County,CO,5467,Regional,No,http://data.opencolorado.org/group/gilpin-county,US City or County
 Hawaii,HI,1374810,Government,Yes,http://hawaii.gov/spo2,US State
 Hawaii,HI,1374810,Government,Yes,https://data.hawaii.gov,US State
 Hawaii GIS,HI,1374810,Government,Yes,http://gis.hicentral.com/,Other State Related
@@ -50,7 +52,7 @@ Indiana,IN,6516922,Government,No,http://inmap.indiana.edu/viewer.htm,US State
 Indiana,IN,6516922,Government,No,http://www.in.gov/itp,US State
 Iowa,IA,3062309,Government,No,http://data.iowa.gov/,US State
 Kansas,KS,2871238,Government,No,http://kanview.ks.gov/,US State
-Kansas City,MO,457551,Community,No,https://data.kcmo.org/,US City or County
+Kansas City,MO,457551,Government,No,https://data.kcmo.org/,US City or County
 Kentucky [Open Door],KY,4369356,Government,No,http://opendoor.ky.gov/search/Pages/spendingsearch.aspx,US State
 King County,WA,1969722,Government,No,https://data.kingcounty.gov,US City or County 
 King County Election Data,WA,1969722,Government,No,https://electionsdata.kingcounty.gov,Other County Related
@@ -61,8 +63,8 @@ Louisville,KY,592529,Government,Yes,http://portal.louisvilleky.gov/service/data,
 Madison,WI,236901,Government,Yes,https://data.cityofmadison.com,US City or County  
 Maine,ME,462257,Government,No,http://www.maine.gov/data/,US State
 Maine,ME,462257,Government,No,http://opencheckbook.maine.gov/transparency,US State
-Maryland,MD,3792647,Government,in progress,http://spending.dbm.maryland.gov,US State
-Maryland,MD,3792647,Government,in progress,http://data.maryland.gov,US State
+Maryland,MD,3792647,Government,Yes,http://spending.dbm.maryland.gov,US State
+Maryland,MD,3792647,Government,Yes,http://data.maryland.gov,US State
 Massachusetts,MA,6587536,Government,No,http://www.mass.gov/data/,US State
 Massachusetts,MA,6587536,Government,No,http://www.mass.gov/transparency,US State
 Michigan,MI,9876187,Government,No,http://www.michigan.gov/data/,US State
@@ -76,11 +78,12 @@ Montgomery County,MD,455761,Government,Yes,https://data.montgomerycountymd.gov/,
 Nebraska,NB,1842641,Government,in progress,http://www.nebraska.gov/data/,US State
 Nebraska,NE,1842641,Government,in progress,http://nebraskaspending.gov,US State
 Nevada,NV,2723322,Government,No,http://open.nv.gov,US State
-New Hampshire,NH,1318194,Community,Yes,http://nhopengov.org/,US State
+New Hampshire,NH,1318194,Community,Yes,http://nhopengovt.org/,US State
 New Hampshire,NH,1318194,Government,Yes,http://www.nh.gov/transparentnh,US State
 New Jersey [GIS Clearinghouse],NJ,8791909,Government,Yes,http://njgin.state.nj.us/,US State
 New Jersey [Newspaper Transparency Project],NJ,8791909,Private,Yes,http://datauniverse.com/,US State
 New Jersey [Transparency Portal],NJ,8821155,Government,in progress,http://yourmoney.nj.gov,US State
+New Jersey,NJ,8821155,Community,in progress,http://data.codefornewark.org/tr/dataset,US State
 New Mexico,NM,2082224,Government,No,http://www.sunshineportalnm.com/,US State
 New Orleans,LA,321409,Government,No,https://data.nola.gov,US City or County 
 New York,NY,19465197,Government,Yes,https://data.ny.gov/,US State
@@ -108,7 +111,7 @@ Palo Alto,CA,64408,Government,No,http://data.cityofpaloalto.org/,US City or Coun
 Pennsylvania,PA,12742886,Government,No,http://www.pennwatch.pa.gov,US State
 Pennsylvania [Geodata],PA,12702379,University,No,http://www.pasda.psu.edu/uci/SearchResults.aspx?shortcutKeyword=base&searchType=shortcut&sessionID=50734710420131023181913,US State
 Philadelphia,PA,1514456,Community,Yes,http://www.opendataphilly.org/,US State
-Portland,OR,583778,Community,Yes,http://civicapps.org/datasets/,US City or County
+Portland,OR,583778,Government,Yes,http://civicapps.org/datasets/,US City or County
 Providence,RI,583778,Government,Yes,https://data.providenceri.gov/,US City or County
 Raleigh,NC,395091,Government,Yes,https://data.raleighnc.gov,US City or County
 Redmond,WA,26646,Government,No,https://data.redmond.gov,US City or County
@@ -137,15 +140,14 @@ Tulsa,OK,14741,Government,Yes,https://www.cityoftulsa.org/our-city/open-tulsa/op
 Utah,UT,2817222,Government,Yes,http://www.utah.gov/transparency,US State
 Utah,UT,2817222,Government,Yes,http://www.utah.gov/data/,US State
 Vermont,VT,626431,Government,No,http://spotlight.vermont.gov,US State
-Virginia,VA,8096604,Government,No,http://datapoint.apa.virginia.gov,US State
 Virginia,VA,8096604,Government,No,http://data.openva.com,US State
 Virginia Beach,VA,447021,Public,No,http://data.codeforhamptonroads.org/organization/city-of-virginia-beach,US City or County
 Virginia Data Point,VA,8096604,Government,No,http://datapoint.apa.virginia.gov/,US State
 Wake County,NC,929780,Government,No,http://www.wakegov.com/data/Pages/default.aspx,US City or County
 Washington,WA,6830038,Government,in progress,http://fiscal.wa.gov,US State
 Washington,WA,6830038,Government,No,https://data.wa.gov,US State
-"Washington, D.C.",DC,797983,Government,Yes,http://data.dc.gov/,US District 
-"Washington, D.C. [Open Data DC]",DC,797983,Community,Yes,http://www.opendatadc.org/,US District 
+Washington D.C.,DC,797983,Government,Yes,http://data.dc.gov/,US District 
+Washington D.C.,DC,797983,Community,Yes,http://www.opendatadc.org/,US District 
 Weatherford,TX,25557,Government,Yes,http://tx-weatherford2.civicplus.com/index.aspx?NID=1448,US City or County
 Wellington,FL,57163,Government,No,https://data.wellingtonfl.gov/,US City or County
 West Virginia,WV,1855364,Government,No,http://transparencywv.org,US State
