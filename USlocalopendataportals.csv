@@ -27,8 +27,9 @@ Connecticut,CT,3580709,Government,No,http://transparency.ct.gov/html/main.asp,US
 Connecticut,CT,3580709,Government,No,http://www.osc.ct.gov/openct,US State
 Cook County,IL,5217080,Government,Yes,https://cookcounty.socrata.com,US City or County 
 De Leon,TX,2233,Government,No,https://deleon.socrata.com,US City or County
-Delaware,DL,907135,Government,No,http://www.delaware.gov/data/,US State
+Delaware,DE,907135,Government,No,http://www.delaware.gov/data/,US State
 Delaware,DE,907135,Government,No,http://transparency.delaware.gov,US State
+Delaware,DE,907135,Government,Yes,https://dataexchange.gis.delaware.gov/,US State GIS
 Denver,CO,600024,Government,No,http://data.denvergov.org,US City or County  
 Denver Regional Council,CO,3157520,Community,No,http://data.opencolorado.org/group/drcog,Other State Related
 Florida,FL,19057542,Government,No,http://www.floridahasarighttoknow.com/,US State
