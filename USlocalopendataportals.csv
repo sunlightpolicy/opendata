@@ -12,6 +12,7 @@ Atlanta Regional Commission,GA,4142300,Government,,http://www.atlantaregional.co
 Austin,TX,820611,Government,Yes,https://data.austintexas.gov,US City or County  
 Baltimore,MD,620210,Government,No,https://data.baltimorecity.gov,US City or County  
 Belleville,IL,3951,Government,No,https://data.illinois.gov/belleville,US City or County
+Bonner County,ID,40877,Government,Yes,ftp://ftp.co.bonner.id.us/GISData/,US County GIS
 Boston,MA,609942,Government,No,http://www.cityofboston.gov/doit/databoston/app/data_disclaimer.asp,US City or County
 Boston GIS Data Hub,MA,609942,Government,No,https://data.cityofboston.gov/,US City or County
 California,CA,37691912,Government,No,http://data.ca.gov/,US State
