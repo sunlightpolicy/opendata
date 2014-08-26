@@ -8,9 +8,11 @@ Arkansas,AR,2937979,Government,No,http://transparency.arkansas.gov,US State
 Arvada,CO,83433,Government,No,http://arvada.org/opendata/,US City or County
 Asheville,NC,84458,Government,No,http://opendatacatalog.ashevillenc.gov/,US City or County
 Atlanta,GA,419250,Government,No,http://gis.atlantaga.gov/,US City or County
+Atlanta Regional Commission,GA,4142300,Government,,http://www.atlantaregional.com/info-center/gis-data-maps/gis-data,US Regional GIS
 Austin,TX,820611,Government,Yes,https://data.austintexas.gov,US City or County  
 Baltimore,MD,620210,Government,No,https://data.baltimorecity.gov,US City or County  
 Belleville,IL,3951,Government,No,https://data.illinois.gov/belleville,US City or County
+Bonner County,ID,40877,Government,Yes,ftp://ftp.co.bonner.id.us/GISData/,US County GIS
 Boston,MA,609942,Government,No,http://www.cityofboston.gov/doit/databoston/app/data_disclaimer.asp,US City or County
 Boston GIS Data Hub,MA,609942,Government,No,https://data.cityofboston.gov/,US City or County
 California,CA,37691912,Government,No,http://data.ca.gov/,US State
@@ -22,6 +24,7 @@ Chattanooga,TN,170136,Community,Yes,https://chattanooga.demo.socrata.com/,US Cit
 Chicago,IL,2707120,Government,Yes,https://data.cityofchicago.org,US City or County  
 Chicago [Metro],IL,9729825,Government,Yes,https://www.metrochicagodata.org,US City or County
 Cincinnati,OH,296223,Community,No,http://www.opendatacincy.org/,US City or County
+Cobb County,GA,9815210,Government,Yes,http://www.cobbcounty.org/index.php?option=com_content&view=article&id=1125&Itemid=519,US City GIS
 Colorado,CO,5116796,Government,No,https://data.colorado.gov,US State
 Colorado,CO,5116796,Government,No,http://tops.state.co.us,US State
 Colorado,CO,5116796,Community,No,http://data.opencolorado.org,US State
@@ -29,8 +32,9 @@ Connecticut,CT,3580709,Government,No,http://transparency.ct.gov/html/main.asp,US
 Connecticut,CT,3580709,Government,No,http://www.osc.ct.gov/openct,US State
 Cook County,IL,5217080,Government,Yes,https://cookcounty.socrata.com,US City or County 
 De Leon,TX,2233,Government,No,https://deleon.socrata.com,US City or County
-Delaware,DL,907135,Government,No,http://www.delaware.gov/data/,US State
+Delaware,DE,907135,Government,No,http://www.delaware.gov/data/,US State
 Delaware,DE,907135,Government,No,http://transparency.delaware.gov,US State
+Delaware,DE,907135,Government,Yes,https://dataexchange.gis.delaware.gov/,US State GIS
 Denver,CO,600024,Government,No,http://data.denvergov.org,US City or County  
 Denver Regional Council,CO,3157520,Regional,No,http://data.opencolorado.org/group/drcog,Other State Related
 Florida,FL,19057542,Government,No,http://www.floridahasarighttoknow.com/,US State
@@ -38,12 +42,15 @@ Florida,FL,19057542,Government,No,http://www.myfloridacfo.com/transparency,US St
 Gainesville,FL,125326,Government,No,https://data.cityofgainesville.org/,US City or County
 Georgia,GA,9815210,Government,No,http://www.open.georgia.gov/,US State
 Gilpin County,CO,5467,Regional,No,http://data.opencolorado.org/group/gilpin-county,US City or County
+Glynn County,GA,79626,Government,Yes,http://glynncounty.org/index.aspx?nid=1598,US County GIS
 Hawaii,HI,1374810,Government,Yes,http://hawaii.gov/spo2,US State
 Hawaii,HI,1374810,Government,Yes,https://data.hawaii.gov,US State
 Hawaii GIS,HI,1374810,Government,Yes,http://gis.hicentral.com/,Other State Related
+Hawaii,HI,1374810,Government,Yes,http://planning.hawaii.gov/gis/download-gis-data-expanded/,US State GIS
 Honolulu,HI,944287,Government,Yes,https://data.honolulu.gov/,US City or County
 Houston,TX,2089090,Government,No,http://data.codeforhouston.com,US City or County  
 Idaho,ID,1584985,Government,No,http://transparent.idaho.gov,US State
+Idaho,ID,1584985,Government,No,http://www.insideidaho.org/,US Stste GIS
 Illinois,IL,12869257,Government,in progress,http://accountability.illinois.gov,US State
 Illinois,IL,12869257,Government,in progress,http://data.illinois.gov,US City or County 
 Illinois South Suburban Mayors and Managers,IL,12869257,Government,in progress,https://data.illinois.gov/ssmma,Other State Related
@@ -62,6 +69,7 @@ Louisville,KY,592529,Government,Yes,http://portal.louisvilleky.gov/service/data,
 Madison,WI,236901,Government,Yes,https://data.cityofmadison.com,US City or County  
 Maine,ME,462257,Government,No,http://www.maine.gov/data/,US State
 Maine,ME,462257,Government,No,http://opencheckbook.maine.gov/transparency,US State
+Marietta,GA,56602,,Yes,http://www.arcgis.com/home/item.html?id=ed925a2f26704d6493b779b4fbd28753,US City GIS
 Maryland,MD,3792647,Government,Yes,http://spending.dbm.maryland.gov,US State
 Maryland,MD,3792647,Government,Yes,http://data.maryland.gov,US State
 Massachusetts,MA,6587536,Government,No,http://www.mass.gov/data/,US State
