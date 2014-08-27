@@ -153,8 +153,9 @@ Virginia Data Point,VA,8096604,Government,No,http://datapoint.apa.virginia.gov/,
 Wake County,NC,929780,Government,No,http://www.wakegov.com/data/Pages/default.aspx,US City or County
 Washington,WA,6830038,Government,in progress,http://fiscal.wa.gov,US State
 Washington,WA,6830038,Government,No,https://data.wa.gov,US State
-Washington D.C.,DC,797983,Government,Yes,http://data.dc.gov/,US District 
-Washington D.C.,DC,797983,Community,Yes,http://www.opendatadc.org/,US District 
+Washington D.C.,DC,797983,Government,Yes,http://data.dc.gov/,US District
+Washington D.C.[GIS],DC,797983,Government,Yes,http://opendata.dc.gov/,US District
+Washington D.C.,DC,797983,Community,Yes,http://www.opendatadc.org/,US District
 Weatherford,TX,25557,Government,Yes,http://tx-weatherford2.civicplus.com/index.aspx?NID=1448,US City or County
 Wellington,FL,57163,Government,No,https://data.wellingtonfl.gov/,US City or County
 West Virginia,WV,1855364,Government,No,http://transparencywv.org,US State
