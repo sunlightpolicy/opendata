@@ -24,14 +24,14 @@ Data Policy:
 * No
 * Yes
 * In Progress
-* Ownership
 
-Government: 
+Ownership: 
+* Government
 * Regional 
 * Community 
-* Type
 
-US State: 
+Type:
+* US State
 * US City or County
 * Other County Related
 * Other State Related
