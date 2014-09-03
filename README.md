@@ -10,4 +10,33 @@ In this repo:
 * [US examples of data inventories](https://github.com/sunlightpolicy/opendata/blob/master/USinventoryexamples.csv)  
 * [INTERNATIONAL examples of data inventories](https://github.com/sunlightpolicy/opendata/blob/master/INTERNATIONALinventoryexamples.csv)
 
-See also, the [Sunlight Foundation Open Data Guidelines](http://sunlightfoundation.com/opendataguidelines/).
+See also the [Sunlight Foundation Open Data Policy Guidelines](http://sunlightfoundation.com/opendataguidelines/). 
+
+You may also be interested in the 
+[hub for Sunlight's local open data work](http://sunlightfoundation.com/policy/local/). 
+
+
+For contributors 
+========
+If you’re looking to contribute to the list of local open data portals, here are the category choices for each column: 
+
+Data Policy
+*No
+*Yes
+*In Progress
+*Ownership
+
+Government
+*Regional 
+*Community 
+*Type
+
+US State
+*US City or County
+*Other County Related
+*Other State Related
+*US City GIS 
+*US State GIS 
+
+
+
