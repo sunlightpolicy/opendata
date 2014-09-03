@@ -75590,6 +75590,22 @@
         ]
       }
     },
+        {
+      "type": "Feature",
+      "properties": {
+        "City": "Bloomington, IL",
+        "Date": "8/25/2014",
+        "Legal Means": "Legislation",
+        "Policy URL": "http://www.cityblm.org/Modules/ShowDocument.aspx?documentid=7183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.99406433105469,
+          40.479793859256205
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
