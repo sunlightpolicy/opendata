@@ -20,23 +20,20 @@ For contributors
 ========
 If you’re looking to contribute to the list of local open data portals, here are the category choices for each column: 
 
-Data Policy
-*No
-*Yes
-*In Progress
-*Ownership
+Data Policy:
+* No
+* Yes
+* In Progress
+* Ownership
 
-Government
-*Regional 
-*Community 
-*Type
+Government: 
+* Regional 
+* Community 
+* Type
 
-US State
-*US City or County
-*Other County Related
-*Other State Related
-*US City GIS 
-*US State GIS 
-
-
-
+US State: 
+* US City or County
+* Other County Related
+* Other State Related
+* US City GIS 
+* US State GIS 
