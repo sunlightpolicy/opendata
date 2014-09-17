@@ -1,168 +1,1 @@
-Location,State,"Population (US Census, 2011)",Ownership?,Open Data Policy?,Link,Type 
-Alabama,AL,4802740,Government,No,http://open.alabama.gov/,US State
-Alaska,AK,722718,Government,No,https://dof.doa.alaska.gov/,US State
-Albuquerque,NM,539000,Government,No,http://www.cabq.gov/abq-data/,US City or County
-Ann Arbor,MI,114925,Government,No,http://www.a2gov.org/data/,US City or County
-Arizona,AZ,6482505,Government,No,http://openbooks.az.gov,US State
-Arkansas,AR,2937979,Government,No,http://transparency.arkansas.gov,US State
-Arvada,CO,83433,Government,No,http://arvada.org/opendata/,US City or County
-Asheville,NC,84458,Government,No,http://opendatacatalog.ashevillenc.gov/,US City or County
-Atlanta,GA,419250,Government,No,http://gis.atlantaga.gov/,US City or County
-Atlanta Regional Commission,GA,4142300,Government,,http://www.atlantaregional.com/info-center/gis-data-maps/gis-data,US Regional GIS
-Austin,TX,820611,Government,Yes,https://data.austintexas.gov,US City or County  
-Baltimore,MD,620210,Government,No,https://data.baltimorecity.gov,US City or County  
-Belleville,IL,3951,Government,No,https://data.illinois.gov/belleville,US City or County
-Bonner County,ID,40877,Government,Yes,ftp://ftp.co.bonner.id.us/GISData/,US County GIS
-Boston,MA,609942,Government,No,http://www.cityofboston.gov/doit/databoston/app/data_disclaimer.asp,US City or County
-Boston GIS Data Hub,MA,609942,Government,No,https://data.cityofboston.gov/,US City or County
-California,CA,37691912,Government,No,http://data.ca.gov/,US State
-Cambridge GIS,MA,105162,Government,in progress,http://cambridgegis.github.io/gisdata.html,US City or County
-Champaign,IL,39795,Government,No,https://data.illinois.gov/champaign,US City or County
-Charleston,SC,125583,Government,No,http://gis.charleston-sc.gov/dataportal/,US City or County
-Chattanooga,TN,170136,Government,Yes,http://data.chattlibrary.org,US City or County
-Chattanooga,TN,170136,Community,Yes,https://chattanooga.demo.socrata.com/,US City or County
-Chicago,IL,2707120,Government,Yes,https://data.cityofchicago.org,US City or County  
-Chicago [Metro],IL,9729825,Government,Yes,https://www.metrochicagodata.org,US City or County
-Cincinnati,OH,296223,Community,No,http://www.opendatacincy.org/,US City or County
-Cobb County,GA,9815210,Government,Yes,http://www.cobbcounty.org/index.php?option=com_content&view=article&id=1125&Itemid=519,US City GIS
-Colorado,CO,5116796,Government,No,https://data.colorado.gov,US State
-Colorado,CO,5116796,Government,No,http://tops.state.co.us,US State
-Colorado,CO,5116796,Community,No,http://data.opencolorado.org,US State
-Connecticut,CT,3580709,Government,No,http://transparency.ct.gov/html/main.asp,US State
-Connecticut,CT,3580709,Government,No,http://www.osc.ct.gov/openct,US State
-Cook County,IL,5217080,Government,Yes,https://cookcounty.socrata.com,US City or County 
-De Leon,TX,2233,Government,No,https://deleon.socrata.com,US City or County
-Delaware,DE,907135,Government,No,http://www.delaware.gov/data/,US State
-Delaware,DE,907135,Government,No,http://transparency.delaware.gov,US State
-Delaware,DE,907135,Government,Yes,https://dataexchange.gis.delaware.gov/,US State GIS
-Denver,CO,600024,Government,No,http://data.denvergov.org,US City or County  
-Denver Regional Council,CO,3157520,Regional,No,http://data.opencolorado.org/group/drcog,Other State Related
-Florida,FL,19057542,Government,No,http://www.floridahasarighttoknow.com/,US State
-Florida,FL,19057542,Government,No,http://www.myfloridacfo.com/transparency,US State
-Gainesville,FL,125326,Government,No,https://data.cityofgainesville.org/,US City or County
-Georgia,GA,9815210,Government,No,http://www.open.georgia.gov/,US State
-Gilpin County,CO,5467,Regional,No,http://data.opencolorado.org/group/gilpin-county,US City or County
-Glynn County,GA,79626,Government,Yes,http://glynncounty.org/index.aspx?nid=1598,US County GIS
-Hartford,CT,124893,Government,Yes,https://data.hartford.gov/,US City or County 
-Hawaii,HI,1374810,Government,Yes,http://hawaii.gov/spo2,US State
-Hawaii,HI,1374810,Government,Yes,https://data.hawaii.gov,US State
-Hawaii GIS,HI,1374810,Government,Yes,http://gis.hicentral.com/,Other State Related
-Hawaii,HI,1374810,Government,Yes,http://planning.hawaii.gov/gis/download-gis-data-expanded/,US State GIS
-Honolulu,HI,944287,Government,Yes,https://data.honolulu.gov/,US City or County
-Houston,TX,2089090,Government,No,http://data.codeforhouston.com,US City or County  
-Idaho,ID,1584985,Government,No,http://transparent.idaho.gov,US State
-Idaho,ID,1584985,Government,No,http://www.insideidaho.org/,US Stste GIS
-Illinois,IL,12869257,Government,in progress,http://accountability.illinois.gov,US State
-Illinois,IL,12869257,Government,in progress,http://data.illinois.gov,US City or County 
-Illinois South Suburban Mayors and Managers,IL,12869257,Government,in progress,https://data.illinois.gov/ssmma,Other State Related
-Indiana,IN,6516922,Government,No,http://inmap.indiana.edu/viewer.htm,US State
-Indiana,IN,6516922,Government,No,http://www.in.gov/itp,US State
-Iowa,IA,3062309,Government,No,http://data.iowa.gov/,US State
-Kansas,KS,2871238,Government,No,http://kanview.ks.gov/,US State
-Kansas City,MO,457551,Government,No,https://data.kcmo.org/,US City or County
-Kentucky [Open Door],KY,4369356,Government,No,http://opendoor.ky.gov/search/Pages/spendingsearch.aspx,US State
-King County,WA,1969722,Government,No,https://data.kingcounty.gov,US City or County 
-King County Election Data,WA,1969722,Government,No,https://electionsdata.kingcounty.gov,Other County Related
-Lexington,KY,457551,Government,Yes,http://data.lexingtonky.gov/,US City or County
-Los Angeles [Controller],CA,3819702,Government,No,https://controllerdata.lacity.org/,US City or County
-Louisiana,LA,4574836,Government,No,http://wwwprd.doa.louisiana.gov/LaTrac/portal.cfm,US State
-Louisville,KY,592529,Government,Yes,http://portal.louisvilleky.gov/service/data,US City or County
-Madison,WI,236901,Government,Yes,https://data.cityofmadison.com,US City or County  
-Maine,ME,462257,Government,No,http://www.maine.gov/data/,US State
-Maine,ME,462257,Government,No,http://opencheckbook.maine.gov/transparency,US State
-Marietta,GA,56602,,Yes,http://www.arcgis.com/home/item.html?id=ed925a2f26704d6493b779b4fbd28753,US City GIS
-Maryland,MD,3792647,Government,Yes,http://spending.dbm.maryland.gov,US State
-Maryland,MD,3792647,Government,Yes,http://data.maryland.gov,US State
-Massachusetts,MA,6587536,Government,No,http://www.mass.gov/data/,US State
-Massachusetts,MA,6587536,Government,No,http://www.mass.gov/transparency,US State
-Michigan,MI,9876187,Government,No,http://www.michigan.gov/data/,US State
-Minnesota,MN,5344861,Government,No,http://mn.gov/portal/,US State
-Minnesota,MN,5344861,Government,No,http://www.mmb.state.mn.us/tap,US State
-Mississippi,MS,2978512,Government,No,http://www.transparency.mississippi.gov,US State
-Missouri,MS,6010688,Government,No,https://data.mo.gov,US State 
-Missouri [Accountability Portal],MS,6010688,Government,No,http://mapyourtaxes.mo.gov/MAP/Portal/Default.aspx,Other State Related
-Montana,MT,998199,Government,No,http://transparency.mt.gov,US State
-Montgomery County,MD,455761,Government,Yes,https://data.montgomerycountymd.gov/,US City or County
-Nebraska,NB,1842641,Government,in progress,http://www.nebraska.gov/data/,US State
-Nebraska,NE,1842641,Government,in progress,http://nebraskaspending.gov,US State
-Nevada,NV,2723322,Government,No,http://open.nv.gov,US State
-New Hampshire,NH,1318194,Community,Yes,http://nhopengovt.org/,US State
-New Hampshire,NH,1318194,Government,Yes,http://www.nh.gov/transparentnh,US State
-New Jersey [GIS Clearinghouse],NJ,8791909,Government,Yes,http://njgin.state.nj.us/,US State
-New Jersey [Newspaper Transparency Project],NJ,8791909,Private,Yes,http://datauniverse.com/,US State
-New Jersey [Transparency Portal],NJ,8821155,Government,in progress,http://yourmoney.nj.gov,US State
-New Jersey,NJ,8821155,Community,in progress,http://data.codefornewark.org/tr/dataset,US State
-New Mexico,NM,2082224,Government,No,http://www.sunshineportalnm.com/,US State
-New Orleans,LA,321409,Government,No,https://data.nola.gov,US City or County 
-New York,NY,19465197,Government,Yes,https://data.ny.gov/,US State
-New York,NY,19465197,Government,Yes,http://www.openbooknewyork.com,US State
-New York [Department of Health],NY,19465197,Government,Yes,https://health.data.ny.gov/,Other State Related
-New York [Health Data],NY,19465197,Government,Yes,https://health.data.ny.gov,Other State Related
-New York [State Data Center],NY,19465197,Government,Yes,http://esd.ny.gov/NYSDataCenter.html,Other State Related
-New York [State Senate],NY,19465197,Government,Yes,http://www.nysenate.gov/opendata/,Other State Related
-New York City,NY,8244910,Government,Yes,https://www.opendatanyc.com,US City or County
-Newark,NJ,277540,Goverment,No,http://newarknj.patch.com/groups/politics-and-elections/p/city-of-newark-rolls-out-test-version-of-new-web-site,US City
-Norfolk,VA,245782,Public,No,http://data.codeforhamptonroads.org/organization/city-of-norfolk,US City or County
-North Carolina,NC,9656401,Government,No,http://www.ncopenbook.gov,US State
-North Carolina [OpenBook],NC,9656401,Government,No,http://www.ncopenbook.gov/NCOpenBook/,US City or County
-North Dakota,ND,683932,Government,No,http://data.share.nd.gov/pr,US State
-North Dakota GIS Hub,ND,683932,Government,No,http://www.nd.gov/gis/,Other State Related
-Oakland,CA,389397,Government,Yes,https://data.oaklandnet.com,US City or County 
-Oakland,CA,389397,Community,Yes,http://data.openoakland.org/,US City or County 
-Ohio,OH,11544951,Government,in progress,http://www.sos.state.oh.us/betterLives.aspx,US State
-Ohio,OH,11544951,Government,in progress,http://transparency.ohio.gov,US State
-Oklahoma,OK,3791508,Government,No,http://www.ok.gov/about/data.html,US State
-Oklahoma,OK,3791508,Government,No,https://data.ok.gov,US State
-Oregon,OR,3871859,Government,No,http://data.oregon.gov,US State
-Oregon,OR,3871859,Government,No,http://www.oregon.gov/transparency,US State
-Palo Alto,CA,64408,Government,No,http://data.cityofpaloalto.org/,US City or County
-Pennsylvania,PA,12742886,Government,No,http://www.pennwatch.pa.gov,US State
-Pennsylvania [Geodata],PA,12702379,University,No,http://www.pasda.psu.edu/uci/SearchResults.aspx?shortcutKeyword=base&searchType=shortcut&sessionID=50734710420131023181913,US State
-Philadelphia,PA,1514456,Community,Yes,http://www.opendataphilly.org/,US City or County
-Portland,OR,583778,Government,Yes,http://civicapps.org/datasets/,US City or County
-Providence,RI,583778,Government,Yes,https://data.providenceri.gov/,US City or County
-Raleigh,NC,395091,Government,Yes,https://data.raleighnc.gov,US City or County
-Redmond,WA,26646,Government,No,https://data.redmond.gov,US City or County
-Rhode Island,RI,1051302,Government,No,http://www.ri.gov/data/,US State
-Rhode Island,RI,1051302,Government,No,http://www.transparency.ri.gov,US State
-Rockford,IL,152222,Government,No,https://data.illinois.gov/rockford,US City or County
-Sacramento,CA,472178,Government,Yes,http://portal.cityofsacramento.org/opendata,US City or County
-Salt Lake City,UT,186443,Government,No,https://data.slcgov.com,US City or County
-San Diego,CA,1307402,Community,in progress,http://catalog.opensandiego.org/,US City or County
-San Francisco,CA,797983,Government,Yes,http://data.sfgov.org,US City or County
-San Mateo County Open Checkbook,WA,727209,Government,No,https://data.smcgov.org/,US City or County
-Santa Cruz,CA,60342,Government,No,http://data.cityofsantacruz.com,US City or County  
-Scottsdale,AZ,221020,Government,No,http://data.scottsdaleaz.gov/,US City or County
-Seattle,WA,620778,Government,No,http://data.seattle.gov,US City or County
-Snohomish County,WA,722400,Government,No,https://data.snostat.org,US City or County
-Somerville,MA,76519,Government,No,https://data.somervillema.gov,US City or County
-South Bend,IN,101000,Government,Yes,https://data.southbendin.gov/,US City or County
-South Carolina,SC,4679230,Government,No,http://www.cg.sc.gov/fiscaltransparency,US State
-South Carolina [GIS],SC,4679230,Government,No,"http://www.gis.sc.gov/data.html,US State",US State
-South Dakota,SD,824082,Government,No,http://open.sd.gov/,US State
-Tennessee,TN,6403353,Government,No,http://www.tn.gov/opengov/,US State
-Texas,TX,25674681,Government,No,http://www.texas.gov/en/Connect/Pages/open-data.aspx,US State
-Texas,TX,25674681,Government,No,http://www.texastransparency.org,US State
-Texas [Comptroller Transparency],TX,25674681,Government,No,http://www.texastransparency.org/opendata/index.php,Other State Related
-Tulsa,OK,14741,Government,Yes,https://www.cityoftulsa.org/our-city/open-tulsa/open-tulsa-dataset-list.aspx,US City or County
-Utah,UT,2817222,Government,Yes,http://www.utah.gov/transparency,US State
-Utah,UT,2817222,Government,Yes,http://www.utah.gov/data/,US State
-Vermont,VT,626431,Government,No,http://spotlight.vermont.gov,US State
-Virginia,VA,8096604,Government,No,http://data.openva.com,US State
-Virginia Beach,VA,447021,Public,No,http://data.codeforhamptonroads.org/organization/city-of-virginia-beach,US City or County
-Virginia Data Point,VA,8096604,Government,No,http://datapoint.apa.virginia.gov/,US State
-Wake County,NC,929780,Government,No,http://www.wakegov.com/data/Pages/default.aspx,US City or County
-Washington,WA,6830038,Government,in progress,http://fiscal.wa.gov,US State
-Washington,WA,6830038,Government,No,https://data.wa.gov,US State
-Washington D.C.,DC,797983,Government,Yes,http://data.dc.gov/,US District
-Washington D.C.[GIS],DC,797983,Government,Yes,http://opendata.dc.gov/,US District
-Washington D.C.,DC,797983,Community,Yes,http://www.opendatadc.org/,US District
-Weatherford,TX,25557,Government,Yes,http://tx-weatherford2.civicplus.com/index.aspx?NID=1448,US City or County
-Wellington,FL,57163,Government,No,https://data.wellingtonfl.gov/,US City or County
-West Virginia,WV,1855364,Government,No,http://transparencywv.org,US State
-Williamsburg,VA,15167,Government,Yes,http://www.williamsburgva.gov/Index.aspx?page=793,US City or County
-Wisconsin,WI,5711767,Government,No,http://sunshine.wi.gov,US State
-Wyoming,WY,568158,Government,No,http://www.wyoming.gov/transparency.html,US State
-Richmond,VA,210309,Government,No,ftp://ftp.ci.richmond.va.us/GIS/Shapefiles/,US City or County
-Charlottesville,VA,43956,Government,No,http://www.charlottesville.org/Index.aspx?page=1674,US City or County
-Lynchburg,VA,77113,Government,No,http://mapviewer.lynchburgva.gov/downloads/default.aspx,US City or County
+Location,State,"Population (US Census, 2011)",Ownership?,Open Data Policy?,Link,Type King County Election Data,WA,1969722,Government,No,https://electionsdata.kingcounty.gov,Other County RelatedDenver Regional Council,CO,3157520,Regional,No,http://data.opencolorado.org/group/drcog,Other State RelatedHawaii GIS,HI,1374810,Government,Yes,http://gis.hicentral.com/,Other State RelatedIllinois South Suburban Mayors and Managers,IL,12869257,Government,in progress,https://data.illinois.gov/ssmma,Other State RelatedMissouri [Accountability Portal],MS,6010688,Government,No,http://mapyourtaxes.mo.gov/MAP/Portal/Default.aspx,Other State RelatedNew York [Department of Health],NY,19465197,Government,Yes,https://health.data.ny.gov/,Other State RelatedNew York [Health Data],NY,19465197,Government,Yes,https://health.data.ny.gov,Other State RelatedNew York [State Data Center],NY,19465197,Government,Yes,http://esd.ny.gov/NYSDataCenter.html,Other State RelatedNew York [State Senate],NY,19465197,Government,Yes,http://www.nysenate.gov/opendata/,Other State RelatedNorth Dakota GIS Hub,ND,683932,Government,No,http://www.nd.gov/gis/,Other State RelatedTexas [Comptroller Transparency],TX,25674681,Government,No,http://www.texastransparency.org/opendata/index.php,Other State RelatedNewark,NJ,277540,Goverment,No,http://newarknj.patch.com/groups/politics-and-elections/p/city-of-newark-rolls-out-test-version-of-new-web-site,US CityCobb County,GA,9815210,Government,Yes,http://www.cobbcounty.org/index.php?option=com_content&view=article&id=1125&Itemid=519,US CountyMarietta,GA,56602,,Yes,http://www.arcgis.com/home/item.html?id=ed925a2f26704d6493b779b4fbd28753,US City GISAlbuquerque,NM,539000,Government,No,http://www.cabq.gov/abq-data/,US CityAnn Arbor,MI,114925,Government,No,http://www.a2gov.org/data/,US CityArvada,CO,83433,Government,No,http://arvada.org/opendata/,US CityAsheville,NC,84458,Government,No,http://opendatacatalog.ashevillenc.gov/,US CityAtlanta,GA,419250,Government,No,http://gis.atlantaga.gov/,US CityBelleville,IL,3951,Government,No,https://data.illinois.gov/belleville,US CityBoston,MA,609942,Government,No,http://www.cityofboston.gov/doit/databoston/app/data_disclaimer.asp,US CityBoston GIS Data Hub,MA,609942,Government,No,https://data.cityofboston.gov/,US CityCambridge GIS,MA,105162,Government,in progress,http://cambridgegis.github.io/gisdata.html,US CityChampaign,IL,39795,Government,No,https://data.illinois.gov/champaign,US CityCharleston,SC,125583,Government,No,http://gis.charleston-sc.gov/dataportal/,US CityChattanooga,TN,170136,Government,Yes,http://data.chattlibrary.org,US CityChattanooga,TN,170136,Community,Yes,https://chattanooga.demo.socrata.com/,US CityChicago [Metro],IL,9729825,Government,Yes,https://www.metrochicagodata.org,US City or CountyCincinnati,OH,296223,Community,No,http://www.opendatacincy.org/,US CityDe Leon,TX,2233,Government,No,https://deleon.socrata.com,US CityGainesville,FL,125326,Government,No,https://data.cityofgainesville.org/,US CityGilpin County,CO,5467,Regional,No,http://data.opencolorado.org/group/gilpin-county,US City or CountyHonolulu,HI,944287,Government,Yes,https://data.honolulu.gov/,US CityKansas City,MO,457551,Government,No,https://data.kcmo.org/,US CityLexington,KY,457551,Government,Yes,http://data.lexingtonky.gov/,US CityLos Angeles [Controller],CA,3819702,Government,No,https://controllerdata.lacity.org/,US CityLouisville,KY,592529,Government,Yes,http://portal.louisvilleky.gov/service/data,US CityMontgomery County,MD,455761,Government,Yes,https://data.montgomerycountymd.gov/,US City or CountyNew York City,NY,8244910,Government,Yes,https://www.opendatanyc.com,US CityNorfolk,VA,245782,Public,No,http://data.codeforhamptonroads.org/organization/city-of-norfolk,US CityNorth Carolina [OpenBook],NC,9656401,Government,No,http://www.ncopenbook.gov/NCOpenBook/,US CityPalo Alto,CA,64408,Government,No,http://data.cityofpaloalto.org/,US CityPortland,OR,583778,Government,Yes,http://civicapps.org/datasets/,US CityProvidence,RI,583778,Government,Yes,https://data.providenceri.gov/,US CityRaleigh,NC,395091,Government,Yes,https://data.raleighnc.gov,US CityRedmond,WA,26646,Government,No,https://data.redmond.gov,US CityRockford,IL,152222,Government,No,https://data.illinois.gov/rockford,US CitySacramento,CA,472178,Government,Yes,http://portal.cityofsacramento.org/opendata,US CitySalt Lake City,UT,186443,Government,No,https://data.slcgov.com,US CitySan Diego,CA,1307402,Community,in progress,http://catalog.opensandiego.org/,US CitySan Francisco,CA,797983,Government,Yes,http://data.sfgov.org,US CitySan Mateo County Open Checkbook,WA,727209,Government,No,https://data.smcgov.org/,US City or CountyScottsdale,AZ,221020,Government,No,http://data.scottsdaleaz.gov/,US CitySeattle,WA,620778,Government,No,http://data.seattle.gov,US CitySnohomish County,WA,722400,Government,No,https://data.snostat.org,US City or CountySomerville,MA,76519,Government,No,https://data.somervillema.gov,US CitySouth Bend,IN,101000,Government,Yes,https://data.southbendin.gov/,US CityTulsa,OK,14741,Government,Yes,https://www.cityoftulsa.org/our-city/open-tulsa/open-tulsa-dataset-list.aspx,US CityVirginia Beach,VA,447021,Public,No,http://data.codeforhamptonroads.org/organization/city-of-virginia-beach,US CityWake County,NC,929780,Government,No,http://www.wakegov.com/data/Pages/default.aspx,US City or CountyWeatherford,TX,25557,Government,Yes,http://tx-weatherford2.civicplus.com/index.aspx?NID=1448,US CityWellington,FL,57163,Government,No,https://data.wellingtonfl.gov/,US CityWilliamsburg,VA,15167,Government,Yes,http://www.williamsburgva.gov/Index.aspx?page=793,US CityRichmond,VA,210309,Government,No,ftp://ftp.ci.richmond.va.us/GIS/Shapefiles/,US CityCharlottesville,VA,43956,Government,No,http://www.charlottesville.org/Index.aspx?page=1674,US CityLynchburg,VA,77113,Government,No,http://mapviewer.lynchburgva.gov/downloads/default.aspx,US CityCook County,IL,5217080,Government,Yes,https://cookcounty.socrata.com,US City or County Hartford,CT,124893,Government,Yes,https://data.hartford.gov/,US CityIllinois,IL,12869257,Government,in progress,http://data.illinois.gov,US State King County,WA,1969722,Government,No,https://data.kingcounty.gov,US City or County New Orleans,LA,321409,Government,No,https://data.nola.gov,US CityOakland,CA,389397,Government,Yes,https://data.oaklandnet.com,US CityOakland,CA,389397,Community,Yes,http://data.openoakland.org/,US CityAustin,TX,820611,Government,Yes,https://data.austintexas.gov,US CityBaltimore,MD,620210,Government,No,https://data.baltimorecity.gov,US CityChicago,IL,2707120,Government,Yes,https://data.cityofchicago.org,US CityDenver,CO,600024,Government,No,http://data.denvergov.org,US CityHouston,TX,2089090,Government,No,http://data.codeforhouston.com,US CityMadison,WI,236901,Government,Yes,https://data.cityofmadison.com,US CitySanta Cruz,CA,60342,Government,No,http://data.cityofsantacruz.com,US CityBonner County,ID,40877,Government,Yes,ftp://ftp.co.bonner.id.us/GISData/,US County GISGlynn County,GA,79626,Government,Yes,http://glynncounty.org/index.aspx?nid=1598,US County GISWashington D.C.,DC,797983,Government,Yes,http://data.dc.gov/,US CityWashington D.C.[GIS],DC,797983,Government,Yes,http://opendata.dc.gov/,US CityWashington D.C.,DC,797983,Community,Yes,http://www.opendatadc.org/,US CityAtlanta Regional Commission,GA,4142300,Government,,http://www.atlantaregional.com/info-center/gis-data-maps/gis-data,US Regional GISAlabama,AL,4802740,Government,No,http://open.alabama.gov/,US StateAlaska,AK,722718,Government,No,https://dof.doa.alaska.gov/,US StateArizona,AZ,6482505,Government,No,http://openbooks.az.gov,US StateArkansas,AR,2937979,Government,No,http://transparency.arkansas.gov,US StateCalifornia,CA,37691912,Government,No,http://data.ca.gov/,US StateColorado,CO,5116796,Government,No,https://data.colorado.gov,US StateColorado,CO,5116796,Government,No,http://tops.state.co.us,US StateColorado,CO,5116796,Community,No,http://data.opencolorado.org,US StateConnecticut,CT,3580709,Government,No,http://transparency.ct.gov/html/main.asp,US StateConnecticut,CT,3580709,Government,No,http://www.osc.ct.gov/openct,US StateDelaware,DE,907135,Government,No,http://www.delaware.gov/data/,US StateDelaware,DE,907135,Government,No,http://transparency.delaware.gov,US StateFlorida,FL,19057542,Government,No,http://www.floridahasarighttoknow.com/,US StateFlorida,FL,19057542,Government,No,http://www.myfloridacfo.com/transparency,US StateGeorgia,GA,9815210,Government,No,http://www.open.georgia.gov/,US StateHawaii,HI,1374810,Government,Yes,http://hawaii.gov/spo2,US StateHawaii,HI,1374810,Government,Yes,https://data.hawaii.gov,US StateIdaho,ID,1584985,Government,No,http://transparent.idaho.gov,US StateIllinois,IL,12869257,Government,in progress,http://accountability.illinois.gov,US StateIndiana,IN,6516922,Government,No,http://inmap.indiana.edu/viewer.htm,US StateIndiana,IN,6516922,Government,No,http://www.in.gov/itp,US StateIowa,IA,3062309,Government,No,http://data.iowa.gov/,US StateKansas,KS,2871238,Government,No,http://kanview.ks.gov/,US StateKentucky [Open Door],KY,4369356,Government,No,http://opendoor.ky.gov/search/Pages/spendingsearch.aspx,US StateLouisiana,LA,4574836,Government,No,http://wwwprd.doa.louisiana.gov/LaTrac/portal.cfm,US StateMaine,ME,462257,Government,No,http://www.maine.gov/data/,US StateMaine,ME,462257,Government,No,http://opencheckbook.maine.gov/transparency,US StateMaryland,MD,3792647,Government,Yes,http://spending.dbm.maryland.gov,US StateMaryland,MD,3792647,Government,Yes,http://data.maryland.gov,US StateMassachusetts,MA,6587536,Government,No,http://www.mass.gov/data/,US StateMassachusetts,MA,6587536,Government,No,http://www.mass.gov/transparency,US StateMichigan,MI,9876187,Government,No,http://www.michigan.gov/data/,US StateMinnesota,MN,5344861,Government,No,http://mn.gov/portal/,US StateMinnesota,MN,5344861,Government,No,http://www.mmb.state.mn.us/tap,US StateMississippi,MS,2978512,Government,No,http://www.transparency.mississippi.gov,US StateMontana,MT,998199,Government,No,http://transparency.mt.gov,US StateNebraska,NB,1842641,Government,in progress,http://www.nebraska.gov/data/,US StateNebraska,NE,1842641,Government,in progress,http://nebraskaspending.gov,US StateNevada,NV,2723322,Government,No,http://open.nv.gov,US StateNew Hampshire,NH,1318194,Community,Yes,http://nhopengovt.org/,US StateNew Hampshire,NH,1318194,Government,Yes,http://www.nh.gov/transparentnh,US StateNew Jersey [GIS Clearinghouse],NJ,8791909,Government,Yes,http://njgin.state.nj.us/,US StateNew Jersey [Newspaper Transparency Project],NJ,8791909,Private,Yes,http://datauniverse.com/,US StateNew Jersey [Transparency Portal],NJ,8821155,Government,in progress,http://yourmoney.nj.gov,US StateNew Jersey,NJ,8821155,Community,in progress,http://data.codefornewark.org/tr/dataset,US StateNew Mexico,NM,2082224,Government,No,http://www.sunshineportalnm.com/,US StateNew York,NY,19465197,Government,Yes,https://data.ny.gov/,US StateNew York,NY,19465197,Government,Yes,http://www.openbooknewyork.com,US StateNorth Carolina,NC,9656401,Government,No,http://www.ncopenbook.gov,US StateNorth Dakota,ND,683932,Government,No,http://data.share.nd.gov/pr,US StateOhio,OH,11544951,Government,in progress,http://www.sos.state.oh.us/betterLives.aspx,US StateOhio,OH,11544951,Government,in progress,http://transparency.ohio.gov,US StateOklahoma,OK,3791508,Government,No,http://www.ok.gov/about/data.html,US StateOklahoma,OK,3791508,Government,No,https://data.ok.gov,US StateOregon,OR,3871859,Government,No,http://data.oregon.gov,US StateOregon,OR,3871859,Government,No,http://www.oregon.gov/transparency,US StatePennsylvania,PA,12742886,Government,No,http://www.pennwatch.pa.gov,US StatePennsylvania [Geodata],PA,12702379,University,No,http://www.pasda.psu.edu/uci/SearchResults.aspx?shortcutKeyword=base&searchType=shortcut&sessionID=50734710420131023181913,US StatePhiladelphia,PA,1514456,Community,Yes,http://www.opendataphilly.org/,US StateRhode Island,RI,1051302,Government,No,http://www.ri.gov/data/,US StateRhode Island,RI,1051302,Government,No,http://www.transparency.ri.gov,US StateSouth Carolina,SC,4679230,Government,No,http://www.cg.sc.gov/fiscaltransparency,US StateSouth Carolina [GIS],SC,4679230,Government,No,"http://www.gis.sc.gov/data.html,US State",US StateSouth Dakota,SD,824082,Government,No,http://open.sd.gov/,US StateTennessee,TN,6403353,Government,No,http://www.tn.gov/opengov/,US StateTexas,TX,25674681,Government,No,http://www.texas.gov/en/Connect/Pages/open-data.aspx,US StateTexas,TX,25674681,Government,No,http://www.texastransparency.org,US StateUtah,UT,2817222,Government,Yes,http://www.utah.gov/transparency,US StateUtah,UT,2817222,Government,Yes,http://www.utah.gov/data/,US StateVermont,VT,626431,Government,No,http://spotlight.vermont.gov,US StateVirginia,VA,8096604,Government,No,http://data.openva.com,US StateVirginia Data Point,VA,8096604,Government,No,http://datapoint.apa.virginia.gov/,US StateWashington,WA,6830038,Government,in progress,http://fiscal.wa.gov,US StateWashington,WA,6830038,Government,No,https://data.wa.gov,US StateWest Virginia,WV,1855364,Government,No,http://transparencywv.org,US StateWisconsin,WI,5711767,Government,No,http://sunshine.wi.gov,US StateWyoming,WY,568158,Government,No,http://www.wyoming.gov/transparency.html,US StateMissouri,MS,6010688,Government,No,https://data.mo.gov,US State Delaware,DE,907135,Government,Yes,https://dataexchange.gis.delaware.gov/,US State GISHawaii,HI,1374810,Government,Yes,http://planning.hawaii.gov/gis/download-gis-data-expanded/,US State GISIdaho,ID,1584985,Government,No,http://www.insideidaho.org/,US Stste GIS
