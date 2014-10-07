@@ -75938,6 +75938,38 @@
           45.01141864227728
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "9/18/2014",
+        "Legal Means": "Legislation",
+        "Policy URL": "http://www.houstontx.gov/adminpolicies/8-7.html",
+        "City": "Houston, TX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.372314453125,
+          29.778681776917633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "10/6/2014",
+        "Legal Means": "Legislation",
+        "Policy URL": "http://blogs.artvoice.com/avdaily/2014/10/06/amherst-creating-an-open-government-advisory-board/",
+        "City": "Amherst, NY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.82072448730469,
+          42.98003720570486
+        ]
+      }
     }
   ]
 }
