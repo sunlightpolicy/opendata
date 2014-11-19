@@ -7,7 +7,9 @@ In this repo:
 
 * [US Open Data Map](https://github.com/sunlightpolicy/opendata/blob/master/USlocalpolicylocations.geoJSON)  
 * [US Open Data Portals](https://github.com/sunlightpolicy/opendata/blob/master/USlocalopendataportals.csv)
+	* Please note we are not actively maintaining thist list of open data portals. Please feel free to submit an issue for any portals that should be added. 
 * [Specific open data policies](https://github.com/sunlightpolicy/opendata/tree/master/specific%20open%20data%20policies)
+	* For a list of broader open data policies, see the open data map.
 * [US examples of data inventories](https://github.com/sunlightpolicy/opendata/blob/master/USinventoryexamples.csv)  
 * [International examples of data inventories](https://github.com/sunlightpolicy/opendata/blob/master/INTERNATIONALinventoryexamples.csv)
 
