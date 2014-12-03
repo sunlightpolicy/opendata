@@ -12,6 +12,7 @@ In this repo:
 	* For a list of broader open data policies, see the open data map.
 * [US examples of data inventories](https://github.com/sunlightpolicy/opendata/blob/master/USinventoryexamples.csv)  
 * [International examples of data inventories](https://github.com/sunlightpolicy/opendata/blob/master/INTERNATIONALinventoryexamples.csv)
+* [US examples of public records portals](https://github.com/sunlightpolicy/opendata/blob/master/USpublicrecordsportals.csv)  
 
 See also the [Sunlight Foundation Open Data Policy Guidelines](http://sunlightfoundation.com/opendataguidelines/). 
 
