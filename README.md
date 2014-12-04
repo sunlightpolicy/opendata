@@ -20,8 +20,7 @@ You may also be interested in the
 [hub for Sunlight's local open data work](http://sunlightfoundation.com/policy/local/). 
 
 
-### For contributors 
-========
+### For contributors to the open data portal list: 
 If you’re looking to contribute to the list of local open data portals, here are the category choices for each column: 
 
 Data Policy:
