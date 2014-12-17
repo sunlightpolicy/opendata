@@ -76818,6 +76818,24 @@
           42.98003720570486
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "12/16/2014",
+        "Legal Means": "Legislation",
+        "Policy URL": "http://www.sandiego.gov/pad/pdf/opendatapolicy.pdf",
+        "State": "",
+        "City": "San Diego, CA",
+        "County": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.16781616210936,
+          32.71913249723243
+        ]
+      }
     }
   ]
 }
