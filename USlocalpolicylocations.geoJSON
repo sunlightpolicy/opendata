@@ -76836,6 +76836,24 @@
           32.71913249723243
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "1/30/2014",
+        "Legal Means": "IT Policy",
+        "Policy URL": "https://www.lasvegasnevada.gov/files/OpenDataPolicy.pdf",
+        "State": "",
+        "City": "Las Vegas, NV",
+        "County": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.17517089843749,
+          36.1733569352216
+        ]
+      }
     }
   ]
 }
