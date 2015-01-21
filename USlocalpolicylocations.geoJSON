@@ -76854,6 +76854,21 @@
           36.1733569352216
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "today",
+        "Legal Means": "policy",
+        "Policy URL": "yes!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.94140625,
+          39.774769485295465
+        ]
+      }
     }
   ]
 }
