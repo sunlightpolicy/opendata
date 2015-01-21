@@ -76854,9 +76854,9 @@
           36.1733569352216
         ]
       }
-    }
-  ]
-}      "type": "Feature",
+    },
+	{
+    "type": "Feature",
       "properties": {
         "State": "Los Angeles County",
         "Date": "1/20/2015",
