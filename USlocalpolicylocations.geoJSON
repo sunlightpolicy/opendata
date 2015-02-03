@@ -76713,7 +76713,8 @@
       "properties": {
         "Date": "5/28/2014",
         "Legal Means": "Legislation",
-        "Policy URL": "http://www.openjackson.org/policy"
+        "Policy URL": "http://www.openjackson.org/policy",
+        "City": "Jackson, MI"
       },
       "geometry": {
         "type": "Point",
@@ -76852,6 +76853,22 @@
         "coordinates": [
           -115.17517089843749,
           36.1733569352216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "1/1/2015",
+        "Legal Means": "City Manager Policy",
+        "Policy URL": "http://charmeck.org/maps/Documents/OpenDataPolicy.pdf",
+        "City": "Charlotte, NC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.848388671875,
+          35.22318504970181
         ]
       }
     }
