@@ -77601,9 +77601,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "Date": "2/19/2015",
         "Legal Means": "Executive Order",
         "Policy URL": "https://data.detroitmi.gov/about",
