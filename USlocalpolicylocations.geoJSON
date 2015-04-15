@@ -77471,7 +77471,7 @@
       "properties": {
         "Legal Means": "Administrative Regulation",
         "Date": "5/29/2014",
-        "Policy URL": "http://city-egov.cincinnati-oh.gov/Webtop/ws/fyi/public/fyi_docs/Blob/3227.pdf?rpp=-10&m=1&w=doc_no%3D%272728%27",
+        "Policy URL": "http://city-egov.cicinnati-oh.gov/Webtop/ws/fyi/public/fyi_docs/Blob/3227.pdf?rpp=-10&m=1&w=doc_no%3D%272728%",
         "City": "Cincinnati, OH"
       },
       "geometry": {
@@ -77611,6 +77611,41 @@
         "coordinates": [
           -83.05252075195312,
           42.33926006673673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Date": "10/12/2010",
+        "Legal Means": "Legislation",
+        "Policy URL": "http://www.anaheim.net/images/articles/4251/RES-2010-171.pdf",
+        "City": "Anaheim, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.91145324707031,
+          33.836914320165164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "02/09/015",
+        "Legal Means": "Administrative Directive",
+        "Policy URL": "http://www.anaheim.net/images/articles/4251/RES-2010-171.pdf",
+        "City": "Denton, TX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.13012695312499,
+          33.247875947924385
         ]
       }
     }
