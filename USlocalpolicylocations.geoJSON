@@ -77617,9 +77617,22 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
+        "Date": "02/09/015",
+        "Legal Means": "Administrative Directive",
+        "Policy URL": "http://www.cityofdenton.com/home/showdocument?id=22099",
+        "City": "Denton, TX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.13012695312499,
+          33.247875947924385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Date": "10/12/2010",
         "Legal Means": "Legislation",
         "Policy URL": "http://www.anaheim.net/images/articles/4251/RES-2010-171.pdf",
@@ -77628,24 +77641,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.91145324707031,
-          33.836914320165164
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Date": "02/09/015",
-        "Legal Means": "Administrative Directive",
-        "Policy URL": "http://www.anaheim.net/images/articles/4251/RES-2010-171.pdf",
-        "City": "Denton, TX"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.13012695312499,
-          33.247875947924385
+          -117.91351318359375,
+          33.837056906429986
         ]
       }
     }
