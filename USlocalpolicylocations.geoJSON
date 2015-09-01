@@ -77645,6 +77645,21 @@
           33.837056906429986
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "09/1/2015",
+        "Legal Means": "Executive Order",
+        "City": "Jackson, MS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.208740234375,
+          32.33355894864109
+        ]
+      }
     }
   ]
 }
