@@ -77651,7 +77651,8 @@
       "properties": {
         "Date": "09/1/2015",
         "Legal Means": "Executive Order",
-        "City": "Jackson, MS"
+        "City": "Jackson, MS",
+        "Policy URL": "http://www.jacksonms.gov/CivicAlerts.aspx?AID=443"
       },
       "geometry": {
         "type": "Point",
