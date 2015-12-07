@@ -77661,6 +77661,21 @@
           32.33355894864109
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "9/21/2015",
+        "Legal Means": "Legislation",
+        "Policy URL": "https://data.cambridgema.gov/General-Government/Cambridge-Open-Data-Ordinance-092115/tf4d-q3qs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1058759689331,
+          42.36712142656707
+        ]
+      }
     }
   ]
 }
