@@ -8,7 +8,8 @@
         "Legal Means": "Legislation",
         "Policy URL": "http://legiscan.com/TX/text/SB701/id/307737",
         "State": "Texas",
-        "City": ""
+        "City": "",
+        "WWC": "False"
       },
       "geometry": {
         "type": "Polygon",
@@ -49936,7 +49937,8 @@
         "Date": "4/10/2014",
         "Legal Means": "Legislation",
         "Policy URL": "http://mgaleg.maryland.gov/2014RS/bills/hb/hb1260t.pdf",
-        "State": "Maryland"
+        "State": "Maryland",
+        "WWC": "False"
       },
       "geometry": {
         "type": "Polygon",
@@ -58464,7 +58466,8 @@
         "State": "Illinois",
         "Date": "9/18/2120",
         "Legal Means": "Executive Order",
-        "Policy URL": "http://openstates.org/il/bills/98th/HB1040/"
+        "Policy URL": "http://openstates.org/il/bills/98th/HB1040/",
+        "WWC": "False"
       },
       "geometry": {
         "type": "Polygon",
@@ -70268,7 +70271,8 @@
         "State": "Connecticut",
         "Date": "2/20/2014",
         "Legal Means": "Executive Order",
-        "Policy URL": "http://www.governor.ct.gov/malloy/lib/malloy/EO_39_Open_Data.pdf"
+        "Policy URL": "http://www.governor.ct.gov/malloy/lib/malloy/EO_39_Open_Data.pdf",
+        "WWC": "False"
       },
       "geometry": {
         "type": "Polygon",
@@ -71176,7 +71180,8 @@
         "State": "New Hampshire",
         "Date": "5/29/2013",
         "Legal Means": "Legislation",
-        "Policy URL": "http://www.nhliberty.org/bills/view/2013/HB155"
+        "Policy URL": "http://www.nhliberty.org/bills/view/2013/HB155",
+        "WWC": "False"
       },
       "geometry": {
         "type": "Polygon",
@@ -71304,7 +71309,8 @@
         "County": "Montgomery County",
         "Date": "12/04/2012",
         "Legal Means": "Legislation",
-        "Policy URL": "http://www6.montgomerycountymd.gov/content/council/pdf/agenda/cm/2012/121126/20121126_GO2.pdf"
+        "Policy URL": "http://www6.montgomerycountymd.gov/content/council/pdf/agenda/cm/2012/121126/20121126_GO2.pdf",
+        "WWC": "False"
       },
       "geometry": {
         "type": "Polygon",
@@ -71684,7 +71690,8 @@
         "County": "Howard County",
         "Date": "7/7/2014",
         "Legal Means": "Legislation",
-        "Policy URL": "https://apps.howardcountymd.gov/olis/LegislationDetail.aspx?LegislationID=839"
+        "Policy URL": "https://apps.howardcountymd.gov/olis/LegislationDetail.aspx?LegislationID=839",
+        "WWC": "False"
       },
       "geometry": {
         "type": "Polygon",
@@ -73244,7 +73251,8 @@
         "County": "Cook County",
         "Date": "5/4/2011",
         "Legal Means": "Legislation",
-        "Policy URL": "http://www.bridgetgainer.com/board-agendas/Ordinances%20-%20May%204%202011.pdf"
+        "Policy URL": "http://www.bridgetgainer.com/board-agendas/Ordinances%20-%20May%204%202011.pdf",
+        "WWC": "False"
       },
       "geometry": {
         "type": "Polygon",
@@ -73352,7 +73360,8 @@
         "State": "New York",
         "Date": "11/3/2013",
         "Legal Means": "Executive Order",
-        "Policy URL": "http://www.governor.ny.gov/executiveorder/95"
+        "Policy URL": "http://www.governor.ny.gov/executiveorder/95",
+        "WWC": "False"
       },
       "geometry": {
         "type": "Polygon",
@@ -73640,7 +73649,8 @@
         "State": "Utah",
         "Date": "3/12/2013",
         "Legal Means": "Legislation",
-        "Policy URL": "http://le.utah.gov/~2013/bills/sbillenr/SB0283.pdf"
+        "Policy URL": "http://le.utah.gov/~2013/bills/sbillenr/SB0283.pdf",
+        "WWC": "False"
       },
       "geometry": {
         "type": "Polygon",
@@ -73704,7 +73714,8 @@
         "County": "Los Angeles County",
         "Date": "1/20/2015",
         "Legal Means": "Legislation",
-        "Policy URL": "http://file.lacounty.gov/bos/supdocs/90954.pdf"
+        "Policy URL": "http://file.lacounty.gov/bos/supdocs/90954.pdf",
+        "WWC": "False"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74430,7 +74441,8 @@
         "State": "Rhode Island",
         "Date": "1/10/2013",
         "Legal Means": "Executive Order",
-        "Policy URL": "http://www.governor.ri.gov/documents/executiveorders/2013/Executive%20Order_transparency.pdf"
+        "Policy URL": "http://www.governor.ri.gov/documents/executiveorders/2013/Executive%20Order_transparency.pdf",
+        "WWC": "False"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75852,7 +75864,8 @@
         "State": "Hawaii",
         "Date": "7/3/2013",
         "Legal Means": "Legislation",
-        "Policy URL": "http://www.capitol.hawaii.gov/session2013/bills/HB632_CD1_.htm"
+        "Policy URL": "http://www.capitol.hawaii.gov/session2013/bills/HB632_CD1_.htm",
+        "WWC": "False"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76082,7 +76095,8 @@
         "City": "Oakland, CA",
         "Date": "10/15/2013",
         "Legal Means": "Legislation",
-        "Policy URL": "http://www.scribd.com/doc/171673962/Resolution-Establishing-An-Open-Data-Policy-For-The-City-Of-Oakland-For-Making-Public-Data-Available-In-Machine-Readable-Formats-Using-Open-Data-Stand"
+        "Policy URL": "http://www.scribd.com/doc/171673962/Resolution-Establishing-An-Open-Data-Policy-For-The-City-Of-Oakland-For-Making-Public-Data-Available-In-Machine-Readable-Formats-Using-Open-Data-Stand",
+        "WWC": "False"
       },
       "geometry": {
         "type": "Point",
@@ -76098,7 +76112,8 @@
         "City": "Louisville, KY",
         "Date": "10/16/2013",
         "Legal Means": "Executive Order",
-        "Policy URL": "http://www.louisvilleky.gov/NR/rdonlyres/9E90910B-2D16-4F00-87B4-F5476BBEA792/0/opendata.pdf"
+        "Policy URL": "http://www.louisvilleky.gov/NR/rdonlyres/9E90910B-2D16-4F00-87B4-F5476BBEA792/0/opendata.pdf",
+        "WWC": "True"
       },
       "geometry": {
         "type": "Point",
@@ -76146,7 +76161,8 @@
         "City": "New York City, NY",
         "Date": "2/29/2012",
         "Legal Means": "Legislation",
-        "Policy URL": "http://nycopendata.pediacities.com/wiki/index.php/Local_Law_11_of_2012"
+        "Policy URL": "http://nycopendata.pediacities.com/wiki/index.php/Local_Law_11_of_2012",
+        "WWC": "False"
       },
       "geometry": {
         "type": "Point",
@@ -76162,7 +76178,8 @@
         "City": "Providence, RI ",
         "Date": "3/19/2012",
         "Legal Means": "Legislation (for study)",
-        "Policy URL": "http://www.gcpvd.org/2012/03/19/open-providence-commission-for-transparency-and-accountability-meeting-today-march-19/"
+        "Policy URL": "http://www.gcpvd.org/2012/03/19/open-providence-commission-for-transparency-and-accountability-meeting-today-march-19/",
+        "WWC": "True"
       },
       "geometry": {
         "type": "Point",
@@ -76178,7 +76195,8 @@
         "City": "Raleigh, NC",
         "Date": "1/24/2012",
         "Legal Means": "Resolution",
-        "Policy URL": "http://www.documentcloud.org/documents/286685-open-source-resolution.html"
+        "Policy URL": "http://www.documentcloud.org/documents/286685-open-source-resolution.html",
+        "WWC": "True"
       },
       "geometry": {
         "type": "Point",
@@ -76194,7 +76212,8 @@
         "City": "Lexington-Fayette, KY",
         "Date": "6/7/2011",
         "Legal Means": "Legislation",
-        "Policy URL": "http://www.lexingtonky.gov/Modules/ShowDocument.aspx?documentid=16343"
+        "Policy URL": "http://www.lexingtonky.gov/Modules/ShowDocument.aspx?documentid=16343",
+        "WWC": "False"
       },
       "geometry": {
         "type": "Point",
@@ -76210,7 +76229,8 @@
         "City": "Chicago, IL",
         "Date": "12/11/2012",
         "Legal Means": "Executive Order",
-        "Policy URL": "http://www.cityofchicago.org/city/en/narr/foia/open_data_executiveorder.html"
+        "Policy URL": "http://www.cityofchicago.org/city/en/narr/foia/open_data_executiveorder.html",
+        "WWC": "False"
       },
       "geometry": {
         "type": "Point",
@@ -76226,7 +76246,8 @@
         "City": "Austin, TX",
         "Date": "8/26/2013",
         "Legal Means": "Administrative Memo ",
-        "Policy URL": "http://www.open-austin.org/wp-content/uploads/2013/09/Memo-to-Mayor-and-Council-with-attached-Open-Government-Directive.pdf"
+        "Policy URL": "http://www.open-austin.org/wp-content/uploads/2013/09/Memo-to-Mayor-and-Council-with-attached-Open-Government-Directive.pdf",
+        "WWC": "False"
       },
       "geometry": {
         "type": "Point",
@@ -76242,7 +76263,8 @@
         "City": "San Francisco, CA",
         "Date": "3/28/2013",
         "Legal Means": "Legislation",
-        "Policy URL": "http://sfbos.org/ftp/uploadedfiles/bdsupvrs/committees/materials/gao_032813_121017.pdf"
+        "Policy URL": "http://sfbos.org/ftp/uploadedfiles/bdsupvrs/committees/materials/gao_032813_121017.pdf",
+        "WWC": "True"
       },
       "geometry": {
         "type": "Point",
@@ -76258,7 +76280,8 @@
         "City": "Portland, OR",
         "Date": "9/30/2009",
         "Legal Means": "Legislation",
-        "Policy URL": "http://www.portlandonline.com/shared/cfm/image.cfm?id=275696"
+        "Policy URL": "http://www.portlandonline.com/shared/cfm/image.cfm?id=275696",
+        "WWC": "True"
       },
       "geometry": {
         "type": "Point",
@@ -76274,7 +76297,8 @@
         "City": "Memphis, TN",
         "Date": "10/10/2009",
         "Legal Means": "Executive Order",
-        "Policy URL": "http://www.memphistn.gov/portals/0/pdf_forms/MayorsTransparencyExecutiveOrder.pdf"
+        "Policy URL": "http://www.memphistn.gov/portals/0/pdf_forms/MayorsTransparencyExecutiveOrder.pdf",
+        "WWC": "False"
       },
       "geometry": {
         "type": "Point",
@@ -76290,7 +76314,8 @@
         "City": "Madison, WI",
         "Date": "8/16/2012",
         "Legal Means": "Legislation",
-        "Policy URL": "http://madison.legistar.com/ViewReport.ashx?M=R&N=Text&GID=205&ID=1201083&GUID=2EC21911-798D-4499-BFAF-96BDACBCD8C7&Title=Legislation+Text"
+        "Policy URL": "http://madison.legistar.com/ViewReport.ashx?M=R&N=Text&GID=205&ID=1201083&GUID=2EC21911-798D-4499-BFAF-96BDACBCD8C7&Title=Legislation+Text",
+        "WWC":"False"
       },
       "geometry": {
         "type": "Point",
@@ -76306,7 +76331,8 @@
         "City": "South Bend, IN",
         "Date": "8/22/2013",
         "Legal Means": "Executive Order",
-        "Policy URL": "https://gist.github.com/rebeccawilliams/6311204"
+        "Policy URL": "https://gist.github.com/rebeccawilliams/6311204",
+        "WWC":"False"
       },
       "geometry": {
         "type": "Point",
@@ -76322,7 +76348,8 @@
         "City": "Bloomington, IL",
         "Date": "8/25/2014",
         "Legal Means": "Legislation",
-        "Policy URL": "http://www.cityblm.org/Modules/ShowDocument.aspx?documentid=7183"
+        "Policy URL": "http://www.cityblm.org/Modules/ShowDocument.aspx?documentid=7183",
+        "WWC":"False"
       },
       "geometry": {
         "type": "Point",
@@ -76338,7 +76365,8 @@
         "City": "Tulsa, OK",
         "Date": "5/2/2013",
         "Legal Means": "Resolution",
-        "Policy URL": "http://opentulsa.org/wp-content/uploads/2013/04/bd55b02c-59cd-46bb-8591-03642d5fde05.pdf"
+        "Policy URL": "http://opentulsa.org/wp-content/uploads/2013/04/bd55b02c-59cd-46bb-8591-03642d5fde05.pdf",
+        "WWC":"False"
       },
       "geometry": {
         "type": "Point",
@@ -76354,7 +76382,8 @@
         "City": "West Sacramento, CA",
         "Policy URL": "http://www.cityofwestsacramento.org/civica/filebank/blobdload.asp?BlobID=9779",
         "Legal Means": "Legislation",
-        "Date": "10/13/2013"
+        "Date": "10/13/2013",
+        "WWC":"False"
       },
       "geometry": {
         "type": "Point",
@@ -76370,7 +76399,8 @@
         "Date": "11/27/2013",
         "Legal Means": "Legislation",
         "City": "Honolulu, HI",
-        "Policy URL": "http://www.slideshare.net/Bytemarks/bill-53-fd1"
+        "Policy URL": "http://www.slideshare.net/Bytemarks/bill-53-fd1",
+        "WWC":"False"
       },
       "geometry": {
         "type": "Point",
@@ -76386,7 +76416,8 @@
         "Date": "12/18/2013",
         "Legal Means": "Executive Directive",
         "Policy URL": "https://gist.github.com/rebeccawilliams/8031812",
-        "City": "Los Angeles, CA"
+        "City": "Los Angeles, CA",
+        "WWC":"False"
       },
       "geometry": {
         "type": "Point",
@@ -76402,7 +76433,8 @@
         "County": "San Mateo County ",
         "Date": "03/07/2013",
         "Policy URL": "https://data.smcgov.org/Government/San-Mateo-County-Open-Data-Policy/pebe-j2ye",
-        "Legal Means": "Administrative Memo"
+        "Legal Means": "Administrative Memo",
+        "WWC":"False"
       },
       "geometry": {
         "type": "Polygon",
@@ -76480,7 +76512,8 @@
         "Policy URL": "http://legis.suffolkcountyny.gov/clerk/Resolution%20Packet/2014/reso_pack072914.pdf#page=792",
         "Legal Means": "Resolution",
         "City": "",
-        "State": ""
+        "State": "",
+        "WWC":"False"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77326,7 +77359,8 @@
         "Date": "03/25/2014",
         "Legal Means": "Legislation ",
         "Policy URL": "http://triblive.com/news/adminpage/5745435-74/government-legislation-data#axzz2vZGHmbXv",
-        "City": "Pittsburgh, PA"
+        "City": "Pittsburgh, PA",
+        "WWC":"False"
       },
       "geometry": {
         "type": "Point",
@@ -77342,7 +77376,8 @@
         "Legal Means": "Executive Order",
         "Date": "4/9/2014",
         "Policy URL": "http://www.cityofboston.gov/news/uploads/32476_53_8_5.pdf",
-        "City": "Boston, MA"
+        "City": "Boston, MA",
+        "WWC":"True"
       },
       "geometry": {
         "type": "Point",
@@ -77359,7 +77394,8 @@
         "Legal Means": "Legislation",
         "Policy URL": "http://nebula.wsimg.com/f3f47c94e13554f3b53e45220d02c783?AccessKeyId=EB836F96604CFAA85CBF&disposition=0&alloworigin=1",
         "City": "Williamsville, NY",
-        "State": ""
+        "State": "",
+        "WWC":"False"
       },
       "geometry": {
         "type": "Point",
@@ -77376,7 +77412,8 @@
         "City": "Sacramento, CA",
         "County": "",
         "Policy URL": "http://portal.cityofsacramento.org/~/media/Files/OpenData/OpenDataPolicy.ashx",
-        "Date": "12/23/2013"
+        "Date": "12/23/2013",
+        "WWC":"False"
       },
       "geometry": {
         "type": "Point",
@@ -77392,7 +77429,8 @@
         "City": "Hartford, CT",
         "Policy URL": "http://www.hartford.gov/images/mayors/executive_order_open_data.pdf",
         "Legal Means": "Executive Order",
-        "Date": "3/26/2014"
+        "Date": "3/26/2014",
+        "WWC":"False"
       },
       "geometry": {
         "type": "Point",
@@ -77408,7 +77446,8 @@
         "Legal Means": "Executive Order",
         "Date": "5/12/2014",
         "Policy URL": "http://www.nashville.gov/Portals/0/SiteContent/MayorsOffice/docs/news/140512_OpenDataExecutiveOrder.pdf",
-        "City": "Nashville, TN"
+        "City": "Nashville, TN",
+        "WWC":"False"
       },
       "geometry": {
         "type": "Point",
@@ -77424,7 +77463,8 @@
         "Legal Means": "Legislation",
         "Date": "5/22/2014",
         "Policy URL": "http://cityclerk.kcmo.org/liveweb/Documents/Document.aspx?q=2FOq%2bB1upNhpfL9WVOV53K2%2b29pUTv3WiNjkPAPuuhgfOYJLK%2foUThIZ9P7zAGRA",
-        "City": "Kansas City, MO "
+        "City": "Kansas City, MO ",
+        "WWC":"True"
       },
       "geometry": {
         "type": "Point",
@@ -77440,7 +77480,8 @@
         "Date": "5/28/2014",
         "Legal Means": "Legislation",
         "Policy URL": "http://www.openjackson.org/policy",
-        "City": "Jackson, MI"
+        "City": "Jackson, MI",
+        "WWC":"True"
       },
       "geometry": {
         "type": "Point",
@@ -77456,7 +77497,8 @@
         "Date": "5/31/2014",
         "Legal Means": "Executive Order",
         "Policy URL": "https://github.com/cityofchattanooga/Chattanooga-Open-Data-Policy",
-        "City": "Chattanooga, TN"
+        "City": "Chattanooga, TN",
+        "WWC":"True"
       },
       "geometry": {
         "type": "Point",
@@ -77472,7 +77514,8 @@
         "Legal Means": "Administrative Regulation",
         "Date": "5/29/2014",
         "Policy URL": "http://city-egov.cicinnati-oh.gov/Webtop/ws/fyi/public/fyi_docs/Blob/3227.pdf?rpp=-10&m=1&w=doc_no%3D%272728%",
-        "City": "Cincinnati, OH"
+        "City": "Cincinnati, OH",
+        "WWC":"False"
       },
       "geometry": {
         "type": "Point",
@@ -77488,7 +77531,8 @@
         "Policy URL": "http://www.slcinfobase.com/PPAREO/#!WordDocuments/opendataportalprocedures.htm",
         "Legal Means": "Legislation",
         "City": "Salt Lake City, UT",
-        "Date": "6/5/2014"
+        "Date": "6/5/2014",
+        "WWC":"False"
       },
       "geometry": {
         "type": "Point",
@@ -77504,7 +77548,8 @@
         "Date": "8/01/2014",
         "Legal Means": "Legislation",
         "Policy URL": "http://www.minneapolismn.gov/www/groups/public/@clerk/documents/webcontent/wcms1p-128978.pdf",
-        "City": "Minneapolis, MN"
+        "City": "Minneapolis, MN",
+        "WWC":"False"
       },
       "geometry": {
         "type": "Point",
@@ -77520,7 +77565,8 @@
         "Date": "9/18/2014",
         "Legal Means": "Legislation",
         "Policy URL": "http://www.houstontx.gov/adminpolicies/8-7.html",
-        "City": "Houston, TX"
+        "City": "Houston, TX",
+        "WWC":"False"
       },
       "geometry": {
         "type": "Point",
@@ -77536,7 +77582,8 @@
         "Date": "10/6/2014",
         "Legal Means": "Legislation",
         "Policy URL": "http://blogs.artvoice.com/avdaily/2014/10/06/amherst-creating-an-open-government-advisory-board/",
-        "City": "Amherst, NY"
+        "City": "Amherst, NY",
+        "WWC":"False"
       },
       "geometry": {
         "type": "Point",
@@ -77554,7 +77601,8 @@
         "Policy URL": "http://www.sandiego.gov/pad/pdf/opendatapolicy.pdf",
         "State": "",
         "City": "San Diego, CA",
-        "County": ""
+        "County": "",
+        "WWC":"False"
       },
       "geometry": {
         "type": "Point",
@@ -77572,7 +77620,8 @@
         "Policy URL": "https://www.lasvegasnevada.gov/files/OpenDataPolicy.pdf",
         "State": "",
         "City": "Las Vegas, NV",
-        "County": ""
+        "County": "",
+        "WWC":"True"
       },
       "geometry": {
         "type": "Point",
@@ -77588,7 +77637,8 @@
         "Date": "1/1/2015",
         "Legal Means": "City Manager Policy",
         "Policy URL": "http://charmeck.org/maps/Documents/OpenDataPolicy.pdf",
-        "City": "Charlotte, NC"
+        "City": "Charlotte, NC",
+        "WWC":"True"
       },
       "geometry": {
         "type": "Point",
@@ -77604,7 +77654,8 @@
         "Date": "2/19/2015",
         "Legal Means": "Executive Order",
         "Policy URL": "https://data.detroitmi.gov/about",
-        "City": "Detroit, MI"
+        "City": "Detroit, MI",
+        "WWC":"False"
       },
       "geometry": {
         "type": "Point",
@@ -77620,7 +77671,8 @@
         "Date": "02/09/015",
         "Legal Means": "Administrative Directive",
         "Policy URL": "http://www.cityofdenton.com/home/showdocument?id=22099",
-        "City": "Denton, TX"
+        "City": "Denton, TX",
+        "WWC":"False"
       },
       "geometry": {
         "type": "Point",
@@ -77636,7 +77688,8 @@
         "Date": "10/12/2010",
         "Legal Means": "Legislation",
         "Policy URL": "http://www.anaheim.net/images/articles/4251/RES-2010-171.pdf",
-        "City": "Anaheim, CA"
+        "City": "Anaheim, CA",
+        "WWC":"False"
       },
       "geometry": {
         "type": "Point",
@@ -77652,7 +77705,8 @@
         "Date": "09/1/2015",
         "Legal Means": "Executive Order",
         "City": "Jackson, MS",
-        "Policy URL": "http://www.jacksonms.gov/CivicAlerts.aspx?AID=443"
+        "Policy URL": "http://www.jacksonms.gov/CivicAlerts.aspx?AID=443",
+        "WWC":"True"
       },
       "geometry": {
         "type": "Point",
@@ -77665,9 +77719,11 @@
     {
       "type": "Feature",
       "properties": {
+        "City": "Cambridge",
         "Date": "9/21/2015",
         "Legal Means": "Legislation",
-        "Policy URL": "https://data.cambridgema.gov/General-Government/Cambridge-Open-Data-Ordinance-092115/tf4d-q3qs"
+        "Policy URL": "https://data.cambridgema.gov/General-Government/Cambridge-Open-Data-Ordinance-092115/tf4d-q3qs",
+        "WWC": "True"
       },
       "geometry": {
         "type": "Point",
