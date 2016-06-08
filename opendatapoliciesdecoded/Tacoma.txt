@@ -1,0 +1,42 @@
+
+Tacoma, WA
+SUMMARY: The Information Technology Department (lTD) recommends that Council approve an open data resolution to affirm the City's commitment to proactively publish data related to City operations and performance. The basis for this recommendation is that open data initiatives improve transparency, deepen trust between government and citizens, and lead to improved use of data for both private and public sector stakeholders. 
+STRATEGIC POLICY PRIORITY:
+• Encourage and promote an efficient and effective government, which is fiscally sustainable and guided by engaged residents.
+BACKGROUND:
+The City has a decade-long history of sharing data with the public through its websites such as Cityoffacoma.org, GovME.org and TacomaCrime.org.
+In August 2014, the City launched a pilot initiative to publish larger volumes of data directly to the public using cloud-based software services. The City's open data portal, TacomaData.org, has become an effective means for proactively sharing valuable information, including public safety and infrastructure data, with the public. Since 2014, staff from several City departments has published 70 unique datasets. TacomaData received over 600,000 page views in 2015.
+In an effort to improve the City's practices for open data, the City applied in June 2015 to participate in the Bloomberg Philanthropies' What Works Cities Initiative to accelerate the use of data and evidence to engage the community, make government more effective, and improve people's lives. Tacoma was selected to participate as one of one hundred cities to receive technical assistance from the Sunlight Foundation, John Hopkins University's Center for Government Excellence, and the Harvard Kennedy School.
+Based on an on-site workshop and self-assessment, What Works Cities and Tacoma's executive leadership team identified two focus areas for the partnership: performance management and open data. Staff has worked with What Works Cities team members over the past several months to draft open data policies and procedures designed to improve Tacoma's ability to respond to data requests from residents, departments, and non-governmental organizations, and to improve the use of data assets.
+ISSUE:
+In order to build on recent successes and to formalize the City's ongoing commitment to proactively publish data, staff proposes the establishment of an open data initiative. The goals of the open data initiative are to increase transparency and engagement, to improve accountability, and to enhance service delivery. The objective is to publish high value datasets for the public without compromising sensitive or confidential information.
+The initiative would be designed to:
+(1) Proactively release high value city data, making it freely available in open formats with no restrictions on use or reuse, and fully accessible to the broadest range of users and uses;
+(2) Encourage optimal use of data by maintaining descriptors that define the published data, and by keeping datasets as current and consistent as possible;
+(3) Establish and maintain an open data web portal that provides a central location for published city data;
+(4) Minimize limitations on disclosure of public information while appropriately safeguarding sensitive or confidential information; and
+(5) Encourage innovative and productive use of the city's published data
+ITD proposes to manage this initiative through an open data governance board, comprised of City staff members from various departments to plan, execute, and monitor the open data initiative and to produce an annual progress report, via the City Manager, for Council.
+ALTERNATIVES:
+The City Council may choose not to adopt the open data resolution at this time and may direct the City Manager to either continue or modify the City's current open data pilot. The recommended resolution is the best alternative to foster efficient and effective government by collecting and publishing open data and making it easily accessible to engaged residents and stakeholders.
+RECOMMENDATION:
+ITD recommends that Council approve an open data resolution to affirm the City's commitment to proactively publish data related to City operations and performance.
+FISCAL IMPACT:
+Existing City software tools and services would suffice the recommended solution. Such software tools and services are currently budgeted through the 2015-2016 biennium in Fund 5800.
+------
+RESOLUTION NO. 39378 REQUESTED BY MAYOR STRICKLAND
+A RESOLUTION relating to governmental transparency, reaffirming the City’s commitment to promote an efficient, collaborative open government with an Open Data Initiative for timely and consistent publication of public information that fosters accountability and responsiveness.
+WHEREAS the City is committed to engaging the community and improving public knowledge of City operations, and
+WHEREAS access to public information promotes a higher level of civic engagement and allows citizens to provide valuable feedback to government officials regarding local issues, and
+WHEREAS, by consistent and timely sharing of data, the City seeks to develop economic opportunities and increased civic engagement for its citizens, and
+WHEREAS information technologies, including web-based and other internet applications and services, are an essential means for open government and good government, generally, and
+WHEREAS the City is committed to leveraging technology to respond to public needs and service requests, and has launched TacomaFIRST 311, TacomaData, and other applications in this regard, and
+WHEREAS, in commitment to the spirit of open government, the City considers public information to be open by default and proactively publishes high value, publicly disclosable data, and
+WHEREAS the protection of privacy, confidentiality, and security must be maintained as a paramount priority while also advancing governmental transparency and accountability through open data, and
+WHEREAS a comprehensive open data program enhances coordination and efficiencies between City departments and partner organizations, and
+WHEREAS the development of an Open Data Initiative improves transparency, access to public information, and improved governmental performance; Now, Therefore,
+BE IT RESOLVED BY THE COUNCIL OF THE CITY OF TACOMA:
+Section 1. That the City Council hereby reaffirms its commitment to an efficient, collaborative, and open government advanced by the timely and consistent publication of publicly disclosable information as open data.
+Section 2. That the City Council supports the establishment of an Open Data Initiative which shall include (1) proactively releasing high priority publicly disclosable City data, making it freely available in open formats with no restrictions on use or reuse, and fully accessible to the broadest range of users and uses; (2) encouraging optimal use of data by maintaining descriptors that define the published data, and by keeping datasets as current and consistent as possible; (3) establishing and maintaining an open data web portal that provides a central location for published City data; (4) minimizing limitations on disclosure of public information while appropriately safeguarding protected and sensitive information; and (5) encouraging innovative use of the City’s publishable data by the public and other agencies and partners.
+Section 3. That the appropriate City representatives, shall plan, execute, and monitor the Open Data Initiative; shall actively encourage departmental, partner and public participation; and shall annually submit an open data progress report to the City Council.
+Final action: 2/2/2016 (adopted)

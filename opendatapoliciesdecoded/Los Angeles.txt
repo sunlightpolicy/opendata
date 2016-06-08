@@ -1,0 +1,19 @@
+
+Los Angeles, CA
+
+Executive Directive No. 3 Issue Date: December 18, 2013
+Subject: Open Data
+To promote transparency and accountability, the City of Los Angeles (“City”) will make publicly available raw data in easy-to-find and accessible formats. Open Data is raw data generated or collected by government agencies made freely available for use by the public, subject only to valid privacy, confidentiality, security, and other legal restrictions.
+Open Data empowers Angelenos to participate in governance with greater understanding and impact. Opening government data to entrepreneurs and businesses promotes innovation by putting that information to work in ways outside the expertise of government institutions and gives companies, individuals, and nonprofit organizations the opportunity to leverage one of government’s greatest assets: public information. Most significantly, it fosters creative new thinking about solving our most intractable challenges through public-private partnerships and promoting a culture of data sharing between our own City departments and other civic resources.
+Open data and analysis has already been the hallmark of the successful application of COMPSTAT in the Los Angeles Police Department, spurring innovation and producing dramatic and tangible reductions in crime each year for the past decade. 
+Pursuant to the City’s commitment to transparency of government data and this Executive Directive, the following instructions shall be implemented:
+The General Manager of the Information Technology Agency and the Mayor’s Deputy Mayor for Budget & Innovation establish an Open Data Portal that will serve as the central source for departmental open data. All datasets determined to be accessible to the public shall be made available on this portal (to the extent permitted by law and subject to valid privacy, confidentiality, security, and other legal restrictions).
+Each City department (including, but not limited to, the Department of Water and Power, Los Angeles World Airports, Port of Los Angeles, Los Angeles City Employees’ Retirement System, Los Angeles Fire and Police Pensions, Department of Recreation and Parks, and Los Angeles Public Library) make all appropriate data sets available online on this portal. The data shall be provided in an open format that can be retrieved, downloaded, searched, and filtered by commonly used web search applications and software. Whenever possible, data should be made available in machine-readable format(s).
+Each City department (including, but not limited to, the Department of Water and Power, Los Angeles World Airports, Port of Los Angeles, Los Angeles City Employees’ Retirement System, Los Angeles Fire and Police Pensions, Department of Recreation and Parks, and Los Angeles Public Library) make efforts to update its public data on a regular basis (preferably automatically) and strive to improve transparency, participation, and collaboration.
+IT professionals across departments will collaborate and take proactive efforts to publicize open datasets, establish useful applications employing these datasets, and collaborate with local entities (civic-minded developers, universities, corporations, start-ups, non-profits, civic organizations etc.) to experiment with new technologies, visualizations, and applications with the goal of identifying cost-effective solutions to improve our government and community. 
+Executed this 18th day of December, 2013
+
+
+
+
+

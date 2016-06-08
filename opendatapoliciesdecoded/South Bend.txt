@@ -1,0 +1,165 @@
+
+South Bend, IN
+
+CITY OF SOUTH BEND, INDIANA
+EXECUTIVE ORDER NO. 2-2013
+ESTABLISHMENT OF OPEN DATA PORTAL FOR PUBLIC INFORMATION
+WHEREAS, this Administration is committed to timely and consistent publication of data consistent with the Indiana Access to Public Records Act (APRA) which is essential to open and effective government; and 
+WHEREAS, this Administration seeks to empower the citizens of South Bend to participate in governance by providing easy and open access to maximum public data and information consistent with APRA; and 
+WHEREAS, the City of South Bend whenever possible shall procure technology and use efficient processes which advance the goal of making public data and information open and available consistent with APRA through the use of open data standards and formats; and 
+WHEREAS, the City of South Bend’s Division of Information and Technologies is positioned to work with other City agencies to find and provide access to public data and information; to make that information freely available online in a machine-readable, open format, which can be easily retrieved, downloaded, indexed, sorted, searched, analyzed and reused utilizing readily available Web search applications and software; and 
+WHEREAS, this Administration seeks to develop a culture which supports the provision and use of open data. 
+NOW, THEREFORE, by virtue of the authority vested in me as the Chief Executive and Administrative Officer of the City, it is hereby ordered as follows: 
+1. Definitions
+As used in this in this Executive Order the terms below shall have the following definitions: 
+Public Data or Information means any data or information generated or received by the City of South Bend (the City) as defined by the Indiana Access to Public Records Act (APRA) at Ind. Code 5-14-3-2(n) which is fully disclosable under APRA or which the City has no discretion to refrain from disclosing under APRA at Ind. Code 5-14-3-4(b).
+Open Data or Information means public data or information made readily available online, utilizing best practice structures and formats when possible.
+Open Format is any widely accepted, nonproprietary, searchable, platform-independent, machine-readable method for formatting data.
+Open Data Portal means the Internet site established and maintained by or on behalf of the City, located at data.southbendin.gov or its successor website.
+Open Data Management Team means the group within the Division of Information Technologies or its successor that is coordinating implementation of open public data policy.
+2. Open Data Portal
+(a) A single web portal shall be 
+(i) established and maintained by or on behalf of the City;
+(ii) administered by the Division of Information Technologies or its successor Department; and
+(iii) located at data.southbendin.gov or its successor website.
+(b) Any dataset made accessible on the City’s Open Data Portal shall 
+(i) use a format that permits automated processing of such data and
+
+(ii) be accessible to external search capabilities.
+3. Open Data Management Team—Division of Information Technologies
+The head of Division of Information Technologies shall identify a team to oversee the implementation and management of Open Data Portal policies and infrastructure. The team will coordinate the publication of public data from other City agencies and Commissions on the Open Data Portal, and will manage the Open Data Portal itself. 
+4. Open Data Coordinators
+The head of each City agency or Commission shall designate from within the City Agency or Commission an Open Data Portal coordinator. Each Open Data Portal coordinator shall 
+(i) identify and communicate to the Open Data Management Team the public data that can be but is not being published online;
+(ii) establish timelines with the Open Data Management Team for publishing the public data on the Open Data Portal; and
+(iii) assist the Open Data Management Team with publication of the public data, and if possible, to publish the data themselves. Public data will be published and maintained on the Open Data Portal on an ongoing basis and in its raw form when available.
+5. Annual Open Data Report
+Within one year of the effective date of this Executive Order, and thereafter no later than September 1 of each year, the Open Data Management Team shall submit to the Mayor an annual open data report. Such annual report shall 
+(i) summarize and comment on the state of open data and dataset availability in City agencies from the previous year;
+(ii) provide a plan for the next year to improve online public access to public data and maintain data quality. The Open Data Management Team shall present an initial implementation plan to the Mayor within 180 days of this Executive Order.
+6. Notice of Executive Order
+The Clerk of the City of South Bend shall cause a notice of this Executive Order, and the action taken herein, to be published under Indiana Code 5-3-1 and in accordance with Indiana Code 36-4-9-6 (e). 
+7. Effective Date
+This Executive Order shall become effective immediately upon execution. 
+DATED this _____ day of August, 2013. 
+CITY OF SOUTH BEND, INDIANA
+(Seal) 
+
+
+South Bend, IN
+CITY OF SOUTH BEND, INDIANA
+EXECUTIVE ORDER NO. 2-2013
+ESTABLISHMENT OF OPEN DATA PORTAL FOR PUBLIC INFORMATION
+WHEREAS, this Administration is committed to timely and consistent publication of data consistent with the Indiana Access to Public Records Act (APRA) which is essential to open and effective government; and
+WHEREAS, this Administration seeks to empower the citizens of South Bend to participate in governance by providing easy and open access to maximum public data and information consistent with APRA; and
+WHEREAS, the City of South Bend whenever possible shall procure technology and use efficient processes which advance the goal of making public data and information open and available consistent with APRA through the use of open data standards and formats; and
+WHEREAS, the City of South Bend’s Division of Information and Technologies is positioned to work with other City agencies to find and provide access to public data and information; to make that information freely available online in a machine-readable, open format, which can be easily retrieved, downloaded, indexed, sorted, searched, analyzed and reused utilizing readily available Web search applications and software; and
+WHEREAS, this Administration seeks to develop a culture which supports the provision and use of open data.
+NOW, THEREFORE, by virtue of the authority vested in me as the Chief Executive and Administrative Officer of the City, it is hereby ordered as follows:
+1. Definitions
+As used in this in this Executive Order the terms below shall have the following definitions:
+Public Data or Information means any data or information generated or received by the City of South Bend (the City) as defined by the Indiana Access to Public Records Act (APRA) at Ind. Code 5-14-3-2(n) which is fully disclosable under APRA or which the City has no discretion to refrain from disclosing under APRA at Ind. Code 5-14-3-4(b).
+
+Open Data or Information means public data or information made readily available online, utilizing best practice structures and formats when possible.
+
+Open Format is any widely accepted, nonproprietary, searchable, platform-independent, machine-readable method for formatting data.
+
+Open Data Portal means the Internet site established and maintained by or on behalf of the City, located at data.southbendin.gov or its successor website.
+
+Open Data Management Team means the group within the Division of Information Technologies or its successor that is coordinating implementation of open public data policy.
+
+2. Open Data Portal
+(a) A single web portal shall be
+(i) established and maintained by or on behalf of the City;
+
+(ii) administered by the Division of Information Technologies or its successor Department; and
+
+(iii) located at data.southbendin.gov or its successor website.
+
+(b) Any dataset made accessible on the City’s Open Data Portal shall
+(i) use a format that permits automated processing of such data and
+
+(ii) be accessible to external search capabilities.
+
+3. Open Data Management Team—Division of Information Technologies
+The head of Division of Information Technologies shall identify a team to oversee the implementation and management of Open Data Portal policies and infrastructure. The team will coordinate the publication of public data from other City agencies and Commissions on the Open Data Portal, and will manage the Open Data Portal itself.
+4. Open Data Coordinators
+The head of each City agency or Commission shall designate from within the City Agency or Commission an Open Data Portal coordinator. Each Open Data Portal coordinator shall
+(i) identify and communicate to the Open Data Management Team the public data that can be but is not being published online;
+
+(ii) establish timelines with the Open Data Management Team for publishing the public data on the Open Data Portal; and
+
+(iii) assist the Open Data Management Team with publication of the public data, and if possible, to publish the data themselves. Public data will be published and maintained on the Open Data Portal on an ongoing basis and in its raw form when available.
+
+5. Annual Open Data Report
+Within one year of the effective date of this Executive Order, and thereafter no later than September 1 of each year, the Open Data Management Team shall submit to the Mayor an annual open data report. Such annual report shall
+(i) summarize and comment on the state of open data and dataset availability in City agencies from the previous year;
+
+(ii) provide a plan for the next year to improve online public access to public data and maintain data quality. The Open Data Management Team shall present an initial implementation plan to the Mayor within 180 days of this Executive Order.
+
+6. Notice of Executive Order
+The Clerk of the City of South Bend shall cause a notice of this Executive Order, and the action taken herein, to be published under Indiana Code 5-3-1 and in accordance with Indiana Code 36-4-9-6 (e).
+7. Effective Date
+This Executive Order shall become effective immediately upon execution.
+DATED this _____ day of August, 2013.
+CITY OF SOUTH BEND, INDIANA
+(Seal)
+
+PETE BUTTIGIEG, MAYOR
+ATTEST: Approved as to Form and Legality:
+END, INDIANA
+EXECUTIVE ORDER NO. 2-2013
+ESTABLISHMENT OF OPEN DATA PORTAL FOR PUBLIC INFORMATION
+WHEREAS, this Administration is committed to timely and consistent publication of data consistent with the Indiana Access to Public Records Act (APRA) which is essential to open and effective government; and
+WHEREAS, this Administration seeks to empower the citizens of South Bend to participate in governance by providing easy and open access to maximum public data and information consistent with APRA; and
+WHEREAS, the City of South Bend whenever possible shall procure technology and use efficient processes which advance the goal of making public data and information open and available consistent with APRA through the use of open data standards and formats; and
+WHEREAS, the City of South Bend’s Division of Information and Technologies is positioned to work with other City agencies to find and provide access to public data and information; to make that information freely available online in a machine-readable, open format, which can be easily retrieved, downloaded, indexed, sorted, searched, analyzed and reused utilizing readily available Web search applications and software; and
+WHEREAS, this Administration seeks to develop a culture which supports the provision and use of open data.
+NOW, THEREFORE, by virtue of the authority vested in me as the Chief Executive and Administrative Officer of the City, it is hereby ordered as follows:
+1. Definitions
+As used in this in this Executive Order the terms below shall have the following definitions:
+Public Data or Information means any data or information generated or received by the City of South Bend (the City) as defined by the Indiana Access to Public Records Act (APRA) at Ind. Code 5-14-3-2(n) which is fully disclosable under APRA or which the City has no discretion to refrain from disclosing under APRA at Ind. Code 5-14-3-4(b).
+
+Open Data or Information means public data or information made readily available online, utilizing best practice structures and formats when possible.
+
+Open Format is any widely accepted, nonproprietary, searchable, platform-independent, machine-readable method for formatting data.
+
+Open Data Portal means the Internet site established and maintained by or on behalf of the City, located at data.southbendin.gov or its successor website.
+
+Open Data Management Team means the group within the Division of Information Technologies or its successor that is coordinating implementation of open public data policy.
+
+2. Open Data Portal
+(a) A single web portal shall be
+(i) established and maintained by or on behalf of the City;
+
+(ii) administered by the Division of Information Technologies or its successor Department; and
+
+(iii) located at data.southbendin.gov or its successor website.
+
+(b) Any dataset made accessible on the City’s Open Data Portal shall
+(i) use a format that permits automated processing of such data and
+
+(ii) be accessible to external search capabilities.
+
+3. Open Data Management Team—Division of Information Technologies
+The head of Division of Information Technologies shall identify a team to oversee the implementation and management of Open Data Portal policies and infrastructure. The team will coordinate the publication of public data from other City agencies and Commissions on the Open Data Portal, and will manage the Open Data Portal itself.
+4. Open Data Coordinators
+The head of each City agency or Commission shall designate from within the City Agency or Commission an Open Data Portal coordinator. Each Open Data Portal coordinator shall
+(i) identify and communicate to the Open Data Management Team the public data that can be but is not being published online;
+(ii) establish timelines with the Open Data Management Team for publishing the public data on the Open Data Portal; and
+(iii) assist the Open Data Management Team with publication of the public data, and if possible, to publish the data themselves. Public data will be published and maintained on the Open Data Portal on an ongoing basis and in its raw form when available.
+5. Annual Open Data Report
+Within one year of the effective date of this Executive Order, and thereafter no later than September 1 of each year, the Open Data Management Team shall submit to the Mayor an annual open data report. Such annual report shall
+(i) summarize and comment on the state of open data and dataset availability in City agencies from the previous year;
+(ii) provide a plan for the next year to improve online public access to public data and maintain data quality. The Open Data Management Team shall present an initial implementation plan to the Mayor within 180 days of this Executive Order.
+6. Notice of Executive Order
+The Clerk of the City of South Bend shall cause a notice of this Executive Order, and the action taken herein, to be published under Indiana Code 5-3-1 and in accordance with Indiana Code 36-4-9-6 (e).
+7. Effective Date
+This Executive Order shall become effective immediately upon execution.
+DATED this _____ day of August, 2013.
+CITY OF SOUTH BEND, INDIANA
+(Seal)
+
+PETE BUTTIGIEG, MAYOR
+ATTEST: Approved as to Form and Legality:
+

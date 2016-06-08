@@ -1,0 +1,43 @@
+
+Minneapolis, MN
+Open Data Policy
+I. Purpose and Scope of the Policy
+A. Statement: Recognizing that timely and consistent access to public data is an essential component of an open, transparent, collaborative and effective government, City of Minneapolis Government is committed to proactively sharing its data as broadly as possible via an Open Data Portal.
+B. Purpose: The purpose of this policy is to set guidelines for incorporating an open data framework into existing and future systems and procedures, and aid in determining what data sets should be made public, how to make the data sets public, and how to maintain the existing published data sets. By making its data available online, the City will enable the public to: (1) assist in identifying efficient solutions for government, (2) promote innovative strategies for social progress, and (3) create economic opportunities.
+C. Objectives: There shall be a City Open Data Portal available within 120 days of this policy enactment, for access by the public where (1) all data sets published shall use a format that permits processing of the data for download through an automated programming interface (API) or bulk download; (2) the public is notified of updates to the data; (3) all data sets should be accessible to external search capabilities, such as Google, etc.; and (4) provide functionality to solicit feedback from the public and to encourage public discussion on open data policies and data set availability;
+1. For purposes of prioritizing data sets for inclusion on the Open Data Portal, Departments should consider the following: (1) whether the data is frequently requested; (2) helps increase the City's accountability, efficiency, responsiveness or delivery of services; (3) the data set improves public knowledge of the City and its operations, or furthers the goals of the City;
+2. All appropriate IT procurements awarded after January 1, 2015 shall have contract provisions ensuring information systems implement open data initiatives when operational. Contract provisions shall promote the City's open data policies, including, where appropriate, provisions to ensure that the City retains ownership of City data and the ability to publish the data on the Open Data Portal or make it available through other means;
+3. The City of Minneapolis Chief Information Officer (CIO) or designee is responsible for sharing City data with the public, facilitating the sharing of information between City departments, and analyzing how data sets can be used to improve city decision-making, and lead the open data initiatives outlined in this policy; and
+4. The City of Minneapolis CIO, or the CIO’s designee, is responsible for the management and implementation of this policy, including development and management of procedures and operational strategies necessary to accomplish these policy objectives, and shall submit an Open Data Compliance Report due June 30 annually; and
+5. Each Department will identify an Open Data Coordinator(s) who may: (1) coordinate activities within their respective departments to achieve these open data policy goals; (2) serve on the Open Data Advisory Group; and (3) assist the IT Department in the preparation of the annual Open Data Compliance Report.
+II. Definitions
+Data Set means statistical or factual information (1) contained in structured data sets; and (2) regularly created or maintained by or on behalf of and owned by a department which supports or contributes to the delivery of its services, programs, and functions. Such term shall not include image files or other non-structured data sets. Nothing in this policy shall be deemed to prohibit a department from voluntarily sharing information not otherwise covered under this policy.
+Open Data Portal means an online repository for open data that is assessable through the public Internet to facilitate access to and re-use of public sector information.
+Open Data means public information that should be freely available for use and re-use that does not need to be kept private due to federal law, state statute, city ordinance, or other policy.
+III. General Conditions
+Procedures are located separately.
+IV. Roles and Responsibilities for Administrating the Policy
+The publication of data sets will be done in close cooperation between City departments and the City IT Department, according to the following recommended guidelines:
+Department Responsibilities
+IT Department Responsibilities
+Identify data that should be designated private on account of valid privacy, security, privilege, statutory, administrative cost concerns, or other privacy reasons and, if possible, specify how any private data can be aggregated, generalized or otherwise de-identified so it can be made public. 
+Provide and administer a reliable data portal adequately provisioned to host City data. 
+Maintain accuracy and quality of supplied data sets. 
+Publish Department data through the City web site accessible to external search capabilities. 
+Support (i.e. fund) development necessary to extract, transfer and load data. 
+Develop necessary technical processes, automated if possible, to extract, transfer and load department data. 
+Provide a comprehensive inventory of information possessed and/or managed by the Department, classifying data sets as currently "public" or "not yet public" or "protected" (give reasoning). 
+Provide an Open Data catalogue capability
+Assist in the resolution of discrepancies or inconsistent reporting results. 
+Maintain integrity of supplied data sets.
+Provide subject matter expertise necessary to interpret data set content for public. 
+Make provision for support in the use of the City data portal by the public. 
+Describe the data fields contained in given data set (i.e. metadata).
+Establish minimal metadata requirements needed for the public to understand what the data are, and how and when they were collected. 
+Notify IT Department in advance when an application or database will be unavailable, changed or restated. 
+Implement functionality to solicit feedback from the public and to encourage public discussion on open data policies and public data set availability on the City data portal. 
+
+V. Open Data Legal Disclaimer
+Public data sets made available on the Open Data Portal are compilations of records, information and data from various sources, including other public entities or private entities, and are provided for informational purposes only. The public data sets on the Open Data Portal are intended for use by the City and may be inaccurate for other uses. The City does not warrant or guarantee the completeness, accuracy, content or fitness for any particular purpose or use of any public data set made available on the data portal, nor are any such warranties or guarantees to be implied or inferred with respect to the public data sets furnished therein. To the fullest extent permitted by law, the City disclaims any liability for any deficiencies in the completeness, accuracy, content or fitness for any particular purpose or use of any public data set, or application utilizing such data set. The City reserves the right to discontinue availability of content via the Open Data Portal, consistent with the City’s retention schedules and associated policies.
+VI. Policy Evolution
+In acknowledgement that technology changes rapidly, in the future, the Open Data Policy should be reviewed and considered for revisions or additions that will continue to position the City of Minneapolis as a leader on issues of openness, efficiency, and technical best practices.

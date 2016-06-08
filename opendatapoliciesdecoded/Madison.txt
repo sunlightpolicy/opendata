@@ -1,0 +1,76 @@
+
+Madison, WI
+The Common Council of the City of Madison do hereby ordain as follows:
+I. Subdivision (c) entitled “Public Records Opt Out Policy and Procedures” of Subsection (6) entitled “Time for Compliance and Procedures” of Section 3.70 entitled “Public Records” of the Madison General Ordinances is created to read as follows:
+“(c) Public Records Opt-Out Policy and Procedures. The City shall develop a procedure whereby individuals may inform the City that their safety may be endangered by the release of any otherwise available public records and whereby such individuals may request that such records be maintained as confidential records. The Office of the City Attorney and IT shall work cooperatively to develop the necessary procedures and policies to facilitate such communications and to respond appropriately to such communications.”
+
+II. Section 3.72 entitled “Public Accessibility to Municipal Data Sets” of the Madison General Ordinances is created to read as follows:
+3.72 PUBLIC ACCESSIBILITY TO MUNICIPAL DATA SETS.
+(1) Declaration of Policy. It is in the best interest of city that its agencies and departments make their data available online using open standards. Making city data available online using open standards will make the operation of city government more transparent, effective and accountable to the public. It will streamline intra-governmental and inter-governmental communication and interoperability, promote efficient solutions for government, advance innovative strategies for social progress, and create economic opportunities.
+(2) Definitions. As used in this ordinance:
+"Agency" means any city office, department, division, or agency.
+"Data" means final versions of statistical or factual information:
+1. In alphanumeric form reflected in a list, table, graph, chart or other non-narrative form, that can be digitally transmitted or processed; and
+2. Regularly created or maintained by or on behalf of and owned by an agency that records a measurement, transaction, or determination related to the mission of an agency. Such term shall not include information provided to an agency by other governmental entities, nor shall it include image files, such as designs,drawings, maps, photos, or scanned copies of original documents. Nothing in this ordinance shall be deemed to prohibit an agency from voluntarily disclosing information not otherwise defined as "data" in this subdivision.
+"Department" means the Information Technology Department.
+"Determination" means any final decision made by an agency with respect to a person, including, but not limited to:
+1. Eligibility for services or benefits;
+2. Issuing a permit;
+3. Registration, certification and licensing; and
+4. Liability for civil and criminal penalties.
+"Measurement" means to quantify by means of comparison to a reference standard any characteristic of an observable event, occurrence or object.
+"Open standard" means a technical standard developed and maintained by a voluntary consensus standards body that is available to the public without royalty or fee.
+"Public data set" means a comprehensive collection of interrelated data that is available for inspection by the public in accordance with any provision of the Wisconsin Public Records Laws (Wis. Stats. §§ 19.31-19.37) and the Madison Public Records Ordinance (Sec. 3.70, MGO) and is maintained on a computer system by, or on behalf of, an agency. Such term shall not include:
+1. Any data set or portion thereof to which an agency may deny access pursuant to the public records laws or any other provision of a federal or state law, rule or regulation or local law;
+2. Any data set that contains a significant amount of confidential data pursuant to the preceding subsection and where removing such data would impose undue financial or administrative burden;
+3. Data that reflects the internal deliberative process of an agency or agencies, including but not limited to negotiating positions, future procurements, or pending or reasonably anticipated legal or administrative proceedings;
+4. Data stored on an agency-owned personal computing device, or data stored on a portion of a network that has been exclusively assigned to a single agency employee or a single agency owned or controlled computing device;
+5. Materials subject to copyright, patent, trademark, confidentiality agreements or trade secret protection;
+6. Proprietary applications, computer code, software, operating systems or similar materials; or
+7. Employment records, internal employee-related directories or lists, and facilities data, information technology, internal service-desk and other data related to internal agency administration.
+8. Legacy Data. Any public data set that, due to its size or complexity, or due to technology constraints, cannot be made available on the internet, shall be classified as legacy. Agencies shall make best efforts to avoid placing public data sets into the legacy classification.
+9. Any data set or portion thereof which contains any personally identifiable information that can be associated with a particular individual through one or more identifiers or other information or circumstances and specifically includes, but is not limited to, a private individual's home address, personal electronic mail address, personal telephone number, social security number and/or driver’s license number.
+"Technical standard" means the common and repeated use of rules, conditions, guidelines or characteristics for products or related processes and production methods, and related management systems practices; and
+1. The definition of terms;
+2. Classification of components;
+3. Delineation of procedures;
+4. Specifications of dimensions, materials, performance, designs or operations;
+5. Measurement of quality and quantity in describing materials, processes, products, systems, services or practices;
+6. Test methods and sampling procedures; or
+7. Descriptions of fit and measurements of size or strength.
+"Transaction" means any interaction between an agency and any person related to the mission of an agency.
+"Voluntary consensus standards body" means a domestic or international organization that develops and maintains a technical standard that utilizes a transparent deliberative process, permits the participation of any party, and achieves general consensus, although not necessarily unanimity, of the participating parties, including a process for attempting to resolve any differences in viewpoint.
+
+(3) Availability of Municipal Data Sets.
+(a) Compliance Date and Annual Reports. By no later than September 30, 2013 and thereafter, the public data sets that agencies make available on the Internet shall be accessible through a single web portal that is linked to the city’s website. Each agency shall be responsible for identifying and publishing data sets. The Department shall be available to agencies for consultation and technical support only. The Department shall not be responsible for identifying or publishing data sets. By December 31, 2013 and annually thereafter, if an agency cannot or will not make all of its publicly available data sets available through the City’s website, the agency shall file a written report with the Department and with the Common Council setting forth which public data set or sets that it is not making available, the reasons why it cannot or will not do so and the date by which the agency expects that any such public data set or sets will be available on the city’s website.
+(b) Metadata. Such public data sets shall have metadata (information about the data set) made available to the public through the single web portal. Agencies will be responsible for providing the metadata as defined by the Department. The Department shall provide all agencies with a template for metadata.
+(c) Technical Standards. Such public data sets shall be made available in accordance with technical standards published by the Department and shall be in a format that permits automated processing using open standards where practical and shall make use of appropriate technology to notify the public of all updates.
+(d) Requirement to Keep Data Sets Current. Such public data sets shall be updated as often as is necessary, or at least annually, to preserve the integrity and usefulness of the data sets to the extent that the agency regularly maintains or updates the public data set.
+(e) Data Set Users May Remain Anonymous. Such public data sets shall be made available without any registration requirement, license requirement or restrictions on their use provided that the department may require a third party providing to the public any public data set, or application utilizing such data set, to explicitly identify the source and version of the public data set, and a description of any modifications made to such public data set. Registration requirements, license requirements or restrictions as used in this section shall not include measures required to ensure access to public data sets, to protect against unlawful abuse or attempts to damage or impair use of the web site, or to analyze the types of data being used to improve service delivery.
+(f) Data Sets Must Be Searchable. Such public data sets shall be accessible to external search capabilities.
+(g) Prioritizing Availability of Data Sets. Requests received for inclusion of particular public data sets shall be considered by agencies in making determinations as to priority for public data set inclusion. Agencies shall also consider the following factors in prioritizing access to data sets:
+1. Whether the data set can be utilized to increase agency accountability and/or responsiveness;
+2. Whether use of the data set could improve public knowledge of the agency, its missions, operations and resources;
+3. Whether it furthers the agencies missions;
+4. Whether the data set creates or has the capacity to create economic opportunities;
+5. Whether the data set responds to any need or demand identified by public consultation, and;
+6. The accuracy and completeness of the data set, i.e., preliminary, inaccurate or misleading data sets should not be published in order to avoid misleading or confusing the public. Such a determination regarding publication does not foreclose a requesters access to such data sets under either the Wisconsin Public Records Laws (Wis. Stats. §§ 19.31-19.47) or the Madison Public Records ordinance (Sec. 3.70, MGO).
+
+(h) Public Feedback. The Department shall investigate the feasibility of establishing an on-line forum or other mechanism to solicit feedback from the public.
+(i) Preservation of Bandwidth. The Department may take reasonable measures to maintain bandwidth availability of the city’s website.
+(j) Cost Benefit Determination. Each agency, in consultation with the Department, shall determine whether the costs of converting any publicly available data set to a searchable and publishable digital format outweigh any potential public benefit derived from such publication. If an agency determines that such costs outweigh the benefits of publication, then such data sets shall be maintained in their original format subject to inspection as provided by the Wisconsin Public Records Laws (Wis. Stats. §§ 19.31-19.47) and the Madison Public Records ordinance (Sec. 3.70, MGO).
+(k) No Release of Data Sets That Would Endanger Safety. In accordance with Wis. Stat. § 19.35(1)(am)2.a., Secs. 3.70(1) & (6)(c), MGO, the City shall not make available under this ordinance, any data or data set the release of which would endanger an individual’s life or safety.
+(4) Open Data Legal Policy.
+a. The Department shall conspicuously publish the following Open Data Legal Policy on the city’s website:
+Public data sets made available on the web portal are provided for informational purposes. The City does not warranty the completeness, accuracy, content or fitness for any particular purpose or use of any public data set made available on the web portal, nor are any such warranties to be implied or inferred with respect to the public data sets furnished therein.
+The City is not liable for any deficiencies in the completeness, accuracy, content or fitness for any particular purpose or use of any public data set, or application utilizing such data set, provided by any third party.
+Discontinuance of Data: The City reserves the right to discontinue availability of content on this website at any time and for any reason. The City reserves the right to claim or seek to protect any patent, copyright, trademark, or other intellectual property rights in any of the information, images, software, or processes displayed or used at this website. If the City claims or seeks to protect any intellectual property rights in any of the information, images, software, or processes displayed or used at this website, then this website will so indicate on the webpage on or from which such information, images, software, or processes are accessed. These Terms of Use do not grant anyone any title or right to any patent, copyright, trademark or other intellectual property rights that the City may have in any of the information, images, software, or processes displayed or used at this website.
+Nothing in the City’s Open Data ordinance or policies shall be construed to create a private right of action to enforce any of their provisions and therefore, any failure to comply with these provisions shall not result in liability to an agency.
+
+
+
+
+
+
+
+

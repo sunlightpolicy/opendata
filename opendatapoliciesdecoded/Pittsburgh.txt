@@ -1,0 +1,99 @@
+
+Pittsburgh, PA
+
+Ordinance supplementing the Pittsburgh Code of Ordinances, Title I, Administrative, Article VII, Procedures, by adding a new Chapter, “Chapter 162: Open Data Sets”
+
+
+WHEREAS, the government of the City of Pittsburgh seeks to provide its citizens with safe and vibrant neighborhoods, great jobs, a strong system of education and innovation, and a high quality of life; and
+ 
+WHEREAS, the adoption of open data improves provision of services, increases transparency and access to public information, and enhances coordination and efficiencies among departments and partner organizations across the public, nonprofit, and private sectors; and
+
+WHEREAS, it should be easy to do business with the City of Pittsburgh. Online government interactions mean more convenient services for citizens and businesses and online government interactions improve the cost-effectiveness and accuracy of government operations; and
+
+WHEREAS, every citizen has the right to prompt, efficient service from the City of Pittsburgh; and
+ 
+WHEREAS, by publishing structured standardized data in machine-readable formats, the City of Pittsburgh seeks to encourage the local software community to develop software applications and tools to collect, organize, and share public data in new and innovative ways; and
+ 
+WHEREAS, The Greater Pittsburgh region shares common infrastructure, economy, and history, so sharing information freely and collaboratively will bring greater success for all area municipalities and citizens. The City of Pittsburgh seeks to be a leader and convener in our region around issues of data sharing and best practices; and
+ 
+WHEREAS, in commitment to the Spirit of Open Government, the City of Pittsburgh will consider public information to be open by default and will proactively publish data and data containing information, subject to the requirements and non-discretionary limitations upon the disclosure of data as set forth in the Pennsylvania Sunshine Act, 65 Pa. C.S. §§701 et seq., the Pennsylvania Right-To-Know Law (RTKL), 65 P.S. §§67.101 et seq., and any other applicable state or federal law or regulation.
+ 
+NOW, THEREFORE, BE IT PROMULGATED
+ 
+Chapter 162: OPEN DATA SETS
+
+§ 162.01 DEFINITIONS. As used in this legislation, the terms below shall have the following definitions:
+
+(a) “Open Data” means any “public record” as defined by the RTKL which could be made available online using Open Format data, as well as best practice Open Data structures and formats when possible. Open Data also may include exempt records which can be disclosed to the public pursuant to the Mayor’s discretion as set forth in Section 506(c) of the RTKL. See 65 P.S. §67.506(c). The City may publish any subset of Open Data per the discretion of the Open Data Management Team. To the extent that Open Data does not include a particular public record or any exempt record potentially subject to access pursuant to Section 506(c) of the RTKL, nothing in this ordinance shall be construed to preclude an individual from separately submitting a RTKL request for that record.
+
+(b) “Open Data Report” is the annual report of the Open Data Management Team, which shall (i) summarize and comment on the state of Open Data availability in the City of Pittsburgh departments from the previous year; (ii) provide a plan for the next year to improve online public access to Open Data and maintain data detail and quality. The Open Data Management Team shall present an initial Open Data Report to the Mayor and Council within 180 days of the enactment of this legislation.
+
+(c) “Open Format” is any widely accepted, nonproprietary, platform-independent, machine-readable method for formatting data, which permits automated processing of such data and is accessible to external search capabilities.
+
+(d) “Open Data Portal” means the internet site established and maintained by or on behalf of the City of Pittsburgh.
+
+(e) “Open Data Management Team” means a group consisting of representatives from each Department within the City of Pittsburgh. Members of the Open Data Management Team shall be recommended by Department Directors and the Chief of Innovation and Performance. The Chair of the City Council Committee on Performance and Asset Management shall also be a member of the Open Data Management Team. The Open Data Management Team shall be chaired by the Chief of Innovation and Performance that is responsible for coordinating implementation of an Open Data Policy and creating the Open Data Report. “Open Data Management Team” means a group consisting of representatives of each Department within the City of Pittsburgh and members appointed by Pittsburgh City Council and chaired by the Chief Performance and Innovation Officer that is responsible for coordinating implementation of an Open Data Policy and creating the Open Data Report.
+
+
+(f) “Department” means any City of Pittsburgh department, office, administrative unit, commission, board, advisory committee, authority, or division, including City Council.
+
+
+(g) “Data Catalogue” means a comprehensive list of information possessed, controlled, or managed by a “Department” that includes information about each dataset as determined by the Open Data Management Committee Team.
+ 
+ 
+
+§ 162.02 OPEN DATA PORTAL.
+
+(a) The Open Data Portal shall serve as the authoritative source for Open Data provided by the City of Pittsburgh.
+
+(b) Any Open Data made accessible on the City of Pittsburgh’s Open Data Portal shall use an Open Format.
+
+
+§ 162.03 OPEN DATA MANAGEMENT TEAM.
+
+(a) The Chief Performance and of Innovation and Performance Officer (CPIO) will work with the head of each Department to identify a Data Coordinator in each Department. Data Coordinators will serve as members of an Open Data Management Team facilitated by the CPIO and the Department of Innovation and Performance. The Open Data Management Team will work to establish a robust, nationally recognized, platform that addresses digital infrastructure and Open Data.
+
+(b)  The Open Data Management Team will develop an Open Data management policy that will adopt prevailing Open Format standards for Open Data, and develop agreements with regional partners to publish and maintain Open Data that is open and freely available while respecting the requirements and non-discretionary limitations upon disclosure of data as set forth in the Sunshine Act, the RTKL and any other applicable federal or state law or regulation.
+ 
+(c) The Open Data Management Team shall develop a licensing agreement for published information that shall ensure the unrestricted use and redistribution of public information by all parties, while providing that information used to generate reports or applications must be made available in-kind.
+ 
+(d) The Open Data Management Team shall develop policies to amend existing procurement, contracting, or planning processes to create new defaults and requirements for IT systems and databases to ensure that open data requirements are included in new systems as they are being planned.
+
+(e) The Open Data Management team shall establish and publish a timeline for the completion of the aforementioned actions. The timeline shall designate a date for publishing an initial group of “Pilot” datasets, as well as a schedule for further disclosures.
+
+§ 162.04 DEPARTMENT OPEN DATA CATALOGUE.
+
+(a) Each department shall be responsible for creating an Open Data catalogue, which will include comprehensive inventories of information possessed and/or managed by the Department.
+
+(b) Each department's Open Data catalogue will classify information holdings as currently “public”, “not yet public”, or “exempt”; departments will work with the Department of Innovation and Performance CIS to develop strategies and timelines for publishing open data containing information in a way that is complete, reliable, and has a high level of detail.
+ 
+(c) Public data sets made available on the web portal are provided for informational purposes. The City does not warranty the completeness, accuracy, content or fitness for any particular purpose or use of any public data set made available on the web portal, nor are any such warranties to be implied or inferred with respect to the public data sets furnished therein. The City is not liable for any deficiencies in the completeness, accuracy, content or fitness for any particular purpose or use of any public data set, or application utilizing such data set, provided by any third party. Discontinuance of Data: The City reserves the right to discontinue availability of content on this website at any time and for any reason. The City reserves the right to claim or seek to protect any patent, copyright, trademark, or other intellectual property rights in any of the information, images, software, or processes displayed or used at this website. If the City claims or seeks to protect any intellectual property rights in any of the information, images, software, or processes displayed or used at this website, then this website will so indicate on the webpage on or from which such information, images, software, or processes are accessed. These Terms of Use do not grant anyone any title or right to any patent, copyright, trademark or other intellectual property rights that the City may have in any of the information, images, software, or processes displayed or used at this website. Nothing in the City's Open Data ordinance or policies shall be construed to create a private right of action to enforce any of their provisions and therefore, any failure to comply with these provisions shall not result in liability to an agency.
+
+§ 162.05 OPEN DATA REPORT AND POLICY REVIEW.
+
+(a) Within one year 180 days of the effective date of this legislation, and thereafter annually, the Open Data Management Team shall submit to the Mayor and Council an annual Open Data Report.
+ 
+(b) In acknowledgment that technology changes rapidly, in the future, the Open Data Policy should be reviewed and considered for revisions or additions that will continue to position the City of Pittsburgh as a leader on issues of openness, efficiency, and technical best practices.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

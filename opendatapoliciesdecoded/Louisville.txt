@@ -1,0 +1,68 @@
+
+Louisville, KY
+
+EXECUTIVE ORDER NO. 1, SERIES 2013
+AN EXECUTIVE ORDER
+CREATING AN OPEN DATA PLAN.
+ 
+WHEREAS, Metro Government is the catalyst for creating a world-class city that provides its citizens with safe and vibrant neighborhoods, great jobs, a strong system of education and innovation, and a high quality of life; and
+WHEREAS, it should be easy to do business with Metro Government. Online government interactions mean more convenient services for citizens and businesses and online government interactions improve the cost effectiveness and accuracy of government operations; and
+WHEREAS, an open government also makes certain that every aspect of the built environment also has reliable digital descriptions available to citizens and entrepreneurs for deep engagement mediated by smart devices; and
+WHEREAS, every citizen has the right to prompt, efficient service from Metro Government; and
+WHEREAS, the adoption of open standards improves transparency, access to public information and improved coordination and efficiencies among Departments and partner organizations across the public, nonprofit and private sectors; and
+WHEREAS, by publishing structured standardized data in machine readable formats the Louisville Metro Government seeks to encourage the local software community to develop software applications and tools to collect, organize, and share public record data in new and innovative ways; and
+WHEREAS, in commitment to the spirit of Open Government, Louisville Metro Government will consider public information to be open by default and will proactively publish data and data containing information, consistent with the Kentucky Open Meetings and Open Records Act; and
+NOW, THEREFORE, BE IT PROMULGATED BY EXECUTIVE ORDER OF THE HONORABLE GREG FISCHER, MAYOR OF LOUISVILLE/JEFFERSON COUNTY METRO GOVERNMENT AS FOLLOWS:
+
+Section 1. Definitions. As used in this Executive Order, the terms below shall have the following definitions:
+(A) “Open Data” means any public record as defined by the Kentucky Open Records Act, which could be made available online using Open Format data, as well as best practice Open Data structures and formats when possible. Open Data is not information that is treated exempt under KRS 61.878 by Metro Government.
+(B) “Open Data Report” is the annual report of the Open Data Management Team, which shall (i) summarize and comment on the state of Open Data availability in Metro Government Departments from the previous year; (ii) provide a plan for the next year to improve online public access to Open Data and maintain data quality. The Open Data Management Team shall present an initial Open Data Report to the Mayor within 180 days of this Executive Order.
+(C) “Open Format” is any widely accepted, nonproprietary, platform-independent, machine-readable method for formatting data, which permits automated processing of such data and is accessible to external search capabilities.
+(D) “Open Data Portal” means the Internet site established and maintained by or on behalf of Metro Government, located at portal.louisvilleky.gov/service/data or its successor website.
+(E) “Open Data Management Team” means a group consisting of representatives from each Department within Metro Government and chaired by the Chief Information Officer (CIO) that is responsible for coordinating implementation of an Open Data Policy and creating the Open Data Report.
+(F) “Department” means any Metro Government department, office, administrative unit, commission, board, advisory committee, or other division of Metro Government within the official jurisdiction of the executive branch.
+
+Section 2. Open Data Portal.
+(A) The Open Data Portal shall serve as the authoritative source for Open Data provided by Metro Government
+(B) Any Open Data made accessible on Metro Government’s Open Data Portal shall use an Open Format.
+
+Section 3. Open Data Management Team.
+(A) The Chief Information Officer (CIO) of Louisville Metro Government will work with the head of each Department to identify a Data Coordinator in each Department. Data Coordinators will serve as members of an Open Data Management Team facilitated by the CIO and Metro Technology Services. The Open Data Management Team will work to establish a robust, nationally recognized, platform that addresses digital infrastructure and Open Data.
+(B) The Open Data Management Team will develop an Open Data management policy that will adopt prevailing Open Format standards for Open Data, and develop agreements with regional partners to publish and maintain Open Data that is open and freely available while respecting exemptions allowed by the Kentucky Open Records Act or other federal or state law.
+
+Section 4. Department Open Data Catalogue.
+(A) Each Department shall be responsible for creating an Open Data catalogue, which will include comprehensive inventories of information possessed and/or managed by the Department.
+(B) Each Department’s Open Data catalogue will classify information holdings as currently “public” or “not yet public”; Departments will work with Metro Technology Services to develop strategies and timelines for publishing open data containing information in a way that is complete, reliable, and has a high level of detail.
+
+Section 5. Open Data Report and Policy Review.
+(A) Within one year of the effective date of this Executive Order, and thereafter no later than September 1 of each year, the Open Data Management Team shall submit to the Mayor an annual Open Data Report.
+(B) In acknowledgment that technology changes rapidly, in the future, the Open Data Policy should be reviewed and considered for revisions or additions that will continue to position Metro Government as a leader on issues of openness, efficiency, and technical best practices.
+
+Section 6. This Executive Order shall take effect as of October _____, 2013.
+Signed this 11th day of October, 2013, by Greg Fischer, Mayor of Louisville/Jefferson County Metro Government.
+GREG FISCHER, MAYOR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

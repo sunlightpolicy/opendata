@@ -1,0 +1,73 @@
+
+Chicago, IL
+
+Open Data Executive Order (No. 2012-2)
+WHEREAS, The City of Chicago is committed to creating an unprecedented level of  transparency, honesty and accountability to the public in City government; and
+WHEREAS, Timely and consistent publication of public information and data is an essential component of an open and effective government; and
+WHEREAS, When coupled with an interactive mechanism that will enable the public to provide feedback to the City on the quality of its published information and enable the City to respond to the feedback it receives, the timely online publication of public data will empower Chicago’s residents by providing them with information necessary to participate in government in a meaningful manner, to assist in identifying possible solutions to pressing governmental problems, and to promote innovative strategies for social progress and economic growth; and    
+WHEREAS, The City of Chicago’s Department of Innovation and Technology is uniquely qualified to work with other city agencies to expand public access to information that is not protected by privacy law; to make that information freely available online in a machine-readable, open format that can be easily retrieved, downloaded, indexed, sorted, searched, analyzed and reused utilizing readily available Web search applications and software; now, therefore,
+ 
+I, RAHM EMANUEL, Mayor of the City of Chicago, do hereby order as follows:
+ 
+1.         Definitions
+ 
+“Chief data officer” means the chief data officer of the Department of Innovation and Technology or the chief data officer’s designee.
+“Chief information officer” means the chief information officer of the Department of Innovation and Technology or the chief information officer’s designee.
+“Chief procurement officer” means the chief procurement officer of the Department of Procurement Services or the chief procurement officer’s designee.
+“City agency” or “agency” means any city department, office, administrative unit, commission, board, advisory committee or other division of the government of the City within the official jurisdiction of the executive branch. 
+“City of Chicago data portal” means the Internet site established and maintained by or on behalf of the City, located at data.cityofchicago.org or its successor website.
+“Data” means final versions of statistical or factual information that (i) are in alphanumeric form reflected in a list, table, graph, chart or other non-narrative form, that can be digitally transmitted or processed; and (ii) are regularly created or maintained by or on behalf of a city agency and are controlled by such city agency; and (iii) record a measurement, transaction or determination related to the mission of an agency. The term “data” shall not include information provided to an agency by other governmental entities or image files, such as designs, drawings, photos or scanned copies of original documents; provided, however, that the term “data” shall include statistical or factual information about image files and geographic information system (GIS) data.  
+“Data set” means a named collection of related records on a storage device, with the collection containing data organized or formatted in a specific or prescribed way, often in tabular form, and accessed by a specific method that is based on the data set organization. 
+“DOIT” means the Department of Innovation and Technology or its successor department.
+“FOIA” means the Illinois Freedom of Information Act, codified at 5 ILCS 140/1 et seq.
+“Open data advisory group” means the advisory group established pursuant to Section 3 of this Order.
+“Open data coordinator” means the open data coordinator designated by a city agency pursuant to Section 5 of this Order.
+“Protected data” means (i) any data set or portion thereof to which a city agency may deny access pursuant to FOIA or any other law or rule or regulation promulgated thereunder;
+(ii) any data set that contains a significant amount of data to which a city agency may deny access pursuant to FOIA or any other law or rule or regulation promulgated thereunder, if the removal of such protected data from the data set would impose an undue financial or administrative burden on the city agency; (iii) any data or data set that reflects the internal deliberative or administrative process(es) of any city agency, including, but not limited to, data on negotiating positions, future procurements or pending or reasonably anticipated legal or administrative proceedings; (iv) any data stored on an agency-owned personal computing device or portion of a network that is assigned exclusively to a single agency employee; (v) any data subject to privacy laws, or to copyright, patent, trademark or trade secret protection, or to a confidentiality agreement, or that are otherwise protected by law or contract; (vi) proprietary applications, computer code, software, operating systems or similar materials; (vii) employment records, internal employee-related directories or lists, facilities data, information technology, internal service-desk data or other data related to the internal administration of a city agency; or (viii) any data which, if disclosed on the City of Chicago data portal, raise privacy, confidentiality or security concerns or jeopardize or have the potential to jeopardize public health, safety or welfare.
+“Public data” means any datum or data or data set published on the City of Chicago data portal.
+ 
+2.         Data set availability
+(a)   Each city agency shall, to the extent practicable, and in consultation with the open data advisory group, make available online, through the City of Chicago data portal required under Section 6 and at a level of granularity acceptable to DOIT, all appropriate data sets and associated metadata under such agency’s control.  Such online disclosure of a city agency’s data sets shall exclude protected data as defined under Section 1.
+(b)   For purposes of identifying data sets for inclusion on the City of Chicago data portal, each city agency may consider whether the information embodied in the data set (i) is reliable and accurate; (ii) is frequently the subject of a written request for public records of the type that a public body is required to make available for inspection or copying under FOIA;
+(iii) increases agency accountability, efficiency, responsiveness or delivery of services;
+(iv) improves public knowledge of the agency and its operations; (v) furthers the mission of the agency; or (vi) creates economic opportunity.
+(c)  Each city agency shall make reasonable and appropriate efforts to update its public data on a regular basis to the extent that the city agency regularly maintains or updates its data sets.
+ 
+3.      Open data advisory group – City agencies – DOIT
+(a)    	There is hereby established an open data advisory group, which shall (i) be chaired by the chief data officer; and (ii) include open data coordinators from all city agencies.
+(b)   	The open data advisory group shall assist DOIT in the creation of the annual open data compliance report required under Section 8.
+ 
+4.         Chief data officer
+The Mayor shall designate a chief data officer (“CDO”) for the City of Chicago to coordinate implementation, compliance and expansion of the City’s Open Data Policy, to facilitate the sharing of information between city departments, and to coordinate initiatives to improve city decision making and management through data analysis. The chief data officer shall report to the chief information officer.
+ 
+5.         Open data coordinator
+The head of each city agency shall designate from within the city agency an open data coordinator, who shall (i) assist the city agency in implementing its duties under this Order; (ii) serve on the open data advisory group; (iii) upon request, meet with the open data advisory group to discuss any matter pertaining to implementation of this Order; and (iv) assist DOIT in the preparation of the annual open data compliance report required under Section 8 of this Order and in connection with the publication of data sets.  
+ 
+6.       City of Chicago data portal
+a.     	A single web portal shall be (i) established and maintained by or on behalf of the City of Chicago; (ii) administered by DOIT or its successor department; and (iii) located at data.cityofchicago.org or its successor website.
+b.     	Any data set made accessible on the City of Chicago data portal shall (i) use a format that permits automated processing of such data; (ii) use appropriate technology to notify the public of updates to the data; and (iii) be accessible to external search capabilities.
+ 
+7.         Administration of data portal
+The City of Chicago data portal shall be administered by DOIT.  DOIT shall (i) catalogue and post on the portal a list of all data sets available on such portal; and (ii) establish and maintain on the portal an online forum to solicit feedback from the public and to encourage public discussion on open data policies and data set availability.
+ 
+8.         Annual open data compliance report
+Within 360 days of the effective date of this Order, and thereafter no later than July 15 of each year, the chief data officer shall submit to the mayor an annual open data compliance report prepared with the assistance of the open data advisory group.  Such annual report shall (i) establish, on an agency specific basis, reasonable timelines, implementation plans and review processes to promote, over time and in steadily graduated fashion, increased online public access to city agency data sets that are appropriate for online disclosure and that protect from online disclosure information that is proprietary, confidential, protected by law or contract, or inimical to public health, safety or welfare; and (ii) summarize and comment on the state of open data and data set availability in city agencies.
+ 
+9.         Open data policy
+a.     	Public data made available on the City of Chicago data portal shall be provided as a public service, on an “as is” basis, and for informational purposes only. Although the City will strive to ensure that such public data are accurate, the City shall make no warranty, representation or guaranty of any type as to the content, accuracy, timeliness, completeness or fitness for any particular purpose or use of any public data provided on such portal; nor shall any such warranty be implied, including, without limitation, the implied warranties of merchantability and fitness for a particular purpose.  The City shall assume no liability for (i) any errors, omissions or inaccuracies in the public data provided on the City of Chicago data portal regardless of how caused; or (ii) any decision made or action taken or not taken by anyone using or relying upon such public data; or (iii) any virus or other damage to any computer that might occur during or as a result of accessing such portal or the public data provided therein; or (iv) any other act identified in any disclaimer of liability or indemnification provision or any other provision set forth in the Terms of Use required under subsection (b) of this section.
+b.     	The City of Chicago data portal and all public data contained on such portal shall be subject to Terms of Use developed by DOIT.  Such Terms of Use shall be posted by DOIT in a conspicuous place on the City of Chicago data portal.  
+c.     	The City shall reserve the right to discontinue availability of content on the City of Chicago data portal at any time and for any reason. If a data set is made accessible by a city agency on the City of Chicago data portal and such city agency is notified or otherwise learns that any data set or portion thereof posted on the data portal is factually inaccurate or misleading or is protected data, the city agency shall, as appropriate, promptly correct or remove, or cause to be corrected or removed, such data from the data portal and shall so inform the chairperson of the open data advisory group.
+ 
+10.       Technology-related procurements
+The chief data officer shall work with the chief procurement officer to develop contract provisions to promote open data policies in technology-related procurements.  These provisions shall promote the City’s open data policies, including, where appropriate, requirements to post data on data.cityofchicago.org or to make data available through other means.
+ 
+11.       General provisions
+a.     	Nothing in this Order shall be deemed to prohibit a city agency from voluntarily disclosing, to the extent permitted by law, any information not otherwise defined in this Order as “data” or a “data set” or from making such voluntarily disclosed information accessible through the City of Chicago data portal.
+b.     	Nothing in this Order shall be deemed to prohibit DOIT or any city agency or any third party that establishes or maintains the City of Chicago data portal on behalf of the City from adopting or implementing measures necessary or appropriate to (i) ensure access to public data sets housed on the data portal; or (ii) protect the data portal from unlawful use or from attempts to impair or damage the use of the portal; or (iii) analyze the types of public data on the data portal being used by the public in order to improve service delivery or for any other lawful purpose; or (iv) terminate any and all display, distribution or other use of any or all of the public data provided on the data portal for violation of any of the Terms of Use posted on the data portal pursuant to Section 9(b) of this Order; or (v) require a third party providing City public data (or applications based on City public data) to the public to explicitly identify the source and version of the public data set, and a description of any modifications made to the public data set. 
+        	c.     	Nothing in this Order shall be construed to create a private right of action to enforce any provision of this Order.  Failure to comply with any provision of this Order shall not result in any liability to the City, including, but not limited to, DOIT or any city agency or third party that establishes or maintains on behalf of the City the data portal required under this Order.
+ 
+12.       Enforcement standards and compliance
+The chief information officer shall have the authority to promulgate reasonable rules and regulations to implement the requirements of this Order.  
+ 
+13.       Effective date
+This Order shall take effect upon its execution and filing with the City Clerk. 

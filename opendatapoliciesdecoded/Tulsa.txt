@@ -1,0 +1,26 @@
+
+Tulsa, OK
+See government hosted document here.
+A RESOLUTION SUPPORTING OPEN AND ACCESSIBLE DATA, OPEN STANDARDS, AND OPEN SOURCE SOFTWARE.
+WHEREAS, the City of Tulsa is committed to bringing the community into City Hall by engaging citizens and soliciting their ideas, input, and creative energy;
+WHEREAS, municipalities throughout the world have an opportunity to dramatically lower their costs by collectively sharing and supporting software they use and create;
+WHEREAS, the City of Tulsa is committed to using technology to foster open, transparent, and accessible government;
+WHEREAS, by sharing data freely, the City of Tulsa seeks to develop opportunities for economic development, commerce, increased investment, and civic engagement for Citizens of Tulsa;
+WHEREAS, the total value of public data is maximized when provided at a minimal cost of distribution;
+WHEREAS, the City of Tulsa should look for opportunities to create economic activity and partner with the creative tech sector;
+WHEREAS, the adoption of open standards improves transparency, access to city information by citizens and businesses, and coordination and efficiencies across municipal, state, and federal boundaries;
+WHEREAS, digital innovation can enhance citizen communications, support the brand of the city as creative and innovative, improve service delivery, support citizens to self organize and solve their own problems, and create a stronger sense of civic engagement, community, and pride;
+WHEREAS, the City of Tulsa has significant resources of data and information;
+NOW, THEREFORE, BE IT RESOLVED THAT THE CITY OF TULSA ENDORSES
+THE PRINCIPLES OF: GTB 4/5/13 2
+Open and Accessible Data – the City of Tulsa shall establish the goal to continually work toward an increased range and volume of data it shares with citizens, businesses, and other jurisdictions the greatest amount possible while respecting privacy and security concerns as identified by the City Attorney;
+Open Standards – the City of Tulsa shall establish the goal to analyze and adopt prevailing open standards for data, document, maps, and other formats of media;
+Open Source Software – the City of Tulsa, when replacing existing software or considering new applications, will place open source software on an equal footing with commercial systems during procurement cycles; and
+BE IT FURTHER RESOLVED THAT IN PURSUIT OF OPEN DATA THE CITY OF TULSA WILL:
+Identify potential opportunities to share select data;
+Adopt an open source policy;
+Adopt an open source approval process
+Promote prevailing open standard formats for data;
+Explore licensing opportunities for software applications developed by the City of Tulsa such that they may be used by other municipalities, businesses and/or the public.
+Establish a committee of City employees and local volunteers to aide in the achievement of the above goals.
+

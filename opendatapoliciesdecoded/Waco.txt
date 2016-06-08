@@ -1,0 +1,46 @@
+
+Waco, TX
+RESOLUTION NO. 2015-
+WHEREAS, the adoption of an Open Data policy improves provision of services, increases transparency and access to public information, and enhances coordination and efficiencies among departments and partner organizations; and
+WHEREAS, the City collects data, much of which is stored within each collecting department, impeding the ability to aggregate, analyze and synthesize it to better allocate public resources; and
+WHEREAS, access to public information, including access to public data, promotes a higher level of civic engagement and allows citizens to provide valuable feedback to government officials regarding local issues; and
+WHEREAS, every citizen has the right to prompt, efficient service from the government; and
+WHEREAS, one goal of an Open Data policy is to proactively provide information currently sought through Public Information Act requests, thereby saving the City time and money; and
+WHEREAS, in commitment to the spirit of Open Government, the City will consider public information to be open by default and will proactively publish data and data containing information, consistent with relevant public records law; and
+WHEREAS, information technologies, including web-based and other Internet applications and services, are an essential means for Open Government and good government generally; and
+WHEREAS, the protection of privacy, confidentiality, and security will be maintained as a paramount priority while also advancing the government’s transparency and accountability through open data,
+NOW, THEREFORE, BE IT RESOLVED BY THE CITY COUNCIL OF THE CITY OF WACO, TEXAS:
+Section 1: Definitions
+a. “Data” means statistical, factual, quantitative, or qualitative information that is regularly maintained or created by or on behalf of a city department.
+b. “Open data” means data that is available online, in an open format, with no legal encumbrances on use or reuse.
+c. “Open format” means any widely accepted, nonproprietary, platform-independent, machine-readable method for formatting data, which permits automated processing of such data and facilitates search capabilities.
+d. “Dataset” means a named collection of related records, with the collection containing data organized or formatted in a specific or prescribed way, often in tabular form.
+e. “Protected information” means any dataset or portion thereof to which a department may deny access pursuant to Texas statutes or any other law or rule or regulation.
+f. “Sensitive information” means any data which, if published on the Open Data Portal, could raise privacy, confidentiality or security concerns or have the potential to jeopardize public health, safety, or welfare to an extent that is greater than the potential public benefit of publishing that data.
+g. “Publishable data” means data which is not protected or sensitive and which has been prepared for release on the open data web portal.
+Section 2: Open Data Initiative
+a. The City will develop and implement practices that allow it to:
+1. Proactively release publishable city data, making it freely available in open formats, with no restrictions on use or reuse, and fully accessible to the broadest range of users to use for varying purposes;
+2. Publish high quality, updated data with documentation (metadata) and permanence to encourage maximum use;
+3. Establish and maintain an open data web portal that provides a central location for published city data;
+4. Minimize limitations on the disclosure of public information while appropriately safeguarding protected and sensitive information; and
+5. Encourage innovative uses of the city’s publishable data by agencies, the public, and other partners.
+b. The development and implementation of these practices shall be overseen by the City Manager’s Office.
+c. The requirements of this resolution shall apply to any city department, office, administrative unit, commission, board, advisory committee or other division of city government (“department”).
+Section 3: Governance
+a. Implementation of the Open Data Initiative will be overseen by the City Manager’s Office, who will work with the city’s departments and agencies to: 
+1. Identify a lead open data coordinator for each city department who will be responsible for managing that department's participation in the Open Data Initiative;
+2. Oversee the creation of a comprehensive inventory of datasets held by each city department which is published to the Open Data Portal and regularly updated;
+3. Develop and implement a process for determining the relative level of risk and public benefit associated with potentially sensitive, non-protected information so as to make a determination about whether and how to publish it;
+4. Develop and implement a process for prioritizing the release of datasets to the Open Data Portal which takes into account new and existing signals of interest from the public (such as the frequency of Public Information Act requests), the city's programmatic priorities, existing opportunities for data use in the public interest, and cost;
+5. Establish processes for publishing datasets to the Open Data Portal, including processes for ensuring that datasets are reviewed for use-appropriate formats, quality, timeliness, and exclusion of protected and sensitive information;
+6. Develop and oversee a routinely updated, public timeline for new dataset publication; and
+7. Ensure that published datasets are available for bulk download.
+b. In order to increase and improve use of the city’s open data, the City Manager’s Office will actively encourage department and public participation through providing regular opportunities for feedback and collaboration.
+Section 4: Central Online Location for Published Data
+a. The City will work to create and maintain a publicly available location on the city’s website or in another suitable online location where the city’s published data will be available for download.
+b. Datasets published on the Open Data Portal shall be placed into the public domain. Dedicating datasets to the public domain means that there are no restrictions or requirements placed on use of these datasets.
+Section 5: Open Data Report and Review
+a. Within one year of the effective date of this resolution, and thereafter no later than October 15th of each year, the City Manager’s Office shall submit to the City Council an annual Open Data Report. The report shall include an assessment of progress towards achievement of the goals of the city’s open data program, a list of datasets currently available on the Open Data Portal, and a description and publication timeline for datasets envisioned to be published on the portal in the following year.
+b. During the review and reporting period, the City Manager’s Office should also make suggestions for improving the city’s open data management processes in order to ensure that the city continues to move towards the achievement of the policy’s goals.
+That it is hereby officially found and determined that the meeting at which this Resolution is passed is open to the public, and that public notice of the time and purpose of said meeting was given as required by law. PASSED AND APPROVED this ___ day of ____________, 2015. __________________________________ Malcolm Duncan, Jr., Mayor City of Waco, Texas 
