@@ -1,7 +1,17 @@
+<!-- Amherst, NY -->
+<!-- Open Data Policies for Sunlight Foundation -->
+<!-- StateDecoded XML Examples
+http://docs.statedecoded.com/xml-format.html-->
 
-Amherst, NY
-
-Resolution 2014-1055
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="section" identifier="amherstny2014" level="1"></unit>
+    </structure>
+    <section_number>"amherstny2014</section_number> <!--citystateyear, no spaces-->
+    <catch_line>Amherst, NY (2014)</catch_line>
+    <text>
+<!--insert text of the policy below this line  -->
 Open Government Advisory Board and Plan
 WHEREAS, the Town Board (Resolution 2014-229) directed the Government Study Committee to review and recommend to the Town Board an Open Government Plan; and
 WHEREAS, the Town of Amherst is committed to creating a high level of openness and transparency in government; and
@@ -19,4 +29,19 @@ BE IT FURTHER RESOLVED, the components of the Open Government Plan shall include
 (3) Collaboration: Steps the Town will take to enhance and expand cooperation among its departments and agencies, other governmental agencies, private and nonprofit entities, and the public, to fulfill Town goals and obligations; including proposals to use technology platforms and links to appropriate websites to improve, and inform the public about, existing collaboration efforts, and use of innovative methods to obtain ideas from and to increase collaboration with those in the private sector, nonprofit and academic communities.
 BE IT FURTHER RESOLVED, a portal/place shall be established on the Town’s website that will serve as the source for Town-wide and departmental activities with respect to this open government initiative; and
 BE IT FURTHER RESOLVED, progress toward meeting the Open Government goals set forth in this Resolution shall be evaluated six months from the adoption date of this Resolution, again one year from the adoption date, and annually thereafter. The evaluations shall be released on the Open Government Portal and shall include criteria to be developed by the Open Government Advisory Board.
-10/06/2014
+
+<history>
+    <!-- put resolution/executive order history in this area. (Adopted on, council votes, date passed etc) --> 
+Passed on 10/06/2014. Resolution 2014-1055
+</history>
+    <!--<metadata></metadata>-->
+    <tags>
+        <!-- Tag if this juristiction is a city state, etc --> 
+        <tag>city</tag>
+        <!-- <tag>state</tag> --> 
+        <!-- <tag>county</tag> -->
+        <!-- <tag>executive order</tag> --> 
+        <tag>resolution</tag>
+    </tags>
+    </text>
+</law>

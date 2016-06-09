@@ -1,35 +1,31 @@
-StateDecoded XML Examples
-http://docs.statedecoded.com/xml-format.html
 
-Bare Minimum 
-
-<?xml version="1.0" encoding="utf-8"?>
-<law>
-    <structure>
-        <unit label="" identifier="" level=""></unit>
-    </structure>
-    <section_number></section_number>
-    <catch_line></catch_line>
-    <text></text>
-</law>
-
-
-All Fields
+<!-- PUT JURISDICTION NAME HERE, (city, state, etc)  Ex. Las Vegas, NV -->
+<!-- StateDecoded XML Examples
+http://docs.statedecoded.com/xml-format.html-->
 
 <?xml version="1.0" encoding="utf-8"?>
 <law>
     <structure>
-        <unit label="" identifier="" order_by="" level=""></unit>
+        <unit label="section" identifier="amherstny2014" level="1"></unit>
     </structure>
-    <section_number></section_number>
-    <catch_line></catch_line>
-    <order_by></order_by>
+    <section_number>"amherstny2014</section_number> <!--citystateyear, no spaces-->
+    <catch_line>Amherst, NY (2014)</catch_line>
     <text>
-        <section prefix=""></section>
-    </text>
-    <history></history>
-    <metadata></metadata>
+<!--insert text of the policy below this line !-->
+
+
+<history>
+    <!-- put resolution/executive order law history in this area. (Adopted on, council votes, date passed etc) --> 
+Passed on 10/06/2014. Resolution 2014-1055
+</history>
+    <!--<metadata></metadata>-->
     <tags>
-        <tag></tag>
+        <!-- Tag if this juristiction is a city state, etc --> 
+        <tag>city</tag>
+        <!-- <tag>state</tag> --> 
+        <!-- <tag>county</tag> -->
+        <!-- <tag>executive order</tag> --> 
+        <tag>resolution</tag>
     </tags>
+    </text>
 </law>
