@@ -1,0 +1,27 @@
+
+Portland, OR
+
+See government hosted document here.
+Resolution No. 36735
+Mobilize and expand the regional technology community of software, hardware and service professionals by promoting open and transparent government, open data, and partnership opportunities between the public, private and nonprofit sectors, academia and labor (Resolution).
+WHEREAS, the City of Portland is committed to engaging the community by working with citizens, soliciting their ideas, input, and creative energy; and
+WHEREAS, the City of Portland is committed to using technology to foster open, transparent, and accessible government; and
+WHEREAS, by sharing data freely, the City of Portland seeks to develop opportunities for economic development, commerce, increased investment, and civic engagement for Citizens of the Portland region; and
+WHEREAS, publishing structured standardized data in machine readable formats creates new opportunities for information from different sources to be combined and visualized in new and unexpected ways, for niche markets to be identified and developed, and for Citizens to browse, interpret and draw attention to trends or issues with greater efficiency; and
+WHEREAS the adoption of open standards improves transparency, access to public information, and improved coordination and efficiencies among bureaus and partner organizations across the public, non-profit and private sectors; and
+WHEREAS, the City of Portland seeks to encourage the local software community to develop software applications and tools to collect, organize, and share public data in new and innovative ways; and
+WHEREAS, Software applications and tools that enable Citizens to access, visualize, and analyze public information will promote greater civic engagement and encourage Citizens to provide feedback on local issues; and
+WHEREAS, the Portland region is a global leader of the Open Source Software industry, with leading foundations, businesses, and professionals located in and around Portland; and
+WHEREAS, supporting and encouraging the development of Open Source Software curricula in Portland area educational institutions will result in a "Culture of Openness" that will enable Portland to increase the momentum behind its efforts for the foreseeable future; and
+WHEREAS, Open Source Software can enable the City of Portland to use, copy, customize and redistribute software it deploys for government services; and
+WHEREAS, the City of Portland will consider Open Source Software as a potential alternative to existing commercial software solutions in its purchasing and contracting decisions; and
+WHEREAS, the City will promote the creation and continued evolution of innovative Open Source Software solutions to meet civic needs;
+NOW, THEREFORE BE IT RESOLVED, that the Council of the City of Portland:
+Directs the Bureau of Technology Services to:
+a. Enter into agreements with our regional partners to publish and maintain public datasets that are open and freely available while respecting privacy and security concerns as identified by the City Attorney;
+b. Develop a strategy to adopt prevailing open standards for data, documents, maps, and other formats of media;
+c. Organize A regional contest to encourage the development of software applications to collect, organize, and share public data;
+d. Establish best practices for analysis of business requirements in software review and selection processes, identify existing commercial software systems with licenses that are scheduled to expire in the near future, and encourage the consideration of Open Source Software in the review, replacement and continual improvement of business solutions;
+e. Work with Travel Portland and regional partners to promote Portland as a host city for leading Open Source Software conferences and related technology events, such as LinuxCon, Innotech, etc;
+
+Directs the City's Purchasing Agent to notify and distribute all formal technology related purchasing and contract opportunities for publication and distribution by the Software Association of Oregon, Oregon Entrepreneurs Network and the open source community in addition to those public notice requirements required under Portland City Code

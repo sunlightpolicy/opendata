@@ -1,0 +1,244 @@
+
+San Jose, CA
+City of San José City Policy Manual
+Open Data Policy (DRAFT) Section X.X.X
+The City of San Jose is committed to freely sharing as much information as possible. We
+recognize that information is a valuable resource and a strategic asset to the public. Making
+information accessible, discoverable, and usable by the public can help fuel entrepreneurship,
+innovation, scientific discovery, and a more efficient government.
+In 2016 the City will launch an open data portal and adopt an open data policy. Over the next
+few months, the City will gather community input through a digital survey and a series of public
+events.
+We appreciate your interest in the City of San Jose’s Draft Open Data Policy. This is a draft
+and is subject to further revision. As part of our commitment to transparency and community
+engagement, we welcome your interest and feedback on how we can make this policy more
+effective. Please send comments or a draft of this document with your suggested revisions to
+opendata@sanjoseca.gov.
+If you have questions, please contact Kevin Miller at kevin.miller@sanjoseca.gov.
+City of San José City Policy Manual
+Open Data Policy (DRAFT) Section X.X.X
+PURPOSE
+The purpose of this policy is to affirm the City of San José’s commitment to open, honest, and
+effective government. The City strives to consistently meet the community’s expectations for
+excellent services in a positive and timely manner, and in full view of the public. Open Data is
+an important component of this commitment; through making its data publicly available and
+easily accessible, the City of San José will empower the community to engage with government
+on a new level and stimulate new ideas, new services, and new economic opportunities. In
+addition, Open Data will provide a new platform to increase the sharing of information among
+City Departments, improving the City’s ability to deliver services to the community efficiently and
+effectively.
+DEFINITIONS
+Common Data Standards: Any set of data collection standards agreed upon by multiple
+stakeholders designed to promote interoperability and facilitate the efficient exchange and use
+of information collected in different systems.
+Data: Structured information.
+Dataset: A collection of data presented in tabular or non-tabular form.
+Data Source: A system, database, or other information source that contains and reports raw
+data.
+Information Lifecycle: The stages through which information passes, typically characterized as
+creation or collection, processing, dissemination, use, storage, and disposition.
+Interoperability: The ability of different information technology systems, software and data
+applications to communicate and exchange data, and use the information that has been
+exchanged.
+Metadata: Data that describes a dataset. Metadata summarizes basic information about a
+dataset, such as the date range covered by a dataset, a description of the dataset, the manager
+or steward of the dataset, etc.
+Open Data: The method by which data is made open and freely available to the public to be
+republished, manipulated, or used in any other way without restriction.
+Open Data Portal: The internet site established and maintained on behalf of the City, located
+at http://data.sanjoseca.gov
+POLICY
+It is the policy of the City of San José that the data it collects and generates will, to the extent
+practicable, be open by default. City Departments, with support from the Information
+Technology Department, will publish all appropriate datasets and associated metadata
+controlled by that department on the City’s Open Data Portal, except where the posting of such
+data would violate privacy or security concerns. Every reasonable effort shall be made to
+City of San José City Policy Manual
+Open Data Policy (DRAFT) Section X.X.X
+frequently update datasets on the Open Data Portal to the extent that the Department regularly
+maintains or updates such data.
+New information systems shall, to the extent practicable, have the ability to report data in a
+manner consistent with the open data standards outlined in the Open Data Standards section
+below. When updating existing legacy systems, departments shall make a reasonable effort to
+ensure that such systems have the ability to report data in a way that meets the open data
+standards as outlined in the Open Data Standards section below.
+On a case by case basis, to facilitate the acquisition of systems that meet open data standards,
+additional consideration for meeting the Open Data Standards section below will be
+incorporated into an RFP’s evaluation criteria for scoring RFP responses. The Chief Information
+Officer shall have the authority to determine whether the systems included in RFPs meet such
+standards or may be excluded due to security or privacy reasons.
+Scope
+This Policy applies to all City Departments falling under the authority of the City Manager and is
+applicable to any data created or used by such departments.
+GOVERNANCE AND OVERSIGHT
+Roles and Responsibilities
+To facilitate the implementation of this Policy, the City Manager directs the following roles to
+take on the responsibilities identified below:
+Information
+Technology
+Department
+The City of San José Open Data Portal will be administered by the
+Information Technology Department (ITD). ITD will work with
+Departments to facilitate upgrades to legacy systems and onboarding of
+new systems meeting open data standards as defined in the Open Data
+Standards section below. ITD, in partnership with the roles identified
+below, will produce a report on the state of the Open Data Initiative no
+less than annually.
+Open Data
+Architect
+The Open Data Architect (ODA), located in the IT Department, will act
+as the frontline manager for the Open Data Portal. This position will
+work with Departments to identify data sources that impact the San José
+community and connect those sources of information with the City’s
+Open Data Portal. The ODA will oversee system integration between
+Departmental data sources and the Open Data Portal to facilitate
+availability of current and accurate published data.
+Data Analytics
+Team
+The Data Analytics Team (DAT) will provide general support for data related
+initiatives in the City of San José. DAT will oversee the Data
+Inventory Initiative and assist in identifying datasets for publication. DAT
+will take on other duties related to Open Data as assigned by the City
+Manager. 
+City of San José City Policy Manual
+Open Data Policy (DRAFT) Section X.X.X
+Data
+Coordinators
+Each department shall designate one staff member to serve as Data
+Coordinator. Data Coordinators are responsible for liaising with the
+Data Analytics Team, IT and the Open Data Architect on all matters
+related to Open Data and data analytics, in general. In addition the open
+data coordinators will have the responsibility for ensuring the timely
+release and refresh of data
+The City Manager may assign additional roles and responsibilities related to the implementation
+of this Policy as needed.
+Open Data Portal
+A single web portal shall be maintained by or on behalf of the City of San José, administered by
+ITD. Data made accessible on the Open Data Portal shall meet open data standards as defined
+in the Open Data Standards section below.
+OPEN DATA STANDARDS
+To promote government efficiency and the social good that can be gained from opening
+government data to the public, the default state of new and modernized City of San José
+information resources shall be open and machine readable. City information shall be managed
+as an asset throughout its lifecycle to promote interoperability and openness, and, wherever
+possible and legally permissible, to ensure that data is released to the public in ways that make
+the data easy to find, accessible, and usable by the public. The City remains committed to
+safeguarding individual privacy, confidentiality, and security and will not post information that is
+legally protected or poses a threat to security, safety or the general well-being of the community.
+When designing new information collection and creation efforts, City of San José Departments
+should support downstream interoperability between information systems and dissemination of
+information to the public, as appropriate, without the need for retrofitting. This includes
+consideration and consultation of key target audiences for the information when determining
+format, frequency of update, and other information management decisions. Specifically,
+Departments must incorporate the following requirements into future information collection and
+creation efforts:
+Use machine-readable and open formats: To the extent practicable, Departments must use
+machine-readable and open formats for information as it is collected or created. While
+information should be collected electronically by default, machine-readable and open formats
+must also be used in conjunction with electronic and telephone or paper-based information
+collection efforts. Departments should prioritize the use of open formats that are nonproprietary,
+publicly available, and that place no restrictions upon their use.
+Use data standards: To the extent practicable, and where common data standards are
+defined, Departments shall use such common data standards in the collection and creation of
+information to promote data interoperability and openness. 
+City of San José City Policy Manual
+Open Data Policy (DRAFT) Section X.X.X
+Ensure information stewardship through the use of open licenses: To the extent
+practicable, Departments shall apply open licenses to information as it is collected or created to
+ensure that as data is made public, there are no restrictions on copying, publishing, distributing,
+transmitting, adapting, or otherwise using the information for non-commercial or commercial
+purposes. When information is acquired or accessed by a Department through performance of
+a contract, appropriate existing clauses shall be used to meet these objectives while recognizing
+that contractors may have proprietary interests in such information, and that protection of such
+information may be necessary to encourage qualified contractors to participate in and apply
+innovative concepts to government programs.
+Ensure frequent updates: To the extent practicable, Departments shall work with the
+Information Technology Department to provide frequent updates to data hosted on the Open
+Data Portal to the extent the Department regularly maintains or updates such data.
+TECHNOLOGY STANDARDS
+New information systems shall, to the extent practicable, have the ability to report data in a
+manner consistent with the open data standards outlined in the Open Data Standards section
+above. When updating existing legacy systems, departments shall make a reasonable effort to
+ensure that such systems have the ability to report data in a way that meets the open data
+standards as outlined in Open Data Standards above.
+PROCUREMENT INCENTIVES FOR THE ACQUISITION OF NEW SYSTEMS
+To facilitate the acquisition of systems that meet open data standards, the City of San José will
+award five additional points in the Request for Proposals (RFP) process to proposals that
+include systems that meet the above Information Systems Standards. The Chief Information
+Officer has the authority to determine whether the systems included in such proposals meet
+such standards as defined in the Technology Standards section above.
+LEGAL TERMS FOR PUBLIC USE OF OPEN DATA
+Public data made available on the City of San José data portal shall be provided as a public
+service, on an “as is” basis, and for informational purposes only. Although the City will strive to
+ensure that such public data is accurate, the City shall make no warranty, representation or
+guaranty of any type as to the content, accuracy, timeliness, completeness or fitness for any
+particular purpose or use of any public data provided on such portal; nor shall any such
+warranty be implied, including, without limitation, the implied warranties of merchantability and
+fitness for a particular purpose. The City shall assume no liability for (i) any errors, omissions or
+inaccuracies in the public data provided on the City of San José data portal regardless of how
+caused; or (ii) any decision made or action taken or not taken by anyone using or relying upon
+such public data; or (iii) any virus or other damage to any computer that might occur during or
+as a result of accessing such portal or the public data provided therein; or (iv) any other act
+identified in any disclaimer of liability or indemnification provision or any other provision set forth
+in the Terms of Use required under subsection (b) of this section.
+City of San José City Policy Manual
+Open Data Policy (DRAFT) Section X.X.X
+The City of San José data portal and all public data contained on such portal shall be subject to
+Terms of Use developed by the City. Such Terms of Use shall be posted by the City in a
+conspicuous place on the open data portal.
+The City shall reserve the right to discontinue availability of content on the City of San Jose data
+portal at any time and for any reason. If a data set is made accessible by a city agency on the
+City of San Jose data portal and such city agency is notified or otherwise learns that any data
+set or portion thereof posted on the data portal is factually inaccurate or misleading or is
+protected data, the city agency shall, as appropriate, promptly correct or remove, or cause to be
+corrected or removed, such data from the data portal and shall so inform the chairperson of the
+open data advisory group.
+IMPLEMENTATION
+To facilitate the strategic implementation of this policy, Departments shall participate in all
+associated processes including, but not limited to, the processes identified below. The Chief
+Information Officer, Open Data Architect, and Data Analytics Team may identify additional
+processes as necessary to facilitate full implementation of this policy and the Open Data
+Initiative, in general.
+Data Inventory Process
+All City Departments shall participate in the City-wide data inventory process. Departmental
+Data Coordinators shall facilitate the inventory process within their respective departments at
+the direction of the Data Analytics Team and Chief Information Officer.
+Prioritization Process
+The Information Technology Department will work with the City Manager and Department staff
+to prioritize datasets for publishing on the Open Data Portal. Datasets shall be assessed
+against a set of criteria to be defined by the City Manager.
+The relative priority of datasets shall be the primary factor in determining the order by which
+datasets are published on the Open Data Portal.
+Legal Review
+The City of San José shall comply with all federal, state, and local privacy laws and regulations.
+Personally identifiable information shall be excluded from the open data portal to maintain
+privacy and security. The City Manager’s Office, Information Technology Department, and
+Departmental Data Coordinators shall work with the City Attorney’s Office as necessary to
+maintain privacy and ensure personally identifiable information is protected. While the City
+makes every attempt to ensure the accuracy and integrity of the data provided on the open data
+portal is of high quality, the City does not guarantee the accuracy of any data posted on the
+open data portal and shall not be held accountable for the accuracy of any information
+contained within it. 
+City of San José City Policy Manual
+Open Data Policy (DRAFT) Section X.X.X
+Data Integration
+The Information Technology Department shall work with Data Coordinators to determine the
+best process for transferring data to the open data portal. Depending on system specifications
+and limitations, this may include:
+ Flat file extracts
+ Development of a web service
+ Updates from a webpage
+ Other means as appropriate
+The Information Technology Department will work with departments to select the most
+appropriate method for transferring data to the open data portal.
+Data Release and Validation
+Data Coordinators shall be responsible for the timely release of their data in accordance with
+the prioritization process as defined above. The validation and accuracy of the data hosted on
+the portal shall be the responsibility of the Data Coordinator in the department from which the
+data originates. Data Coordinators shall ensure that data hosted on the open data portal
+originating from their departments complies with all provisions of the Open Data Policy. The City does not guarantee the accuracy of any data posted on the open data portal and shall not be
+held accountable for the accuracy of any information contained within it.
+Timely Update of Data
+Data Coordinators shall be responsible for ensuring that data is updated on a routine basis,
+where applicable, and ensure the content on the open data portal is current and consistent with
+the source data set.

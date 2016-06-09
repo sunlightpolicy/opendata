@@ -1,0 +1,63 @@
+
+Honolulu, HI 
+
+RELATING TO OPEN DATA.
+
+BE IT ORDAINED by the People of the City and County of Honolulu:
+
+SECTION 1. Findings and Purpose. 
+
+The City Council finds that in recent years, the idea that certain data should be freely available to everyone to use and republish as they wish, without restrictions from copyright, patents, or other mechanisms of Control, has become prevalent. This concept, which is generally referred to as open data, applies to data that is already deemed public and made available electronically, such as on a website; it could include department, agency, and legislative data. Open data is not data that is subject to privacy, security, confidentiality or any protection of the law.
+
+Information held by the City and County of Honolulu that has been deemed public information by the State Office of Information Practices should be made available in open, standards-based machine-readable formats. This may be accomplished by establishing an Application Programming Interface or by hosting the data on the City’s open data portal at https://data.honolulu.qov.
+
+The Council further finds that on June 26, 2012, the Governor issued an Executive Directive to all state department heads announcing the Open Data Initiative. On August 10, 2012, then-candidate and current Mayor Kirk Caldwell, signed an Open Data Pledge. On October 4, 2012, State Chief data officer Sanjeev Bhagowalia unveiled the State’s Twelve Year IT Transformation Plan, which included as one of its top priorities the establishment of a State open data portal at https://data.hawaii.gov. The City followed suit and created https://data.honolulu.qov. These actions enabled public facing websites to facilitate the sharing of master data sets. On July 3, 2013, the Governor signed into law Act 263, which relates to open data. This new law requires state executive branch departments to make electronic data sets available to the public, absolves the State from liability for certain deficiencies or incomplete data, and requires the Chief data officer to develop policies and procedures to implement the open data initiative.
+
+Finally, the Council finds that an open data policy has been shown to drive increased government efficiency and civic engagement, leading to social and economic benefits as a result of innovative citizen interaction with government. Social and economic benefits include, but are not limited to, empowering citizens through the democratization of information and fostering citizen participation in city government projects, supporting early stage entrepreneurship, encouraging positive environments that contribute to workforce development and job creation, and fostering a positive business environment and public-private partnerships.
+
+The purpose of this ordinance is to increase public awareness of and access to data and information created by and available from City departments, agencies, and offices, enhance government transparency and accountability, encourage public engagement, and stimulate innovation with the development of new analyses or applications based on the unique data provided by the City.
+
+SECTION 2. Chapter 2, Revised Ordinances of Honolulu 1990, is amended by adding a new article to be appropriately designated by the revisor of ordinances and to read as follows:
+“Article—. Executive Branch Open Data Requirements
+
+Sec. 2-_.1 Definitions.
+
+As used in this article, unless the context requires otherwise:
+“Agency” means “executive agency” as defined in Section 13-101 of the Revised Charter of the City and County of Honolulu.
+
+“Data” means final versions of statistical or factual information that is:
+(1) In alphanumeric form reflected in a list, table, graph, chart, or other non-narrative form, that can be digitally transmitted or processed; and
+(2) Regularly created or maintained by or on behalf of and owned by an agency that records a measurement, transaction, or determination related to the mission of that agency.
+“Data set” means a named collection of related records on an electronic storage device, with the collection containing individual data units organized or formatted in a specific and prescribed way, often in tabular form, and accessed by a specific access method that is based on the data set organization; provided that a data set shall not include any data that are protected from disclosure under applicable federal or state law, or contract, or data that are proprietary or privileged.
+
+Sec. 2-_.2 Electronic data set availability and updates.
+(a) Each agency shall use reasonable efforts to make appropriate and existing electronic data sets maintained by the agency electronically available at no cost to the public through the city’s open data portal at data.honolulu.gov or its successor website designated by the city’s director of information technology; provided that:
+(1)  Nothing in this chapter shall require agencies to create new electronic data sets or to make data sets available upon demand;
+(2)  Data licensed to the city by another person or entity shall not be made public under this chapter unless the person or entity licensing the data agrees to the public disclosure; and
+(3)  Proprietary, privileged, and other information protected from disclosure by law, ethical standard or contract shall not be disclosed.
+Such disclosure shall be consistent with the procedures and standards developed by the director of information technology and consistent with applicable law, including HRS Chapter 92F and other state and federal laws and ethical standards related to security, privacy and confidentiality and no personally identifiable information shall be posted online unless the identified individual has consented to the posting or the posting is necessary to fulfill the lawful purposes or duties of the agency.
+(b) Nothing in this chapter shall, if necessary, prevent the director of information technology from adopting rules pursuant to HRS Chapter 91 and nothing in this chapter shall supersede HRS Chapter 27G.
+( c) Each agency shall update its electronic data sets in the manner prescribed by the director of information technology and as often as is necessary to preserve the integrity and usefulness of the data sets to the extent that the agency regularly maintains or updates the data sets.
+
+Sec. 2-_.3 City liability for data sets.
+Data sets shall be available for informational purposes only. The city does not warrant, either expressly or impliedly, the completeness, accuracy, content or fitness of any data set for a particular purpose and shall not be liable for any deficiencies in the completeness or accuracy of any data set, or third-party application utilizing any data set.
+
+Sec. 2-_A Data set licensing.
+The director of information technology may make the agencies’ electronic data sets on data.honolulu.gov or its successor website available to third parties pursuant to a license, which may require the licensee to allow any user to copy, distribute, display, or create derivative works at no cost and with an appropriate level of conditions placed on the use.
+
+Sec. 2-_.5 Data set policies and procedures.
+(a)  The director of information technology, in consultation with the office of information practices and the state’s office of information management and technology, shall adopt rules, pursuant to HRS Chapter 91 to establish policies to implement Section 2-_.2, including standards to determine which data sets are appropriate for online disclosure as provided in Section 2-_.2; provided that the standards shall not require the agencies to post information that is otherwise required to be disclosed under I-IRS Chapter 92F, but is personally identifiable information, information that may pose a personal or public security risk or is otherwise inappropriate for online disclosure as part of a data set. The rules shall include the following:
+(1)  Technical requirements with the goal of making data sets available to the greatest number of users and for the greatest number of applications, including whenever practicable, the use of machine readable, non-proprietary technical standards for web publishing; and
+(2)  Guidelines for agencies to follow in making data sets available.
+(b)  Notice of the public hearing to be held on the draft rules pursuant to I-IRS Section 91-3 shall be published within 180 days of the effective date of this ordinance, and shall provide notice of the opportunity for public input and comment.”
+ 
+SECTION 3. The Director of Information Technology shall report to the Council on his department’s progress in developing procedures to implement the ordinance for the City’s Executive Branch within one year of the effective date of this ordinance.
+
+SECTION 4. This ordinance shall take effect upon approval.
+ 
+ 
+ 
+ 
+ 
+
+

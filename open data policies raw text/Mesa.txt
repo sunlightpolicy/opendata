@@ -1,0 +1,53 @@
+
+Mesa, AZ
+MANAGEMENT POLICY
+POLICY NUMBER: 124
+SUBJECT: OPEN DATA INITIATIVE
+EFFECTIVE DATE: October 1, 2015
+I. PURPOSE AND POLICY STATEMENT
+The purpose of this Management Policy is to establish guidelines for the City of Mesa Open Data Initiative. The City of Mesa is committed to creating a formal open data program that includes the creation of an Open Data Web Portal where the City’s published data will be publicly available online. The initiative and web portal are intended to advance a number of public policy objectives, including:
+• Provision of prompt, efficient services to residents providing the data behind key City priorities and decisions • Increased transparency and access to public information
+• Enhanced coordination and efficiencies among City departments and partner organizations
+• Better informed decision-making through the aggregation, synthesis, and analysis of previously siloed data
+• Higher levels of civic engagement and provision of valuable public feedback to government officials regarding local issues
+• Preservation of City staff time and resources through the proactive release of information currently sought through Public Records Act requests.
+The City is committed to providing public information as open by default. This policy and the processes outlined within seeks to move the City toward proactive publication of all data containing information consistent with relevant public records law and pertinent to the City’s programmatic priorities, beginning with data related to identified key strategic goals.
+While advancing these public objectives, this Management Policy upholds that the protection of privacy, confidentiality, and security will be maintained as a paramount priority.
+This Management Policy applies to any City department, office, administrative unit, commission, board, advisory committee or other division of City government (“agency”) including the records of third party agency contractors that create or acquire information, records, or data on behalf of a City department.
+II. DEFINITIONS
+a. “Data” means statistical, factual, quantitative, or qualitative information that is regularly maintained or created by or on behalf of a City department.
+b. “Open data” means data that is available online, in an open format, with minimal legal encumbrances on use or reuse.
+c. “Open format” means any widely accepted, nonproprietary, platform-independent, machine-readable method for formatting data that permits automated processing of such data and facilitates search capabilities.
+d. “Dataset” means a named collection of related records, with the collection containing data organized or formatted in a specific or prescribed way, often in tabular form.
+e. “Protected information” means any dataset or portion thereof to which an agency may deny access pursuant to the ARS Title 39-121 or any other law, rule, or regulation.
+f. “Sensitive information” means any data that, if published on the Open Data Web Portal, could raise privacy, confidentiality or security concerns or have the potential to jeopardize public health, safety or welfare to an extent that is greater than the potential public benefit of publishing that data.
+g. “Publishable data” means data that is not protected or sensitive and that has been prepared for release on the Open Data Web Portal.
+III. WHAT WORKS OPEN DATA INITIATIVE - Providing the data behind key City strategic priorities and performance indicators
+The City will develop and implement practices that allow it to:
+1. Continuously advance open data practices that move the City closer to the eventual goal of proactive release of all publishable City data, making it freely available in open formats, with no restrictions on use or reuse, and fully accessible to the broadest range of users to use for varying purposes;
+2. Establish and maintain an Open Data Web Portal that provides a central location for published City data;
+3. Publish quality, updated data with documentation about the data (metadata) to encourage maximum use;
+4. Automate where possible the publishing and update process to ensure the most current data is available on the portal and reduce resource time spent in publishing data
+5. Minimize limitations on the disclosure of public information while appropriately safeguarding protected and sensitive information; and
+6. Encourage innovative uses of the City’s publishable data by agencies, the public, and other partners.
+The development and implementation of these practices shall be overseen by the Open Data Leadership Board, who shall be appointed by and report directly to the City Manager or designee.
+IV. WEB PORTAL
+The City will create and maintain an Open Data Web Portal where the City’s published data will be publicly available.
+Datasets shall be made available to the public on an open license basis. An open license on a dataset signifies there are no restrictions on copying, publishing, further distributing, modifying or using the data for a non-commercial or commercial purpose.
+V. GOVERNANCE
+Implementation of the Open Data Initiative will be overseen by the Open Data Leadership Board who will work with the City’s departments to:
+1. Identify the data owners who will be involved with the department’s participation in the Open Data Initiative;
+2. Oversee the development of a prioritized inventory of datasets held by departments that can be published to the Open Data Web Portal;
+3. Develop and implement a process for determining the relative level of risk and public benefit associated with potentially sensitive, non-protected information so as to make a determination about whether and how to publish it;
+4. Establish processes for publishing datasets to the Open Data Web Portal, including processes for ensuring that datasets are reviewed for use-appropriate formats, quality, timeliness, and exclusion of protected and sensitive information;
+5. Ensure that published datasets are available for bulk download;
+6. Select, develop and oversee the Open Data Web Portal platform that features each new dataset publication; and
+7. Ensure that – where possible – the automation of data publishing to ensure the most current data is available.
+In order to increase and improve use of the City’s open data, the Open Data Leadership Board will actively encourage department and public participation through providing regular opportunities for feedback and collaboration on the portal and through internal and public MesaStat sessions.
+VI. PRIORITIZATION AND ITERATIVE APPROACH The Open Data Leadership Board will be charged with developing and implementing a process for prioritizing the release of datasets to the Open Data Web Portal that takes into account the City’s programmatic priorities, new and existing signals of interest from the public (such as the frequency of FOIA requests), existing opportunities for data use in the public interest, and cost;
+Datasets identified as pertinent to measuring progress of the City’s strategic performance management goals (e.g. Downtown Vibrancy, Increase Prosperity, and Reduce Blight) will be given first priority of release;
+Processes developed through the initial release of prioritized data will be continuously evaluated and replicated as part of an iterative process intended to expand to all City data over time, moving the City closer to the stated goal of proactive release of all publishable data.
+VII. OPEN DATA REPORT AND REVIEW
+Within one year of the effective date of this Management Policy, and thereafter no later than June 30th of each year, the Open Data Board shall submit to the City Manager an annual Open Data Report. The report shall include an assessment of progress towards achievement of the goals of the City’s open data program, a list of datasets currently available on the Open Data Web Portal, and a description and publication timeline for datasets envisioned to be published on the portal in the following year.
+During the review and reporting period, the Open Data Leadership Board shall make recommendations for improving the City’s open data management processes in order to ensure that the City continues to move towards the achievement of this policy’s goals.
+ISSUED BY: Christopher J. Brady, City Manager

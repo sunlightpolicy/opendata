@@ -1,0 +1,193 @@
+
+Victorville, CA 
+RESOLUTION NO. 16-012
+A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF
+VICTORVILLE, CALIFORNIA, ESTABLISHING AND ADOPTING THE
+VICTORVILLE OPEN DATA POLICY AND DIRECTING THE CITY
+MANAGER TO ESTABLISH AND OVERSEE A DATA GOVERNANCE
+WORKING GROUP FOR THE DEVELOPMENT AND
+IMPLEMENTATION OF THE OPEN DATA PRACTICES OUTLINED
+THEREIN
+WHEREAS, the City of Victorville (“City”) creates, maintains and possesses valuable
+data in support of its various business functions; and
+WHEREAS, the City recognizes that this data is also a public resource and there is
+signiﬁcant potential for the public to beneﬁt from innovative uses associated with making this
+data freely and openly available; and
+WHEREAS, the emergence and continued reﬁnement of new information technology
+has dramatically changed the way citizens search for and expect to ﬁnd, consume and utilize
+information, and such technology can aggregate larger quantities of data and allow government
+to provide information to the public with increasing efficiency; and
+WHEREAS, the City can leverage this technology to meet the public demand for
+information, enhance public access to" government data and make government processes
+transparent in order to promote public trust; and
+WHEREAS, the City recognizes the need to appropriately safeguard against publishing
+privileged, conﬁdential, private, proprietary or similar information which is exempt from
+disclosure under the provisions of the California Public Records Act or any other applicable law,
+rule or regulation; and
+WHEREAS, balancing limitations on the disclosure of public information with the
+public beneﬁt and ensuring the quality "and consistency of such data are essential to maintaining
+the data’s value and utility; and
+WHEREAS, the attached Victorville Open Data Policy (“Policy”), incorporates model
+language and best practices and was developed in partnership with the Sunlight Foundation as
+part of the scope of work outlined in the City’s Memorandum of Understanding under the What
+Works Cities program; and
+WHEREAS, the City Council wishes to adopt the attached Policy to formalize
+Victorville’s efforts to improve the supply of data_ made available to the public in a useful and
+responsive way, as well as to promote the use of such data and evidence in decision-making; and
+WHEREAS, the City Council further wishes to authorize and direct the City Manager to
+establish and oversee a Data Governance Working Group to develop and implement the open
+data practices set forth in the attached Policy.
+NOW, THEREFORE, THE CITY COUNCIL OF THE CITY OF VICTORVILLE
+DOES HEREBY RESOLVE, DETERMINE AND ORDER AS FOLLOWS:
+Section 1. The recitals set forth above are true and correct and are hereby incorporated in
+their entirety as part of this Resolution by this reference. ,
+Section 2. The Victorville Open Data Policy set forth in Attachment A to this Resolution,
+incorporated and made part of this Resolution by reference, is hereby adopted.
+Section 3. The City Manager is authorized and directed to establish and oversee a Data
+Governance Working Group to develop and implement the open data practices set forth in the
+Policy {Attachment A).
+Section 5. The City Clerk shall certify to the adoption of this Resolution.
+Section 6. This Resolution shall take effect immediately upon its adoption.
+ 
+Resolution No. 16-012
+PASSED, APPROVED AND ADOPTED this 5th day of APRIL 2016.
+MAYOR OF THE CITY OF VICTORVILLE
+ATTEST:
+CITY CLERK
+APPROVE
+CITY ATTORNEY
+I, CAROLEE BATES, City Clerk of the City of Victorville and ex-officio Clerk to the City
+Council of said City, DO HEREBY CERTIFY that the foregoing is a true and correct copy
+of Resolution No. 16-012 which was adopted at a meeting held on the 5'“ day of April
+2016, by the following roll call vote, to wit:
+ 
+AYES: Councilmembers Garcia, Cox, Kennedy, McEachron and Negrete
+NOES: NONE
+ABSENT: NONE
+ABSTAIN: NONE
+CITY CLERK 
+ATTACHMENT A
+VICTORVILLE OPEN DATA POLICY
+Section 1. Title "
+This policy, which may be amended and updated from time-to-time by City Council resolution,
+shall be known as the Victorville Open Data Policy (the “Open Data Policy”).
+Section 2. Deﬁnitions
+a. “City Agency” or “City Agencies” shall mean the City of Victorville (“City”) and each of
+the City’s (l6pﬂ1’lI_1'Il61’1llS, ofﬁces, administrative units, commissions, boards, advisory committees or other divisions of the City’s government, including the Victorville Water District, Southern California Logistics Airport Authority, RDA Successor Agency, Victorville Housing Trust, Southern California Logistics Rail Authority and Victorville Joint Powers Financing Authority.
+b. “Contractor” means the third party contractors of any City Agency who create or acquire
+information, records, or Data on behalf of a City Agency.
+c. “Data” means statistical, factual, quantitative, or qualitative information that is
+maintained or created by or on behalf of a City Agency. ,
+d. “Dataset” means a named collection of related records, with the collection containing
+Data organized or formatted in a speciﬁc or prescribed way, often in tabular form.
+e. “Metadata” means a description of the Data ﬁelds in a Dataset that helps the public to
+understand what the Data is, as well as how and when it is collected.
+f. “Open Data” means Publishable Data that is available online, in an Open Format, with no
+legal encumbrances on use or reuse, and is available for the public to access and download in full
+without fees or a requirement of registration. Legal encumbrances include federal copyright
+protections and other, non-statutory legal limitations on how or under What conditions the
+Publishable Data may be used, but do not include any processes required to ensure public access
+to Publishable Data or to protect the central online location/website from which Publishable Date is accessed from unlawful abuse, damage or impairment.
+g. “Open Format” means any widely accepted, nonproprietary, platform-independent, machine-readable Data format, which permits automated processing of such Data and facilitates
+analysis and search capabilities.
+h. “Protected Information” means any Data, Dataset or portion thereof which contains
+privileged, conﬁdential, private, proprietary or similar information which is exempt from
+disclosure under the provisions of the California Public Records Act or any other applicable law,
+rule or regulation. '
+i. “Publishable Data” means Data and/or Datasets which do not consist of or contain
+Protected information and have been prepared for release to the public.
+Section 3. Open Data Policy Goals
+a. The City commits to develop and implement practices that will allow it to achieve the
+following Open Data Policy goals:
+1. Proactively release all Publishable Data, making it freely available in an Open Format,
+with no restrictions on use/or reuse, and fully accessible to the broadest range of users to
+use for varying purposes;
+2. Publish high quality, updated Publishable Data with documentation (Metadata) and
+permanence to encourage maximum use;
+3. Provide or support access to free, historical archives of all released City Publishable
+Data;
+4. Measure the effectiveness of Datasets made available through this Open Data Policy by
+connecting Open Data efforts to the City’s strategic priorities;
+5. Minimize limitations on the disclosure of public information, while appropriately
+. safeguarding and not publishing Protected information; and
+6. Support innovative uses of the City’s Publishable Data by City Agencies, Contractors,
+other governmental agencies, the public and other partners such as the media, businesses,
+non-proﬁts and research groups.
+b. The development and implementation of these practices shall be overseen by the Data
+Governance Working Group (the “DG Working Group”), consisting of both City staff and
+community members. City staff members shall be appointed by and serve at the pleasure of the
+City Manager. Community member appointments shall be approved by the City Council. The
+DG Working Group shall report to the City Manager or to his/her authorized designee.
+c. This Open Data Policy shall apply to each City Agency, and to the fullest extent
+permitted by applicable laws and City guidelines, its Contractors as deﬁned in Section l hereof.
+d. Appropriate funding shall be established for the Open Data budget as determined by the
+City Council based upon policy goals and the recommendations of the DG Working Group in the
+annual report.
+ 
+Section 4. Governance
+a. Implementation of this Open Data Policy will be overseen by the DG Working Group,
+who under the guidance and direction of the City Manager, shall work with each City Agency to:
+ 
+1. Identify and publish appropriate contact information for a lead Open Data coordinator in
+each City Agency who will be responsible for managing that City Agency’s participation
+in this Open Data Policy;
+2. Create a comprehensive inventory of Datasets held by each City Agency, which shall be
+published to the central Open Data location and regularly updated;
+3. Develop and implement a process for determining, in accordance with the Public Records
+Act and other applicable laws, which City Agency and/or Contractor Data and/or
+Datasets are appropriate for public disclosure (i.e., can be considered Publishable Data);
+4. Amend current purchasing, procurement and contracting processes as needed to promote
+this Open Data Policy, such as crafting guidelines to include Open Data requirements in
+appropriate City contracts and creating standardized contractual provisions preserving
+City ownership of Data and authorizing its publication on the City’s central Open Data
+location;
+5. Develop and implement a process for prioritizing the release of Publishable Datasets
+which takes into account new and existing signals of interest from the public (such as the
+frequency of public records requests), the City's strategic priorities, existing opportunities
+for Data use in the public interest, and cost;
+ 
+6. Develop and implement a process for proactively consulting with members of the public,
+City Agency staff, Contractors, journalists and other stakeholders to identify the
+Publishable Datasets which will have the greatest beneﬁt to city residents if published in
+a high quality manner;
+ 
+7. Establish processes for posting Publishable Datasets to the central Open Data location,
+including processes for ensuring that such Datasets are high quality, up-to-date, are in
+use-appropriate formats, and scrupulously exclude Protected Information;
+ 
+8. Ensure that appropriate Metadata is provided for each Dataset in order to facilitate its use;
+9. Develop and monitor a routinely updated, public timeline for new Dataset publication; and
+10. Ensure that published Datasets are available for bulk download without legal
+encumbrance.
+ 
+b. In order to increase and improve use of the City’s Open Data, the DG Working Group
+will actively encourage participation by City Agencies, Contractors and the public by providing
+regular opportunities for feedback and collaboration.
+ 
+Section 5. Central Online Location for Published Data
+ 
+a. The City will create and maintain a publicly available location on the City's website or in
+another suitable online location where the City’s Publishable Data will be available for
+download.
+ 
+b. All Publishable Data shall be placed into the public domain, in an Open Format, without
+restrictions or requirements placed on use.
+ 
+c. Each Publishable Dataset should be associated with contact information for the
+appropriate manager of that Dataset, as well as with Metadata.
+ 
+Section 6. Open Data Report and Review
+a. Within one year of the effective date of this Open Data Policy, and thereafter no later
+than March 1st of each successive year, the DG Working Group shall publish an annual Open
+Data report. The report shall include an assessment of progress towards achievement of the goals
+of this Open Data Policy, an assessment of how the City’s Open Data work has furthered or will
+further the City’s strategic priorities and a description and publication timeline for Publishable
+Datasets envisioned to be released by the City in the following year.
+b. As part of the annual review, the DG Working Group will make funding
+recommendations for the upcoming ﬁscal year, as well as suggestions for improving the City’s
+Open Data management processes to ensure that the City continues to move towards the
+achievement of Open Data Policy goals.
+ 
+Section 7. Effective Date.
+This Open Data Policy shall become effective as of the date it is adopted by resolution of the
+City Council.

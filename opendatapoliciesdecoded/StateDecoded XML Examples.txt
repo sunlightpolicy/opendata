@@ -1,0 +1,35 @@
+StateDecoded XML Examples
+http://docs.statedecoded.com/xml-format.html
+
+Bare Minimum 
+
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="" identifier="" level=""></unit>
+    </structure>
+    <section_number></section_number>
+    <catch_line></catch_line>
+    <text></text>
+</law>
+
+
+All Fields
+
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="" identifier="" order_by="" level=""></unit>
+    </structure>
+    <section_number></section_number>
+    <catch_line></catch_line>
+    <order_by></order_by>
+    <text>
+        <section prefix=""></section>
+    </text>
+    <history></history>
+    <metadata></metadata>
+    <tags>
+        <tag></tag>
+    </tags>
+</law>

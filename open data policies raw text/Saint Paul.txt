@@ -1,0 +1,28 @@
+
+Saint Paul, MN
+				
+City of Saint Paul Legislation Text					
+City Hall and Court House 15 West Kellogg Boulevard Phone: 651-266-8560			
+File #: RES 16-707, Version: 2
+Establishing an open data program, including an open data portal, and authorizing the appropriate City representatives to execute all aspects of the open data program.
+WHEREAS, the government of the City of Saint Paul is committed to making Saint Paul “The Most Livable City in America” and providing its residents with safe and vibrant neighborhoods, great jobs, a strong system of education and innovation, and high quality of life; and
+WHEREAS, the City seeks to better allocate resources, enhance coordination and collaboration among city agencies, and ultimately make data-driven decisions across all departments; and
+WHEREAS, the City is committed to managing data generated through the course of the City’s operations as a public asset; and
+WHEREAS, the City recognizes that open data is a key component to enhancing the City’s ability to turn data into actionable information; and
+WHEREAS, the City seeks to improve effectiveness, efficiency and equity in service delivery for residents; and WHEREAS, the City seeks to leverage data to improve both internal and external communications; and
+WHEREAS, open data has the potential to drive innovation, economic development, and external collaborations; and
+WHEREAS, Mayor Coleman allocated resources in the 2016 proposed budget to establish an open data program; and
+WHEREAS, the City of Saint Paul was awarded the What Works Cities partnership with Bloomberg Philanthropies and received pro bono consultation from the Sunlight Foundation to support development of Saint Paul’s open data policy and governance practices; and
+WHEREAS, the thoughtful implementation of an open data program enhances government transparency and the public’s access to information, promoting higher levels of civic engagement and thereby increased feedback to government officials regarding local issues; and
+WHEREAS, in commitment to the spirit of open government, the City is committed to proactively publishing high value data as broadly as possible via an open data portal, subject to the requirements and non- discretionary limitations upon the disclosure of data as set forth in the Minnesota Data Practices Act and other applicable laws; and
+WHEREAS, proactive release of information currently sought through public records requests will reduce staff time spent responding to such requests; and
+WHEREAS, information technologies, including web-based and other internet applications and services, are essential means for open government, and good government generally; and	
+WHEREAS, by publishing structured standardized data in machine-readable formats the City seeks to encourage the local software community to develop civic software applications and tools to collect, organize, and share public data in new and innovative ways; and therefore
+BE IT RESOLVED by the Council of the City of Saint Paul, Minnesota, as follows:
+1. The City shall establish an open data program to advance the timely and consistent publication of publicly disclosable information as open data
+2. The City shall develop and implement practices allowing it to prioritize the proactive release of high quality, machine-readable, disclosable city data, making it freely available via an open license without restrictions on use, reuse, or redistribution, ensuring it is fully accessible to the broadest range of users possible.
+3. The City shall encourage optimal use of data by maintaining descriptors that define the published data, and by keeping datasets as current and consistent as possible.	
+4. The City shall establish and maintain an open data web portal that provides a central location for published city data.
+5. The City shall minimize limitations on the disclosure of public information while appropriately safeguarding protected and sensitive information in accordance with the Minnesota Data Practices Act and other applicable laws.		
+6. The appropriate City representatives shall plan, execute, and monitor the Open Data Initiative including actively encouraging departmental, partner and public participation
+

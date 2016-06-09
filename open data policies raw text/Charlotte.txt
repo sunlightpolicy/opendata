@@ -1,0 +1,87 @@
+
+Charlotte, NC
+Objective and Scope:
+ To provide guidelines to City of Charlotte departments and City employees in the distribution of open data and the implementation of open data projects. This policy applies to all City departments, employees, or others working on behalf of the City who are responsible for implementing open data related activities. 
+Definitions: 
+Data – a value or set of values that represents a specific concept or concepts. Data becomes information when analyzed and possibly combined with other data in order to extract meaning and provide context. 
+Open data – data made public and provided in a convenient, modifiable form such that there are no unnecessary technological obstacles to the use of the data. For purposes of this policy, open data is machine readable, available in bulk, and provided in an open format such as a .CSV file. Charlotte’s open data is generated and maintained by the City, openly shared, and available to the public in accordance with public records laws. 
+Portal – a means, usually a technology application, for transmitting open data for use, reuse, and redistribution. 
+Restricted data – all data that the City is restricted from disclosing under state or federal law; and all data that the City is permitted to withhold from disclosure under state or federal law and has elected to withhold from disclosure. 
+Policy: 
+A. Departments are encouraged to provide open data through the City’s portal in order to achieve the following: 
+1) Transparency and accountability in local government activities; 
+2) Civic engagement; 
+3) Confidence in City management and governance of data; and 
+4) Ability of third parties to leverage government data through application and service development that may bolster economic development, commerce, investment, and civic engagement. 
+B. Departments must comply with the City’s Restricted Data Policy (ADM 13). The Restricted Data Policy establishes requirements for the protection of data the City is required or permitted to withhold from disclosure under state or federal law. Departments disseminating data through an open data portal must ensure that access to restricted data is blocked. Examples of restricted data include: 
+1) Trade secrets (which may include vendor software, technical specifications or other intellectual property); 
+2) Proprietary information such as license agreements or fees, copyrights, patents, etc. 
+3) Personal identifying information as defined by NCGS 132-1.10; 4) Information contained in the City’s personnel files as provided by NCGS 160A-168, except for certain categories of information that must be disclosed; 
+5) Information relating to criminal investigations conducted by the City and records of criminal intelligence information compiled by the City; 
+6) Billing information of customers compiled and maintained in connection with the City providing utility services; 
+7) Sensitive security information as defined for Protection of Sensitive Security Information in Title 49 Code of Federal Regulations (CFR) Part 1520 regarding Homeland Security; 
+8) Building plans of City-owned buildings or infrastructure; 
+9) Local tax records of the City that contain information about a taxpayer’s income or receipts; 10) The security features of the City’s electronic data processing systems, information technology systems, telecommunications networks, or electronic security systems as provided by NCGS 132-6.1; and 11) Any data collected from a person applying for financial or other types of assistance including, but not limited to, their income and bank accounts, etc. 
+C. Departments must also ensure that disseminated data, and all tools used to disseminate it, adhere to all standing City policies and standards, as well as applicable laws. Examples of applicable policies, standards and laws include:
+1) Communications standards – All data and tools used to disseminate open data must maintain corporate standards in the use of City logos.
+ 2) Good practices – Management of an open data portal shall meet good practices for maintaining data, such as timely and consistent publication. 
+3) Web policy – All sites must adhere to City web policy concerning linking, privacy and accessibility guidelines for individuals with disabilities. 
+4) Political activity – Any open data or open data tool shall not contain any political information or be used for political activities by City employees. 
+5) Internet security policies – The sites will comply with City policies and procedures for information security. 
+6) Conduct – City policies, rules, regulations and standards of conduct apply to employees that engage in open data activities while conducting City business. Subject/Title Open Data Policy 
+7) Privacy – Use of open data shall comply with the privacy policy contained on the City’s website and use all privacy protection laws to protect the employee and citizen privacy and the confidential information the City maintains. 
+8) Other laws – Open data and related tools such as websites and portals shall adhere to all copyright, public records, retention, fair use and financial disclosure laws and other laws as applicable. 
+9) Third party citations – Citations of vendors, suppliers, clients, citizens, coworkers or other stakeholders may not be provided without their explicit permission. 
+Department Responsibilities: 
+A. Innovation & Technology – the City Manager has delegated oversight of the City’s open data policy to the Department of Innovation & Technology, which shall: 
+1) Maintain the City’s open data portal. 
+2) Consult with departments annually to determine what additional departmental data sets would be added to the open data portal. 
+3) Advise departments on best practices for open data-related projects and the requirements of this policy. 
+4) Assist in the implementation of open data projects. 
+5) Enforce this policy. 
+B. All other departments shall: 
+1) Work with the Department of Innovation & Technology to determine what additional departmental data sets would be added to the open data portal, by taking the following actions: a. Determine what data may be relevant to the public.
+ b. Provide the name and contact information for a primary contact or data steward for each open data set. 
+c. Determine how the data will be processed and prepared for publishing. 
+d. Provide an implementation schedule that includes an estimated timeframe for publishing each dataset, a process for managing site data, methods for posting information, and frequency of data updates. 
+Las Vega, NV
+Policy and Procedure on Open Data No: CM51O Type: 
+Policy & Procedure Department: Office of the City Manager Approval 
+Purpose To establish a policy for an open data initiative for anyone using the City of Las Vegas (City) website. Scope Everyone accessing the City of Las Vegas data portal. 
+Glossary Data 
+"Data" means statistical, quantitative, or qualitative information that is regularly maintained, created, or obtained by or on behalf of a City department. 
+"Dataset" means a named collection of related records, with the collection containing data organized or formatted in a specif,rc or prescribed way, often in tabular form. 
+"Department" refers to all departments, divisions, boards, commissions, agencies, and internal or external organizations responsible for providing and disseminating data. 
+"Open data" means data that is available online, in open format, with no legal encumbrances on use or reuse. 
+ "Open format" means any widely accepted, nonproprietary, platform independent, machine-readable method for formatting data, which permits automated processing of such data and facilitates search capabilities. 
+"Protected information" means any dataset or portion thereof to which a department may deny access pursuant to state law or City ordinance, or any other law or rule or regulation. 
+Publishable Data "Publishable data" means data which is not protected or sensitive and which can be prepared for release to the public. 
+"sensitive information" means any data which, if published on the Open Data Portal could raise privacy, confidentiality or security concerns or have the potential to jeopardize public health, safety or welfare to an extent that is greater than the potential public benefit of publishing that data. 
+Policy Section 1: Open Data Initiative 
+A. The City will develop and implement practices that allow it to: 
+1. Proactìvely release all publishable City data, making it freely available in open formats, with no restrictions on use or reuse, and fully accessible to the broadest range of users to use for varying purposes; 
+2. Publish high quality, updated data with documentation (metadata) and permanence to encourage maximal use; 
+3. Establish and maintain an open data web portal that provides a central location for published City data; 
+4. Minimize limitations on the disclosure of public information while appropriately safeguarding protected and sensitive information; and 
+5. Encourage innovative uses of the City's publishable data by departments, the public, and other partners. 
+B. The development and implementation of these practices shall be overseen by the Open Data Steering Committee. 
+C. The requirements of this policy shall apply to any City department, office, administrative unit, commission, board, advisory committee or other division of City government ("department"), including the records of third party agency contractors that create or acquire information, records, or data on behalf of a City department. 
+Section 2: Governance
+ A. Implementation of the Open Data Initiative will be overseen by an Open Data Steering Committee, comprised of persons designated by the City Manager from internal City departments and external stakeholders, who will work with the City's departments to:
+1. Identify a lead open data coordinator for each City department who will work with the Information Technologies Data Architect and will be responsible for managing that department's participation in the Open Data Initiative; 
+2. Oversee the creation of a comprehensive inventory of datasets held by each City department which is published to the Open Data Portal and regularly updated;
+3. Develop technical requirements for publishing public datasets by departments;
+ 4. Develop and implement a process for determining the relative level of risk and public benefit associated with potentially sensitive, non-protected information so as to make a determination about whether and how to publish it;
+5. Develop and implement a process for prioritizing the release of datasets to the Open Data Portal which takes into account new and existing signals of interest from the public (such as the frequency of public records requests), the City's programmatic priorities, existing opportunities for data use in the public interest, and cost; 
+6. Establish processes for publishing datasets to the Open Data Portal, including processes for ensuring that datasets are reviewed for use-appropriate formats, quality, timeliness, and exclusion of protected and sensitive information; 
+7. Develop and oversee a routinely updated, public timeline for new dataset publication; and 
+8. Ensure that published datasets are available for download. 
+
+Section 3: Web Portal
+ A. The City will maintain an Open Data Portal where the City's publishable data will be publicly available. 
+B. Datasets published on the Open Data Portal shall be placed into the public domain. Dedicating datasets to the public domain means that there are no restrictions or requirements placed on use of these datasets. 
+C. The City shall assume no liability for the following: errors, omissions or inaccuracies in the public data provided on the Open Data Portal regardless of how caused; decisions made or actions taken by anyone using or relying upon such public data; or any virus or other damage to any computer that might occur during or as a result of accessing such portal or the public data therein. 
+D. The Open Data Portal and all public data published on the portal shall be subject to terms of use developed by the Information Technologies Department. Such terms of use shall be posted by the Information Technologies Department in a conspicuous place on the Open Data Portal. The City shall reserve the right to discontinue availability of content on the Open Data Portal at any time and for any reason. Open Data Policy and Procedure 
+Section 4: Open Data Report and Review 
+A. The Open Data Steering Committee shall submit an annual Open Data Report to the City Council by March 31 of each year, beginning in 2017 . The report shall include an assessment of progress towards achievement of the goals of the City's Open Data Initiative, an assessment of the current scope of department compliance, a list of datasets currently available on the Open Data Portal , and a description and publication timeline for datasets envisioned to be published on the portal in the following year. 
+B. During the review and reporting period, the Open Data Steering Committee should also make suggestions for improving the City's open data management processes to ensure that the City continues to move towards the achievement of the policy's goals.

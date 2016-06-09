@@ -1,0 +1,32 @@
+
+Hartford, CT
+EXECUTIVE ORDER NO. 2014-1
+WHEREAS, The City of Hartford is committed to creating transparency and accountability in City government; and
+WHEREAS, Timely and consistent publication of public information and data is essential to open and effective City government; and
+WHEREAS, The timely online publication of public data in various machine readable formats will empower Hartford’s residents, businesses, and partners by providing them with information necessary to participate in government in a meaningful manner, to assist in identifying possible solutions to historic governmental problems, and to promote innovative strategies for social progress and economic growth; and
+WHEREAS, To become one of America’s best capital cities, the City of Hartford must respond to the changing landscape of modern information sharing as well as the public demand for government data to be provided promptly and efficiently; now, therefore,
+I PEDRO E. SEGARRA, MAYOR OF THE CITY OF HARTFORD, DO HEREBY ORDER AS FOLLOWS:
+1. Definitions.
+(A) "Chief Information Officer” means the chief information officer in the Department of Metro Hartford Information Services
+(B) “Department” means any City of Hartford department, office, administrative unit, commission, board, advisory committee, or other division of the City of Hartford within the ofﬁcial jurisdiction of the executive branch.
+(C) “Data” means final versions of statistical or factual information that are in alphanumeric form reflected in a list, table, graph, chart or other non-narrative form; are regularly created or maintained by or on behalf of a city department and are controlled by such city department that can be digitally transmitted; records a measurement, transaction or determination related to the mission of an agency and is collected by a city agency where the agency is permitted to make the data available to the public. The term "data" shall not include information subject to privacy laws, or to copyright, patent, trademark or trade secret protection, or to conﬁdentiality agreement, or that are otherwise protected by law, contract, ordinances, policies or other restrictions and requirements.
+(D) "Open Data Management Team“ is a group consisting of representatives from each Department with the City of Hartford and chaired by the Chief Information Ofﬁcer (CIO) that is responsible for coordinating implementation of an Open Data Policy and creating the Open Data Report.
+(E) "Open Data Report” is the annual report of the Open Data Management Team, which shall (i) summarize and comment on the state of Open Data availability in the City of Hartford Departments from the previous year; (ii) provide a plan for the next year to improve online public access to Open Data and maintain data quality.
+(F) "Data Sets" means a collection of related records on a storage device, with the collection containing data organized or formatted in specific or prescribed way, often in tabular form, and accessed by a specific method that is based on the data set organization.
+(G) “Open Format” is any widely accepted, nonproprietary, platform-independent, machine-readable method for formatting data, which permits automated processing of such data and is accessible to external search capabilities.
+(H) "Open Data Portal” means the Internet site established and maintained by or on behalf of the City of Hartford, managed by the Chief Information Ofﬁcer.
+(I) “FOIA” means the Connecticut Freedom of Information Act
+2. Open Data Portal.
+(A) The Open Data Portal shall serve as the authoritative source for Open Data provided by the City of Hartford.
+(B) Any Open Data made accessible on the City of Hartford’s Open Data Portal shall use an Open Format.
+3. Open Data Management Team.
+(A) The Chief Information Officer (CIO of the City of Hartford will work with the head of each Department to identify a Data Coordinator in each Department. Data Coordinators will serve as members of an Open Data Management Team facilitated by the CIO and the City of Hartford Metro Hartford Information Services Department. The Open Data Management Team will work to establish a robust, nationally recognized, platform that addresses digital infrastructure and Open Data.
+(B) The Open Data Management Team will develop an Open Data management policy that will adopt prevailing Open Format standards for Open Data, and develop agreements with regional partners to publish and maintain Open Data that is open and freely available while respecting exemptions allowed under federal or state law.
+4. Department Open Data Catalogue.
+(A) Each Department shall be responsible for creating an Open Data catalogue, which will include comprehensive inventories of information possessed and/or managed by the Department.
+(B) Each Department’s Open Data catalogue will classify information holdings as currently “public” or “not yet public”; Departments will work with Metro Hartford Information Services to develop strategies and timelines for publishing open data containing information in a way that is complete, reliable, and has a high level of detail.
+5. Open Data Report and Policy Review.
+(A) Within one year of the effective date of this Executive Order, and thereafter no later than September 1 of each year, the Open Data Management Team shall submit to the Mayor an annual Open Data Report.
+(B) In acknowledgement that technology changes rapidly, in the future the Open Data Policy should be reviewed and considered for revisions or additions that will continue to position The City of Hartford as a leader on issues of openness, efﬁciency, and technical best practices.
+Signed this 26th day of March, 2014 by Pedro E. Segarra, Mayor of the City of Hartford.
+The Executive Order shall take effect immediately.

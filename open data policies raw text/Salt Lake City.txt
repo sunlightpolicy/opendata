@@ -1,0 +1,85 @@
+
+Salt Lake City, UT
+Open Data Portal Procedures
+1.   General. Government works best when it engages its constituents effectively and makes information readily available in an easily consumed format. The purpose of the Open Government Portal is threefold. First, the Portal should maximize information availability by publishing data in an understandable, logical format for anyone to access. Second, the Portal should publish relevant and timely information so that constituents are not overwhelmed with data. This has the potential to reduce the number of Government Records Access and Management Act (GRAMA) requests received by the City. Third, the Portal should be a central clearinghouse for data that enables the citizen developer to create applications independently. Citizen developers are constituents who have the technical acumen to develop an app that pulls pieces of information from these data sources and presents that data in a format that meets a need in the community. This fosters creativity, alleviates a burden on IT departments, and provides tools that the City may not have considered.
+ 
+The purpose of this document is to provide guidance regarding the processes that the City will employ to determine what information is of importance to the public, how it will be presented, and how often it will be updated.
+ 
+2.   Oversight Committee. The City will empanel an oversight committee to assist in this process. The overarching function of the committee is to vet information proposed to be published to ensure the data provides an accurate statement of the facts, does not violate privacy, and does not compromise personal or public safety concerns. Additionally, the committee will look at the specific data sets to reduce or eliminate the City’s exposure to unacceptable risk or liability.  The Committee will consist of a representative from:
+a.   The Mayor’s Office
+b.   The City Attorney’s Office
+c.   The Human Resources Department
+d.   IMS
+e.   City Recorder (or designee)
+f.	Departmental representatives. Departmental representatives will be ad hoc members of the committee who serve when data owned by their department is being reviewed.
+The committee will also include a representative from the City Council’s Office, at the discretion of the City Council.  IMS will provide support staff to the committee.
+ 
+3.   Responsibilities. The mission of the committee is to provide oversight regarding the information that will be published on the Open Data Portal. To that end, several aspects need may be considered.
+a.   Technical feasibility. Can the data reasonably be modeled in a way that makes it useful and does not present erroneous or distorted interpretations of the data?
+i. IMS will designate the appropriate personnel to cover the technical aspect of extracting and modeling the data.
+ii.        	Department representatives will be responsible for ensuring the accuracy of the data and that it is presented in a useful way.
+b.   Privacy.  Information in City data sets may contain sensitive information that is protected by federal, state, or local law.
+i. The Attorney’s Office will provide legal input regarding federal, state, or local laws relating to privacy.
+ii.        	The HR Department will provide input to ensure that data sets proposed to be published do not contain elements that may compromise the personal information of employees or constituents.
+c.   Personal Safety. Information contained in City data sets could be used to in such a way that might compromise the personal safety of employees, victims of crime, witnesses to crimes, or other scenarios.
+i. The Attorney’s Office will provide legal input regarding federal, state, or local laws relating to personal safety.
+ii.        	The representative of the department owning the proposed data set will be responsible to that ensure the information contained in the data set does not release information that could be used to compromise the personal safety of any individuals, groups, or organizations.
+d.   Public Safety. Information contained in City data sets could be used to in such a way to compromise the safety of the residents, businesses, and visitors to the City or to disrupt City services.
+i. The Attorney’s Office will provide legal input regarding federal, state, or local laws relating to public safety.
+ii.        	The representative of the department owning the proposed data set will be responsible to ensure that the information contained in the data set does release information that could be used to compromise public safety or to disrupt City services.
+e.   Risk Management. Publishing certain data sets or specific elements in those data sets may expose the City to unacceptable levels of liability.
+i. The Attorney’s Office will provide legal input regarding federal, state, or local laws relating to City liability.
+ii.        	The representative of the department owning the proposed data set will be responsible to ensure that the information contained in the data set is accurate.
+iii.       	The representatives of the Mayor and Council will provide input the Administration’s and the City Council’s position on the specifics of the data and direction to the committee on the matter.
+f.	Prioritization. To help ensure the best use of City resources, the committee will be responsible for prioritizing which specific data sets will be published. As data sets are identified, they will be assigned a priority by the committee. Within each priority group, the committee will direct IMS and the department on the order in which they are to be addressed, the periodic refreshing of the data, and the retention schedule for the data on the portal.
+ 
+4.   Process.
+
+5.   Documentation. The committee will be provided with the documentation to facilitate the vetting process. (See Attachment 1)
+ 
+Public Data Portal
+Design Specifications and
+Review Checklist
+ 
+1
+Description of Proposed Data Set
+ 
+2
+Department/Division
+ 
+3
+Database
+ 
+4
+Data Elements (Table. Column – Attach separate sheets as needed)
+ 
+5
+Selection Criteria (Attach separate sheets as needed)
+ 
+6
+Retained on server for how long?
+ 
+7
+Refreshed at what interval?
+ 
+8
+Technically Feasible                                    	Y/N
+ 
+Privacy Concerns Addressed                      	Y/N
+ 
+Personal Safety Concerns Addressed         	Y/N
+ 
+Public Safety Concerns Addressed            	Y/N
+ 
+Risk and Liability Concerns Addressed                 	Y/N
+ 
+ 
+9
+Priority                                                                    	1      	2      	3
+10
+Ranking
+ 
+11
+Special Instructions to IMS
+ 
+ 

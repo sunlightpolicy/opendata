@@ -1,0 +1,194 @@
+
+Kansas City, MO
+ORDINANCE NO. 140443
+Amending Chapter 2, Code of Ordinances, by enacting a new Article XVI entitled “Open Data Policy,” consisting of Sections 2-2130 through 2-2135.
+WHEREAS, the Mayor and City Council adopted Resolution No. 140392 to declare its support for open data of public information for Kansas City; and
+WHEREAS, the Mayor and City Council remain committed to promoting a culture of open data; and
+WHEREAS, openness and transparency in government is in the best interest of all; and
+WHEREAS, the Mayor and City Council desire to formally adopt an “Open Data Policy” by enacting it into the Code of Ordinances; NOW, THEREFORE,
+BE IT RESOLVED BY THE COUNCIL OF KANSAS CITY, MISSOURI:
+Section 1. That Chapter 2, Code of Ordinances, is hereby amended by enacting a new Article XVI entitled “Open Data Policy,” consisting of Sections 2-2130 through 2-2135, said Article to read as follows:
+Article XVI. Open Data Policy.
+Section 2-2130. Open Data Policy Declared.
+It is the policy of the City of Kansas City, Missouri that public data, whenever feasible, will be open and freely available to all online in a machine-readable, open format that can be easily retrieved, downloaded and reused utilizing readily-available and free Web search applications and software.
+Section 2-2131. Definitions.
+As used in this open data policy, these terms shall have the following meanings unless it is apparent from the context that a different meaning is intended:
+Open Data or Information means public data or information made readily available online, utilizing best practice structures and formats when possible.
+Open Data Officer means the staff person designated by the City Manager to coordinate and implement the City’s Open Data program and policy.
+Open Data Portal means the Internet site established and maintained by or on behalf of the City, located at data.kcmo.org or its successor website.
+Open Format means any widely accepted, nonproprietary, searchable, platform-independent, machine-readable method for formatting data.
+Public Data or Information means any data or information generated or received by the City of Kansas City that can be made public to the extent such action is lawful and prudent.
+Sec. 2-2132. Procurement, Processes and Publishing of Open Data.
+(a)    Whenever possible, technology shall be procured and efficient processes shall be used in a way that advances the policy of making public data and information open and available through the use of open data standards and formats.
+(b)   To the extent prudent and practical, public data shall be published online and made freely available to all in a machine-readable open format, in both its raw and processed form, including a description of the source and quality of the data, all of which can be easily retrieved, downloaded, indexed, sorted, searched, analyzed and reused utilizing readily-available and free web search applications and software.
+Section 2-2133. Open Data Portal.
+The City established an Open Data Portal at data.kcmo.org in January of 2013. The Open Data Portal shall continue to be maintained by or on behalf of the City, shall be administered by the Open Data Officer or his or her successor. The Open Data Portal shall be located at data.kcmo.org or a successor website. In the event a successor website is used, the Open Data Officer shall notify the City Council and shall provide notice to the public on the main City website.
+Section 2-2134. Open Data Officer.
+The City Manager shall designate a staff person as the Open Data Officer who shall oversee the implementation and management of the Open Data Portal, its policies and its infrastructure. The Open Data Officer shall coordinate the publication of public data from City departments and commissions on the Open Data Portal.
+Section 2-2135. Departmental Open Data Liaisons.
+The head of each City department and certain commissions (so notified by the Open Data Officer) shall designate from within the department or commission one or more open data liaisons to:
+(1)               identify and communicate to the Open Data Officer the public data that can be but is not being published online;
+(2)               identify and recommend which public data should not be published online taking into account issues such as confidentiality, intellectual property rights, financial and security risk to the City and the protection of the privacy of individuals;
+(3)               maintain written justification for why certain information is not published online when the recommendation is that the data not be published online;
+(4)               establish timelines with the Open Data Officer for publishing the public data on the Open Data Portal; and
+(5)               assist the Open Data Officer with publication of the public data when needed.
+Secs. 2-2136—2-2149. Reserved.
+
+Sacramento, CA
+Title: Open Data
+Scope: Citywide
+Type: Master
+Category: Technology & Communications
+Sub Category: Records
+Policy Statement:
+In order to ensure a more transparent, effective and accountable government, the City of Sacramento (City) shall make information available online using open data standards while complying with applicable law and adhering to City policies and procedures.
+This Open Data Policy is intended to improve the internal management of information controlled by the City and it is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by a party against the City, its departments, divisions, its officers, employees, or agents.
+Nothing in this Data Policy alters, or impedes the ability to carry out, the authority of the City to perform responsibilities under the law and consistent with applicable legal authorities, appropriations, and City Manager guidance, nor does this Data Policy limit the protection afforded any information by other provisions of law. 
+Applicability
+This policy and procedure applies to all City data presented to the public via the City of Sacramento’s open data portal at www.data.cityofsacramento.org. 
+Responsibility
+City Clerk
+As the City’s official record keeper, the City Clerk or designee (Records Manager) will confer with appropriate stakeholders and the City Attorney, as appropriate, before approving data sets for delivery through the City’s Open Data Portal. All data sets accessed through the open data portals are confined to public information and must not contain any protected data as defined herein.
+If the city is notified that data on this data portal is factually inaccurate or misleading, or is protected data, the Records Manager shall as appropriate, promptly correct or remove such data from the City's data portal.
+Primary Data Custodian
+Requests for delivery of City data sets via the City’s Open Data Portal shall be submitted to the City’s Records Manager as designated by the City Clerk for vetting and approval.
+Enforcement
+Any data sets appearing on the City’s Open Data Portal that are not approved by the City’s Records Manager will be removed until the data is properly vetted. 
+Definitions
+California Public Records Act (CPRA)
+The California Public Records Act (California Government Code Section 6250 et seq provides for public access to governmental records, upon request, unless there is a legal basis not to disclose the records.
+Chief Information Officer (CIO)
+The Chief Information Officer is the Information Technology Department Director or designee and coordinates initiatives to improve City decision making and management by providing the Charter Officers with appropriate data analysis tools.
+Data
+Data means final versions of statistical or factual information that:
+is in alphanumeric form reflected in a list, table, graph, chart or other nonnarrative form, that can be digitally transmitted or processed; and
+is regularly created or maintained by or on behalf of the City and is controlled by the City; and
+records a measurement, transaction or determination related to the mission of the City.
+The term “data” shall not include image files, such as designs, drawings, photos or scanned copies of original documents; provided, however, that the term “data” shall include statistical or factual information about image files and geographic information system (GIS) data.
+Data Set
+Data Sets are named collections of related records, with the collection containing data organized or formatted in a specific or prescribed way, often in tabular form, and accessed by a specific method that is based on the data set organization.
+Derivative Work
+Any work that is based in any manner or to any extent upon the Data, including, without limitation, any work that uses the Data in a modified form.
+Open Data Coordinator
+Open data coordinator means the person designated by a City department to coordinate data for release through the City’s open data portal, typically the records coordinator.
+Open Data Portal
+The Open Data Portal is the Internet site established and maintained by or on behalf of the City, located at www.data.CityofSacramento.org or its successor website.
+Protected Data
+Protected data is data or data set, or portion thereof, that is confidential, privileged, or otherwise exempt from disclosure to the California Public Records Act or any other law, rule or regulation.
+Public Data
+Public data is any data, or data set published via the Open Data Portal
+Records Manager
+The Sacramento City Charter appoints the City Clerk as the keeper of all City records. The City Clerk designates the City’s Records Manager to coordinate the compliance and expansion of the City’s Open Data Policy. The Records Manager facilitates the sharing of information between City departments. 
+User
+The individual who downloads and uses the Data, including the Derivative Work.
+Policy
+Providing Available Data 
+The City of Sacramento (City) is committed to creating an unprecedented level of transparency, honesty and accountability to the public.
+Timely and consistent publication of public information and data is an essential component of an open and effective government.
+Interactive mechanisms that enable the public to provide feedback to the City through Social Media on the quality of its published information enable the City to respond to the feedback it receives.
+The timely online publication of public data empowers Sacramento’s residents by providing them with information facilitating participation in local government in a meaningful manner.
+Access to information allows the public and businesses to assist in identifying possible solutions to pressing governmental problems, and to promote innovative strategies for social progress and economic growth.
+The City’s Records Manager and Chief Information Officer are uniquely qualified to facilitate expanded public access to information to make that information easily available online in a machine-readable, open format that can be easily retrieved, downloaded, indexed, sorted and searched utilizing readily available Web search applications and software.
+Each City department shall, to the extent practicable, and in consultation with the City’s Records Manager, make available online, through the open data portal, at a level of acceptable granularity appropriate data sets and associated metadata under their control. No protected data will be released.
+For purposes of identifying data sets for inclusion on the Open Data Portal, each department shall consider whether the information embodied in the data set:
+is identified in the City’s Record Retention Schedule;
+is appropriate for public release;
+is frequently the subject of a written request for public records of the type that a public body is required to make available for inspection or copying under California Public Records Act;
+increases accountability, efficiency, responsiveness or delivery of services;
+improves public knowledge of the City and its operations;
+furthers the City’s mission;
+creates economic opportunity; and
+is not a Protected Data set.
+All departments shall make reasonable and appropriate efforts to update its public data on a regular basis to the extent that the City regularly maintains or updates its data sets. 
+Open Data Coordinator
+Each department director shall designate an Open Data coordinator to assist the department in implementing the City’s Open Data Policy, which includes;
+serving on the open data advisory group;
+meeting with the open data advisory group to discuss matters pertaining to open data, as needed; and
+assisting in the preparation of the annual open data compliance reports.
+City of Sacramento Open Data Portal
+A single web portal (SacCityData) shall be:
+established and maintained by or on behalf of the City of Sacramento;
+administered by Department of Information Technology; and
+located at www.data.cityofsacramento.org or its successor website.
+Any data set made accessible on the City’s Open Data Portal shall: 
+use a format that permits automated processing of such data; and
+be accessible to external search capabilities.
+Protected Data shall not be posted to the City's Open Data Portal.
+The open data portal will be maintained by the Department of Information Technology who shall:
+collaborate with the City’s Record Manager and the City Attorney as appropriate, to determine appropriate data sets for release on the Open Data Portal; and
+catalogue and post on the Open Data Portal a list of all data sets available on the Portal.
+Open Data Advisory Group
+The Open Data Advisory group shall: 
+be chaired by the Records Manager;
+include Open Data Coordinators from all City departments;
+assist in the creation of the annual Open Data Compliance Report;
+coordinate implementation, compliance and expansion of the City’s Open Data Policy;
+facilitate the sharing of information between City departments; and
+coordinate initiatives to improve City decision making and management through data analysis.
+Open Data Compliance Report
+Annually, the Records Manager shall submit to the City Manager an annual Open Data Compliance Report prepared with the assistance of the Open Data Advisory Group. This report shall:
+establish, on a department specific basis, reasonable timelines, implementation plans and review processes to promote, over time and in steadily graduated fashion to increase online public access to City department data sets that are appropriate for online disclosure and that protect against online disclosure of Protected Data; and
+summarize and comment on the state of open data and data set availability in City departments.
+Disclosures/Disclaimers
+The City’s Open Data Portal will clearly display the following Disclaimers:
+Public data made available on the Open Data Portal are provided for on an "as is" basis and informational purposes only. The City makes no warranty, representation, or guaranty of any type as to the completeness, accuracy, content or fitness for any particular purpose or use of any public data set made available on the City’s Open Data Portal, nor shall any warranties be implied with respect to the data provided. 
+The City is not liable for any errors, omissions, or inaccuracies in the data provided on the City's Open Data Portal, regardless of how caused; or any decision made or action taken or not taken by anyone using or relying upon such data; or any damage to any computer that might occur during or as a result of accessing such Portal or the data provided therein; or any other act identified in any disclaimer of liability, indemnification provision, any other provision set forth herein or in the Terms of Use.
+The use of the City's Open Data Portal and all public data available through such Portal shall be subject to Terms of Use posted on the data portal.
+The City reserves the right to discontinue availability of content on the City's Open Data Portal at any time and for any reason. The City reserves the right to claim or seek to protect any patent, copyright, trademark, or other intellectual property rights in any of the data, information, images, software, or processes displayed through the City's Open Data Portal.
+The following steps identify the actions required before data sets are released for publication by the City’s open data portal. This review and approval process is intended to facilitate the release of public data in accordance with the City's Open Data Policy.
+
+Who
+Action
+Requestor
+Complete the Open Data Review and Approval Form
+Attach a digital Data Set sampling to the Open Data Review and Approval Form
+Requestor
+Email Open Data Review and Approval Form to Clerk-Records@cityofsacramento.org with Email Subject: OPEN DATA REVIEW and APPROVAL
+Clerk-Records
+Review Open Data Review and Approval Form
+Review Sample Data Set for protected data
+Consult with City Attorney, if appropriate
+Consult with IT Open Data coordinator, if appropriate
+Clerk-Records
+If Data Set is approved, forward Open Data Review and Approval Form to:
+-IT Open Data Coordinator,
+-Requestor
+If Data Set NOT approved, forward Open Data Review and Approval Form to Requestor with a clear explanation of the reason for not publishing the Data Set via the City’s Open Data Portal.
+Requestor
+If Data Set is approved, provide IT Open Data Coordinator with Data Set access
+
+Open Data Terms of Use
+Introduction
+The City of Sacramento, California (the “City”) will make a variety of publicly available data sets (the “Data”), which are provided for informational purposes only and made available for download through the City of Sacramento, California website (data.cityofsacramento.org). The City grants any interested user (the “User”) access to and use of the Data subject to the City’s Open Data Terms of Use (the “Terms”) and applicable laws. The Terms, constituting a binding agreement between the City and the User, govern and control the User’s right to access and use the Data, including any Derivative Work.
+Acceptance
+The User must accept and agree to the Terms in order to access and use the Data. The User accepts and agrees to the Terms by machine-consuming, or downloading and using the Data, which signifies the User’s express or implicit acceptance of the Terms at that point in time.
+The User represents that he/she has the legal capacity and authority to accept the Terms. If the User accepts the Terms on behalf of a third party (for example, another individual, an employer, or entity), the User represents and warrants that he/she has the legal capacity and due authority to act on behalf of the third party and obligate the third party and himself/herself to comply with the Terms.
+The User acknowledges and agrees that there may be additional terms and conditions that are embedded or otherwise stated in any file, containing the Data, or on the page from which the Data is accessed, which the User accesses and uses; those terms and conditions will be considered a part of the Terms, as they are deemed incorporated in the Terms. 
+Definitions
+Data means final versions of statistical or factual information that
+is in alphanumeric form reflected in a list, table, graph, chart or other nonnarrative form, that can be digitally transmitted or processed; and
+is regularly created or maintained by or on behalf of the City and is controlled by the City; and
+records a measurement, transaction or determination related to the mission of the City.
+The term “data” shall not include image files, such as designs, drawings, photos or scanned copies of original documents; provided, however, that the term “data” shall include statistical or factual information about image files and geographic information system (GIS) data.
+Derivative Work refers to any work that is based in any manner or to any extent upon the Data, including, without limitation, any work that uses the Data in a modified form.
+User means the individual who accesses and/or uses the Data, including the Derivative Work from the City's Open Data Portal at www.data.CityofSacramento.org.
+Reservation of Rights
+The City reserves the right to discontinue availability of content on this website at any time and for any reason. The City reserves the right to claim or seek to protect any patent, copyright, trademark, or other intellectual property rights in any of the information, images, software, or processes displayed or used at this website.
+If the City claims or seeks to protect any patent, copyright, or other intellectual property right(s) in the Data, including the Derivative Work, the City’s website will indicate on the webpage on or from which such Data or Derivative Work are accessed. The Terms do not grant to the User any right, title or interest in or to any patent, copyright, or intellectual property right(s) that the City and/or any third party may have in the Data, including the Derivative Work.
+Warranty Disclaimer
+The Data, including the Derivative Work, may contain statistical or factual information that the City and/or any third party has/have compiled and processed.
+The User acknowledges, understands and agrees that the information in the Data, including the Derivative Work, may be incomplete and/or inaccurate and thus may not be relied upon by the User without the User’s independent verification. The User uses the Data, including the Derivative Work, at his/her own risk. 
+The City makes no warranty, representation or guaranty as to the content, accuracy, timeliness, or completeness of any of the data provided at this website. The City disclaims any responsibility for any defect, deficiency, inaccuracy or incompleteness in or of the Data, including the Derivative Work. The Data, including the Derivative Work, are made available on an “as is” and “as available” basis without any express or implied warranty, including, without limitation, the implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+Limitation of Liability
+The City shall not be liable for: 1) any errors, omissions, or inaccuracies in the Data or Derivative Work provided at this website regardless how caused; and 2) any decision made or action taken or not taken by anyone using or relying upon Data or Derivative Work provided at this website. 
+The City, its officials, officers, and employees will not be liable for any direct, indirect, incidental, consequential or special damages (including, without limitation, loss of use, time or data, inconvenience, commercial loss, lost profits or savings, or the cost of computer equipment and software), arising out of or related to the City's Data Portal, Data or Derivative Work, to the full extent that liability may be disclaimed by law. 
+This limitation of City liability applies to a third party claim against the User. The City is not liable for any damage to any computer that might occur during or as a result of accessing this website or the Data or Derivative Work therein. 
+Indemnity
+To the full extent permitted by law, the User will indemnify, defend at his/her sole cost and expense, and hold harmless the City, its officials, officers, and employees from and against any claim, injury, liability, loss or damage of any kind, nature and description (including, without limitation, incidental and consequential damages, court cost, attorney’s fees and costs of investigation), that may arise, directly or indirectly, in whole or in part, from the User’s download of and use of the Data, including the Derivative Work. The User’s obligation to indemnify, defend and hold harmless the City arises, even if the claim may be groundless, false or fraudulent; the obligation will arise at the time the City tenders the claim to the User and continues at all times thereafter.
+Miscellaneous Provisions
+The Terms represent the entire understanding and agreement regarding the User’s access and use of the Data, including the Derivative Work. 
+The Terms are governed by and interpreted by the laws of the State of California without regard to any of its conflict of law’s provisions. 
+Any dispute regarding the Terms will be resolved and settled by informal mediation or, if mediation should fail, by litigation. Any action at law or in equity will be commenced in a federal or state court located in the County of Sacramento, California; the User and the City consent to the venue and jurisdiction of such courts when the User expressly or impliedly accepts the Terms. 
+The City may modify the Terms at any time and post notice of the Terms’ modification(s) to the City’s website; the modification(s) will take effect immediately upon posting. 
+The waiver of any default or breach will not constitute a waiver of any other right under the Terms or of any subsequent breach or default. If the City does not exercise or enforce any legal right or remedy the City’s inaction will not be considered a formal waiver of the City’s rights. The City’s waiver of any of the Terms will be effective only if the waiver is made, in writing, and signed by the City’s duly authorized representative. 
+If any of the Terms is determined to be invalid by a court of competent jurisdiction, then the remaining provisions will nevertheless remain in full force and effect. 
