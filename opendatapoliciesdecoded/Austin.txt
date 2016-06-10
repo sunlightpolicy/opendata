@@ -1,5 +1,18 @@
+<!-- Austin, TX 2013 -->
+<!-- Open Data Policies for Sunlight Foundation -->
+<!-- StateDecoded XML Examples
+http://docs.statedecoded.com/xml-format.html-->
 
-Austin, TX
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="section" identifier="amherstny2014" level="1"></unit>
+    </structure>
+    <section_number>"austintx2013</section_number> <!--citystateyear, no spaces-->
+    <catch_line>Austin, TX (2013)</catch_line>
+    <text>
+<!--insert text of the policy below this line  -->
+
 SUBJECT: City of Austin Open Government Directive
 The City of Austin is fully committed to transparency, efficiency, collaboration, and an Open Government. As such, the City Manager and staff are developing new and innovative strategies to engage our city's talented high-tech community and to make our internal processes more effective.
 Per Council Resolution No. 20111208-074, Council directed that the City Manager develop an Open Government Framework to address the following:
@@ -94,6 +107,11 @@ Emerging technologies open new forms of communication between government and the
 a.   	Identification of Barriers, Guidance, and Revisions: Within 120 days, the City Attorney, in consultation with the City's Chief Information Officer, will review existing The City of Austin policies to identify impediments to open government and to the use of new technologies and, where necessary, issue clarifying guidance and/or propose revisions to such policies, to promote greater openness in government.
 b.   	Publication of Guidance and Proposed Policy Changes: Any clarifying guidance and/or proposed policies related to this Open Government Directive will be available through the City's Open Government Web page.
 
+
+<history>
+    <!-- put Notes/resolution/executive order/refernces history in this area. (Adopted on, council votes, date passed etc) --> 
+
+Date Enacted: 8/26/2013
 Notes:
 [1]    The timely and consistent publication of government information is of critical importance to the use of that information. Adherence to a publication schedule is critical to the success of this open government mandate. It is not enough to simply publish information without managing that information. Therefore, it is important that the mayor or another executive leader or leaders to review the resources necessary to manage the on-going publication effort, but the directive should not eliminate the schedule as part of a publication plan.
 [2]    Paragraph c is intended to embody the underlying intent of Freedom of Information/Open Records laws in that information held and maintained by the government is public information. As such, the default setting must be to release information and publication should only be withheld if a valid privacy, security, or privilege exists. A valid privacy, security, or privilege concerns include, but are not limited to, personal identifying information, critical infrastructure information, information related to an on­going criminal investigation, or any publication that may breach an individual or groups legal rights. If the local government chooses to withhold information from publication that government entity should provide the public with a reasonably detailed explanation for withholding the information. Such explanation should be created to foster trust and instill transparency in the publication process. Furthermore, in order to provide consistent application the City's council should provide detailed guidelines regarding the limited publication exemptions.
@@ -104,3 +122,15 @@ Notes:
 Sources:
 Open Data Handbook (http://opendatahandbook.org/en/)
 Open Government Initiative (http://opengovernmentinitiative.org/)
+</history>
+    <!--<metadata></metadata>-->
+    <tags>
+        <!-- Tag if this juristiction is a city state, etc --> 
+        <tag>city</tag>
+        <!-- <tag>state</tag> --> 
+        <!-- <tag>county</tag> -->
+        <!-- <tag>executive order</tag> --> 
+        
+    </tags>
+    </text>
+</law>
