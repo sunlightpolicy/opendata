@@ -5,10 +5,10 @@ http://docs.statedecoded.com/xml-format.html-->
 <?xml version="1.0" encoding="utf-8"?>
 <law>
     <structure>
-        <unit label="section" identifier="AmherstNY" level="1">Austin, TX</unit> <!--identifier is City Name + State.  cannot have spaces or commas. Unit Label = "section" -->
+        <unit label="section" identifier="AustinTX" level="1">Austin, TX</unit> <!--identifier is City Name + State.  cannot have spaces or commas. Unit Label = "section" -->
     </structure>
-    <section_number>Resolution (2014)</section_number> <!--Short Description. (Resolution, Policy, Press Release Year) less than 16 characters -->
-    <catch_line>Amherst, NY Open Data Resolution (2014) </catch_line> <!--Longer Description -->
+    <section_number>Admin Dir (2013)</section_number> <!--Short Description. (Resolution, Policy, Press Release Year) less than 16 characters -->
+    <catch_line>City of Austin Open Government Directive (2013) </catch_line> <!--Longer Description -->
     <text>
 <!--insert text of the policy below this line  -->
 
