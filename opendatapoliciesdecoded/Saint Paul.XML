@@ -7,8 +7,8 @@
     <structure>
         <unit label="section" identifier="saintpaulmn" level="1">Saint Paul,MN</unit>
     </structure>
-    <section_number>Saint Paul,MN(27)</section_number> <!--citystateyear, no spaces-->
-    <catch_line>Council Resolution (27)</catch_line>
+    <section_number>Saint Paul,MN(2016)</section_number> <!--citystateyear, no spaces-->
+    <catch_line>Council Resolution (2016)</catch_line>
     <text>
 <!--insert text of the policy below this line  -->
 
@@ -42,7 +42,7 @@
 <history>
 <!-- put Notes/resolution/executive order/refernces history in this area. (Adopted on, council votes, date passed etc) --> 
 
-Enacted:  27; Link: https://stpaul.legistar.com/LegislationDetail.aspx?ID=2694471&GUID=B20D0CAD-629F-432E-8396-250E17D0A04B&FullText=1; Means: Council Resolution 
+Enacted:  2016; Link: https://stpaul.legistar.com/LegislationDetail.aspx?ID=2694471&GUID=B20D0CAD-629F-432E-8396-250E17D0A04B&FullText=1; Means: Council Resolution 
 
 
 </history>

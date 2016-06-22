@@ -5,9 +5,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <law>
     <structure>
-        <unit label="section" identifier="south bendbend," level="1">South Bend, Bend, </unit>
+        <unit label="section" identifier="southbendIN," level="1">South Bend,IN </unit>
     </structure>
-    <section_number>South Bend, Bend, (2013)</section_number> <!--citystateyear, no spaces-->
+    <section_number>South Bend,IN (2013)</section_number> <!--citystateyear, no spaces-->
     <catch_line>Executive Order (2013)</catch_line>
     <text>
 <!--insert text of the policy below this line  -->
