@@ -1,0 +1,36 @@
+<!-- Amherst, NY 2014 -->
+<!-- Open Data Policies for Sunlight Foundation -->
+<!-- StateDecoded XML Examples: http://docs.statedecoded.com/xml-format.html-->
+
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+    <structure>
+        <unit label="section" identifier="amherstny" level="1">Amherst, NY </unit>
+    </structure>
+    <section_number>Amherst, NY (2014)</section_number> <!--citystateyear, no spaces-->
+    <catch_line>Legislation (2014)</catch_line>
+    <text>
+<!--insert text of the policy below this line  -->
+
+<p>Austin, TX</p> <p>Boston, MA</p> <p>Bloomington, IL</p> <p>Cambridge, MA</p> <p>Charlotte, NC</p> <p>Chattanooga, TN</p> <p>Chicago, IL</p> <p>Cincinnati, OH</p> <p>Denton, TX</p> <p>Detroit, MI</p> <p>Hartford, CT</p> <p>Honolulu, HI</p> <p>Houston, TX</p> <p>Jackson, MS</p> <p>Kansas City, MO</p> <p>Las Vegas, NV</p> <p>Lexington, KY</p> <p>Little Rock, AR</p> <p>Los Angeles, CA</p> <p>Louisville, KY</p> <p>Madison, WI</p> <p>Memphis, TN</p> <p>Mesa, AZ</p> <p>Minneapolis, MN</p> <p>New York, NY</p> <p>Oakland, CA</p> <p>Philadelphia, PA</p> <p>Pittsburgh, PA</p> <p>Portland, OR</p> <p>Providence, RI</p> <p>Raleigh, NC</p> <p>Sacramento, CA</p> <p>Saint Paul, MN</p> <p>Salt Lake City, UT</p> <p>San Diego, CA</p> <p>San Francisco, CA</p> <p>San Jose, CA</p> <p>Seattle, WA</p> <p>Seattle, WA</p> <p>South Bend, IN</p> <p>Tacoma, WA</p> <p>Tulsa, OK</p> <p>Victorville, CA</p> <p>Waco, TX</p> <p>Washington, DC</p> <p>West Sacramento, CA</p> <p>Williamsville, NY</p> <p>Portland, OR</p> <p>Williamsville, NY</p> <p>Charlotte, NC</p> <p>Raleigh, NC</p> <p>Hartford, CT</p> <p>Cambridge, MA</p> <p>Providence, RI</p> <p>Boston, MA</p> <p>Jackson, MS</p> <p>Tulsa, OK</p> <p>Kansas City, MO</p> <p>Mesa, AZ</p> <p>Austin, TX </p> <p>Cincinnati, OH</p> <p>Waco, TX</p> <p>West Sacramento, CA</p> <p>Salt Lake City, UT</p> <p>Tacoma, WA</p> <p>Sacramento, CA</p> <p>Minneapolis, MN</p> <p>Seattle, WA</p> <p>Las Vegas, NV</p> <p>Bloomington, IL</p> <p>Houston, TX</p> <p></p>
+
+</text>
+
+<history>
+<!-- put Notes/resolution/executive order/refernces history in this area. (Adopted on, council votes, date passed etc) --> 
+
+Enacted: Enacted: 2014; Link: http://amherstny.iqm2.com/Citizens/FileOpen.aspx?Type=12&ID=1239&Inline=True; Means: Legislation
+
+
+</history>
+    <!--<metadata></metadata>-->
+    <tags>
+        <!-- Tag if this juristiction is a city state, etc --> 
+        <tag>city</tag>
+        <!-- <tag>state</tag> --> 
+        <!-- <tag>county</tag> -->
+        <!-- <tag>executive order</tag> --> 
+        
+    </tags>
+    </text>
+</law>
