@@ -5,10 +5,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <law>
     <structure>
-        <unit label="section" identifier="san franciscofrancisco," level="1">San Francisco, Francisco, </unit>
+        <unit label="section" identifier="sanfranciscoca" level="1">San Francisco, CA</unit>
     </structure>
-    <section_number>San Francisco, Francisco, (2013 [newest])</section_number> <!--citystateyear, no spaces-->
-    <catch_line>Legislation (first version was an EO) (2013 [newest])</catch_line>
+    <section_number>San Francisco,CA (2013 [newest])</section_number> <!--citystateyear, no spaces-->
+    <catch_line>Legislation (2013)</catch_line>
     <text>
 <!--insert text of the policy below this line  -->
 
