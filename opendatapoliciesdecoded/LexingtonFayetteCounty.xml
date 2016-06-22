@@ -5,10 +5,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <law>
     <structure>
-        <unit label="section" identifier="lexington-fayette countycounty," level="1">Lexington-Fayette County, County, </unit>
+        <unit label="section" identifier="lexington-fayette countycounty," level="1">Lexington-Fayette County, KY </unit>
     </structure>
-    <section_number>Lexington-Fayette County, County, (2011)</section_number> <!--citystateyear, no spaces-->
-    <catch_line>nan (2011)</catch_line>
+    <section_number>Lexington-Fayette County, KY (2011)</section_number> <!--citystateyear, no spaces-->
+    <catch_line>Resolution (2011)</catch_line>
     <text>
 <!--insert text of the policy below this line  -->
 
@@ -18,19 +18,14 @@
 
 <history>
 <!-- put Notes/resolution/executive order/refernces history in this area. (Adopted on, council votes, date passed etc) --> 
-
-Enacted: Enacted: 2011; Link: http://www.lexingtonky.gov/Modules/ShowDocument.aspx?documentid=16343; Means: nan
-
-
+Enacted: 2011; Link: http://www.lexingtonky.gov/Modules/ShowDocument.aspx?documentid=16343; Means: Resolution
 </history>
     <!--<metadata></metadata>-->
     <tags>
         <!-- Tag if this juristiction is a city state, etc --> 
-        <tag>city</tag>
         <!-- <tag>state</tag> --> 
-        <!-- <tag>county</tag> -->
+        <tag>county</tag>
         <!-- <tag>executive order</tag> --> 
-        
     </tags>
     </text>
 </law>
