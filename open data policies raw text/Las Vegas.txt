@@ -45,29 +45,3 @@ D. The Open Data Portal and all public data published on the portal shall be sub
 Section 4: Open Data Report and Review
 A. The Open Data Steering Committee shall submit an annual Open Data Report to the City Council by March 31 of each year, beginning in 201 7 . The report shall include an assessment of progress towards achievement of the goals of the City's Open Data Initiative, an assessment of the current scope of department compliance, a list of datasets currently available on the Open Data Portal , and a description and publication timeline for datasets envisioned to be published on the portal in the following year.
 B. During the review and reporting period, the Open Data Steering Committee should also make suggestions for improving the City's open data management processes to ensure that the City continues to move towards the achievement of the policy's goals.
-
-Seattle, WA
-Office of the Mayor
-City of Seattle
-Edward B. Murray, Mayor 
-Executive Order 2016-01: Directing departments to comply with the new Open Data Policy, directing all City data to be open by preference. 
-This Executive Order calls for all City data to be "open by preference" — meaning City departments will make their data accessible to the public, after screening for privacy and security considerations.
-WHEREAS, the City of Seattle strives to be a "Smart City" that engages its public in identifying and creating data-driven solutions to improve life in our City; 
-WHEREAS, the City is committed to the spirit of open government, building upon existing open records laws, including the Washington state Public Records Act (RCW 42.56), and expanding the data it makes available to the public and tools such as Performance Seattle and Open Budget Seattle for understanding this data; 
-WHEREAS, proactively making data generated through the course of the City's operations available and within reach of the public online, for its reuse and consumption, creates value for our residents, government leaders, businesses, researches, and the media; 
-WHEREAS, the City of Seattle's Open Data Program, launched in 2010 with the data.seattle.gov portal, allows critical information to reach decision-makers, resulting in a real impact on the public, and provides our government with tools to make more informed decisions; 
-WHEREAS, the Open Data Program supports my vision for Seattle to be an interconnected city that fosters innovation by increasing quality of life for our residents; increasing transparency, accountability, and comparability; promoting economic development and research; and improving internal performance; 
-WHEREAS, the Open Data program is crucial to evaluating equity outcomes in our city and improving the City's relationship with underserved communities; 
-WHEREAS, the City is committed to helping the public derive value from the City's data by soliciting feedback, holding events, and partnering with academic institutions, companies, and community organizations; 
-WHEREAS, the City has created a privacy program to earn the public's trust in how we collect and use their information and established a set of principles to help guide decisions about how we open data in a way that does not create privacy harms;
-WHEREAS, the Open Data Program promotes improvements to data quality and governance, including an improved understanding of the relationships between data privacy, security, and open data;
-NOW, THEREFORE, I, EDWARD B. MURRAY, Mayor of Seattle, hereby order City departments and offices to make data available to the public, in a manner that encourages innovative solutions and community engagement, by actively supporting and participating in the Open Data Program.
-Departments shall implement and observe the City of Seattle Open Data Policy, maintained by the Department of Information Technology, or its successor, to ensure the consistent publication of data and engagement with the public in this important initiative. Specifically, departments are to:
-·        Make the City's data holdings open by preference (Policy section 1)
-·        Establish department accountability for open data activities, including the appointment of a department Open Data Champion (Policy section 2)
-·        Institutionalize the publishing of open data (Policy section 3)
-·        Participate in the administration and operation of the Open Data Program (Policy section 4)
-·        Engage open data stakeholders including members of the public, City departments and offices, civic technologists, and parties acting on the City's behalf (Policy section 5)
-All City offices and departments shall fully implement the policy, with assistance from the Open Data Program, by December 2016.
-Inquiries by City departments and offices regarding this Executive Order should be directed to Chief Technology Officer Michael Mattmiller at (206) 233-7937.
-Dated this 27 day of February, 2016.
