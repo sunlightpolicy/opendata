@@ -1,1 +1,1 @@
-
+This folder holds the raw text for open data policies collected from around the United States. 
