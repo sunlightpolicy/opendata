@@ -40,3 +40,11 @@ Type:
 * Other State Related
 * US City GIS 
 * US State GIS 
+
+
+# GeoJSON Data/File  
+
+## Validate GeoJSON Prior to Commiting Your Work    
+[GeoJSON Lint](http://geojsonlint.com/) is a web service that will validate GeoJSON files; Simply copy and paste the contents of the file into the site's <code>textarea</code> section, and click the "Test GeoJSON" button below.  
+If you have errors, you'll be alerted via modals, pointing to the code line with an explanation.  
+Correct the errors until the file passes the linting process; you'll know this happens when the map automatically loads the contents of the GeoJSON file.
