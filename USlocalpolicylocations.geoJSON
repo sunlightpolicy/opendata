@@ -77976,6 +77976,44 @@
           47.6038962
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "09/01/2016",
+        "Legal Means": "Executive Order",
+        "Policy URL": "http://www.nola.gov/mayor/press-releases/2016/20160801-pr-mayor-signs-executive-order-on-open-da/",
+        "State": "LA",
+        "State Name": "Louisiana",
+        "City": "New Orleans",
+        "WWC": "True"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0715,
+          29.9511
+        ]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "Date": "08/31/2016",
+        "Legal Means": "Resolution",
+        "Policy URL": "http://www.scottsdaleaz.gov/Asset67096.aspx",
+        "State": "AZ",
+        "State Name": "Arizona",
+        "City": "Scottsdale",
+        "WWC": "True"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9261,
+          33.4942
+        ]
+      }
     }
   ]
 }
