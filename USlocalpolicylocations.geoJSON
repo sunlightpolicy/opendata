@@ -77996,7 +77996,7 @@
         ]
       }
     },
-        {
+    {
       "type": "Feature",
       "properties": {
         "Date": "08/31/2016",
@@ -78012,6 +78012,44 @@
         "coordinates": [
           -111.9261,
           33.4942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "09/08/2016",
+        "Legal Means": "Administrative Regulation",
+        "Policy URL": "https://www.wichita.gov/Government/Departments/IT/ITDocuments/AR%208.4%20IT%20Open%20Data%20Policy.pdf",
+        "State": "KS",
+        "State Name": "Kansas",
+        "City": "Wichita",
+        "WWC": "True"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3301,
+          37.6872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "08/08/2016",
+        "Legal Means": "Resolution",
+        "Policy URL": "https://lincoln.ne.gov/city/council/agenda/2016/080816/16r180.pdf",
+        "State": "NE",
+        "State Name": "Nebraska",
+        "City": "Lincoln",
+        "WWC": "True"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6852,
+          40.8258
         ]
       }
     }
