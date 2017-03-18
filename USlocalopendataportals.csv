@@ -81,8 +81,8 @@ Michigan,MI,9876187,Government,No,http://www.michigan.gov/data/,US State
 Minnesota,MN,5344861,Government,No,http://mn.gov/portal/,US State
 Minnesota,MN,5344861,Government,No,http://www.mmb.state.mn.us/tap,US State
 Mississippi,MS,2978512,Government,No,http://www.transparency.mississippi.gov,US State
-Missouri,MS,6010688,Government,No,https://data.mo.gov,US State 
-Missouri [Accountability Portal],MS,6010688,Government,No,http://mapyourtaxes.mo.gov/MAP/Portal/Default.aspx,Other State Related
+Missouri,MO,6010688,Government,No,https://data.mo.gov,US State 
+Missouri [Accountability Portal],MO,6010688,Government,No,https://mapyourtaxes.mo.gov/MAP/Portal/Default.aspx,Other State Related
 Montana,MT,998199,Government,No,http://transparency.mt.gov,US State
 Montgomery County,MD,455761,Government,Yes,https://data.montgomerycountymd.gov/,US County
 Nebraska,NB,1842641,Government,No,http://www.nebraska.gov/data/,US State
@@ -103,7 +103,7 @@ New York [Health Data],NY,19465197,Government,Yes,https://health.data.ny.gov,Oth
 New York [State Data Center],NY,19465197,Government,Yes,http://esd.ny.gov/NYSDataCenter.html,Other State Related
 New York [State Senate],NY,19465197,Government,Yes,http://www.nysenate.gov/opendata/,Other State Related
 New York City,NY,8244910,Government,Yes,https://www.opendatanyc.com,US City
-Newark,NJ,277540,Goverment,No,http://newarknj.patch.com/groups/politics-and-elections/p/city-of-newark-rolls-out-test-version-of-new-web-site,US City
+Newark,NJ,277540,Government,No,http://newarknj.patch.com/groups/politics-and-elections/p/city-of-newark-rolls-out-test-version-of-new-web-site,US City
 Norfolk,VA,245782,Public,No,http://data.codeforhamptonroads.org/organization/city-of-norfolk,US City
 North Carolina,NC,9656401,Government,No,http://www.ncopenbook.gov,US State
 North Carolina [OpenBook],NC,9656401,Government,No,http://www.ncopenbook.gov/NCOpenBook/,US State
